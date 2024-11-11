@@ -1,0 +1,2001 @@
+Years_in_CS,Programming_Languages,Frameworks,Databases,DevOps_Tools,Networking_Experience,Cybersecurity_Experience,AI_Data_Science_Experience,Current_Role,Happy_in_Current_Role,Current_Role_Difficulty
+None,Rust,.NET Core,CassandraDB,Git,Yes,Yes,No,Systems Analyst,No,No
+1-3 years,C,CryEngine,Other (please specify),Other (please specify),Yes,Yes,Yes,Mobile Developer,Yes,Yes
+Less than 1 year,Ruby,OpenVAS,OracleDB,CircleCI,No,Yes,Yes,Cybersecurity Analyst,No,No
+None,C#,Kali Linux,PostgreSQL,Terraform,Yes,Yes,Yes,Data Scientist,No,Yes
+More than 5 years,PHP,Next.js,CassandraDB,Azure,No,Yes,No,DevOps Engineer,No,No
+1-3 years,Swift,Wireshark,Microsoft SQL Server,Jenkins,Yes,No,No,Front-End Developer,No,Yes
+3-5 years,Swift,WPF,MySQL,Ansible,Yes,No,Yes,Network Engineer,Yes,Yes
+3-5 years,Kotlin,Xamarin,SQLite,Nginx,Yes,No,Yes,IT Support Specialist,No,No
+1-3 years,Ruby,Scikit-Learn,SQLite,Kubernetes,Yes,No,No,Mobile Developer,No,No
+None,PHP,React Native,MySQL,Git,Yes,No,No,IT Support Specialist,Yes,Yes
+Less than 1 year,Dart,Flask,Other (please specify),Other (please specify),Yes,No,No,Product Manager,Yes,No
+More than 5 years,TypeScript,Express.js,MongoDB,Git,Yes,Yes,Yes,Software Engineer,Yes,No
+1-3 years,TypeScript,Dask,PostgreSQL,GitLab CI/CD,Yes,Yes,No,DevOps Engineer,Yes,No
+Less than 1 year,C#,Qt,Microsoft SQL Server,CircleCI,Yes,No,No,Game Developer,No,Yes
+None,Ruby,Pandas,Redis,Azure,Yes,Yes,No,Front-End Developer,No,No
+More than 5 years,Python,Snort,SQLite,GitLab CI/CD,Yes,Yes,Yes,Systems Analyst,Yes,No
+None,JavaScript,Wireshark,SQLite,DigitalOcean,No,No,No,Other (please specify),Yes,Yes
+Less than 1 year,None,Numpy,CassandraDB,Jenkins,Yes,No,Yes,Front-End Developer,Yes,Yes
+1-3 years,None,Wireshark,MongoDB,Terraform,Yes,Yes,Yes,AI Researcher,Yes,Yes
+More than 5 years,TypeScript,SwiftUI,Other (please specify),Travis CI,No,No,Yes,Project Manager,No,No
+1-3 years,None,Flutter,OracleDB,Terraform,Yes,Yes,No,Robotics Engineer,No,Yes
+Less than 1 year,Kotlin,Flask,Other (please specify),Git,No,Yes,No,Front-End Developer,No,Yes
+More than 5 years,TypeScript,Metasploit,PostgreSQL,Git,No,No,No,Other (please specify),No,No
+More than 5 years,TypeScript,Apache Spark,MongoDB,Jenkins,No,No,No,Full-Stack Developer,Yes,Yes
+Less than 1 year,C#,Express.js,Microsoft SQL Server,Google Cloud Platform,No,No,Yes,AI Researcher,No,No
+1-3 years,C++,TensorFlow,OracleDB,Git,No,Yes,Yes,Systems Analyst,No,Yes
+3-5 years,Ruby,GTK,Microsoft SQL Server,Nginx,Yes,No,Yes,Network Engineer,No,No
+3-5 years,Dart,Kali Linux,Other (please specify),Ansible,Yes,No,Yes,Full-Stack Developer,Yes,Yes
+More than 5 years,Java,GTK,Other (please specify),Apache,Yes,No,Yes,Full-Stack Developer,No,No
+1-3 years,C#,.NET Core,MongoDB,Ansible,No,No,Yes,Cybersecurity Analyst,No,No
+1-3 years,C++,Svelte,MongoDB,Git,Yes,No,No,Software Engineer,No,Yes
+1-3 years,Ruby,Metasploit,PostgreSQL,DigitalOcean,Yes,Yes,Yes,IT Support Specialist,No,No
+None,Dart,Snort,MongoDB,Git,No,No,Yes,Other (please specify),No,No
+Less than 1 year,C,Xamarin,Microsoft SQL Server,Ansible,No,No,Yes,Mobile Developer,No,No
+1-3 years,C++,Dask,MongoDB,Azure,Yes,No,Yes,Project Manager,No,No
+Less than 1 year,Other (please specify),Express.js,PostgreSQL,Ansible,Yes,Yes,Yes,Cloud Engineer,No,No
+Less than 1 year,TypeScript,Keras,MongoDB,Other (please specify),No,Yes,No,Systems Analyst,No,Yes
+More than 5 years,Kotlin,Metasploit,Other (please specify),Azure,Yes,Yes,Yes,Robotics Engineer,Yes,Yes
+3-5 years,C,GTK,MongoDB,Azure,Yes,No,No,Network Engineer,Yes,No
+More than 5 years,Ruby,.NET Core,Microsoft SQL Server,Nginx,No,No,Yes,Robotics Engineer,No,Yes
+None,TypeScript,SwiftUI,Other (please specify),Git,No,Yes,Yes,Software Engineer,No,No
+1-3 years,JavaScript,Vue.js,SQLite,Kubernetes,No,Yes,No,Back-End Developer,No,Yes
+None,Rust,Apache Spark,SQLite,Apache,Yes,Yes,No,Data Scientist,No,No
+1-3 years,Java,Kotlin Multiplatform Mobile (KMM),Redis,Travis CI,No,No,No,Front-End Developer,No,Yes
+3-5 years,None,React,MongoDB,GitLab CI/CD,Yes,Yes,Yes,Machine Learning Engineer,Yes,Yes
+Less than 1 year,Dart,Xamarin,MongoDB,Google Cloud Platform,Yes,No,Yes,Machine Learning Engineer,No,Yes
+3-5 years,Kotlin,Nestjs,Microsoft SQL Server,Terraform,No,Yes,Yes,Cloud Engineer,No,Yes
+3-5 years,Swift,PyTorch,CassandraDB,Apache,Yes,No,No,Full-Stack Developer,No,Yes
+3-5 years,PHP,Wireshark,Redis,Travis CI,Yes,Yes,Yes,Back-End Developer,Yes,No
+More than 5 years,Java,Vue.js,MySQL,Other (please specify),No,No,No,DevOps Engineer,Yes,Yes
+1-3 years,Kotlin,Dask,SQLite,CircleCI,No,No,No,Systems Analyst,Yes,Yes
+More than 5 years,C,Electron,Microsoft SQL Server,CircleCI,No,Yes,Yes,Machine Learning Engineer,Yes,Yes
+Less than 1 year,Rust,JavaFX,Redis,Other (please specify),Yes,No,Yes,Machine Learning Engineer,No,Yes
+3-5 years,PHP,Kali Linux,Other (please specify),Terraform,Yes,No,Yes,Product Manager,No,No
+None,JavaScript,Flutter,Microsoft SQL Server,Ansible,No,No,No,Machine Learning Engineer,No,Yes
+None,TypeScript,Angular,OracleDB,Ansible,No,No,No,DevOps Engineer,No,No
+None,Ruby,Pandas,OracleDB,Other (please specify),No,No,No,Back-End Developer,No,No
+Less than 1 year,C#,Next.js,Other (please specify),Jenkins,No,Yes,No,Cybersecurity Analyst,Yes,Yes
+None,Go,Keras,SQLite,Other (please specify),Yes,No,No,Cybersecurity Analyst,No,No
+3-5 years,Other (please specify),TensorFlow,PostgreSQL,DigitalOcean,Yes,No,No,IT Support Specialist,Yes,No
+Less than 1 year,Rust,Flask,Redis,Jenkins,No,Yes,No,Machine Learning Engineer,No,No
+3-5 years,C++,Flutter,SQLite,Nginx,Yes,No,No,Data Scientist,No,Yes
+3-5 years,Go,Numpy,SQLite,GitLab CI/CD,Yes,Yes,No,Machine Learning Engineer,No,Yes
+More than 5 years,Rust,OpenVAS,OracleDB,GitLab CI/CD,No,No,No,DevOps Engineer,Yes,Yes
+3-5 years,Other (please specify),PyTorch,Redis,DigitalOcean,Yes,No,Yes,Network Engineer,No,Yes
+Less than 1 year,C#,GTK,Redis,Docker,Yes,No,Yes,Database Administrator,No,No
+1-3 years,Ruby,Pandas,Microsoft SQL Server,Ansible,No,Yes,No,Cloud Engineer,No,Yes
+1-3 years,C++,Qt,Microsoft SQL Server,Kubernetes,Yes,Yes,No,Robotics Engineer,No,Yes
+More than 5 years,Swift,JavaFX,CassandraDB,Terraform,Yes,No,No,AI Researcher,No,Yes
+Less than 1 year,Dart,Flutter,MongoDB,Azure,No,Yes,No,Back-End Developer,No,Yes
+None,Other (please specify),Unity,Other (please specify),Google Cloud Platform,Yes,Yes,Yes,Network Engineer,Yes,Yes
+3-5 years,C++,Kotlin Multiplatform Mobile (KMM),Microsoft SQL Server,Ansible,No,No,Yes,Cloud Engineer,No,No
+Less than 1 year,C#,Flask,SQLite,Terraform,Yes,Yes,No,DevOps Engineer,No,Yes
+None,Other (please specify),Flask,SQLite,Other (please specify),Yes,Yes,Yes,AI Researcher,No,No
+1-3 years,Python,Snort,SQLite,Azure,No,Yes,No,Mobile Developer,No,No
+Less than 1 year,None,Vue.js,MySQL,Docker,No,No,No,Database Administrator,No,No
+3-5 years,C#,OpenVAS,OracleDB,Git,Yes,No,Yes,Mobile Developer,Yes,No
+3-5 years,TypeScript,SwiftUI,SQLite,DigitalOcean,No,No,No,Data Scientist,Yes,No
+3-5 years,Dart,Pandas,PostgreSQL,Nginx,No,Yes,No,Data Engineer,Yes,Yes
+None,C,Vue.js,MySQL,DigitalOcean,No,No,No,Robotics Engineer,Yes,No
+1-3 years,C#,Unity,Redis,Ansible,Yes,No,Yes,Database Administrator,No,Yes
+None,Kotlin,Scikit-Learn,OracleDB,CircleCI,No,Yes,Yes,Robotics Engineer,Yes,Yes
+Less than 1 year,Rust,Nestjs,SQLite,CircleCI,Yes,No,No,Robotics Engineer,No,No
+None,C#,Kali Linux,MySQL,AWS,No,Yes,No,Game Developer,No,No
+More than 5 years,Swift,Apache Spark,PostgreSQL,Git,No,Yes,No,Network Engineer,Yes,Yes
+None,None,Wireshark,OracleDB,Ansible,Yes,No,Yes,IT Support Specialist,Yes,Yes
+1-3 years,Other (please specify),Burp Suite,MySQL,CircleCI,Yes,No,Yes,Project Manager,Yes,Yes
+Less than 1 year,Dart,Electron,SQLite,Git,No,Yes,No,Data Scientist,Yes,Yes
+3-5 years,PHP,Flutter,Other (please specify),Google Cloud Platform,No,No,No,DevOps Engineer,Yes,Yes
+1-3 years,Rust,Unity,MongoDB,CircleCI,Yes,Yes,Yes,Back-End Developer,Yes,No
+1-3 years,C++,TensorFlow,MongoDB,AWS,Yes,Yes,No,Robotics Engineer,Yes,Yes
+None,Rust,Metasploit,SQLite,Terraform,No,Yes,No,Network Engineer,No,Yes
+None,C#,GTK,MongoDB,Jenkins,No,Yes,No,Cloud Engineer,No,Yes
+More than 5 years,None,React,Microsoft SQL Server,Nginx,Yes,No,Yes,Game Developer,No,Yes
+None,JavaScript,SwiftUI,OracleDB,Google Cloud Platform,No,Yes,Yes,Data Scientist,Yes,No
+3-5 years,C#,Unreal Engine,OracleDB,GitLab CI/CD,No,No,Yes,Back-End Developer,No,No
+More than 5 years,C++,Xamarin,MongoDB,DigitalOcean,Yes,No,Yes,Game Developer,No,Yes
+3-5 years,Python,Flutter,PostgreSQL,GitLab CI/CD,Yes,No,Yes,Project Manager,Yes,No
+3-5 years,Swift,Pandas,MySQL,Other (please specify),Yes,Yes,Yes,Other (please specify),Yes,No
+Less than 1 year,C,.NET Core,OracleDB,Jenkins,No,Yes,Yes,Project Manager,No,No
+1-3 years,PHP,OpenVAS,SQLite,Google Cloud Platform,Yes,Yes,No,Product Manager,Yes,Yes
+3-5 years,Rust,Burp Suite,Other (please specify),Terraform,Yes,No,Yes,Systems Analyst,Yes,No
+More than 5 years,PHP,Apache Spark,OracleDB,Travis CI,No,No,No,Cloud Engineer,Yes,No
+More than 5 years,C,Godot,SQLite,CircleCI,No,Yes,Yes,Front-End Developer,No,No
+More than 5 years,Dart,Ruby on Rails,Other (please specify),Other (please specify),No,No,No,Front-End Developer,Yes,Yes
+Less than 1 year,Java,Angular,Microsoft SQL Server,Google Cloud Platform,Yes,No,No,AI Researcher,No,Yes
+1-3 years,JavaScript,Pandas,MySQL,Other (please specify),No,Yes,Yes,DevOps Engineer,Yes,No
+1-3 years,Kotlin,Qt,PostgreSQL,Terraform,Yes,No,Yes,Software Engineer,Yes,Yes
+Less than 1 year,JavaScript,Scikit-Learn,Other (please specify),Azure,Yes,No,Yes,Database Administrator,No,No
+Less than 1 year,Other (please specify),Pandas,OracleDB,DigitalOcean,Yes,No,Yes,Robotics Engineer,No,Yes
+Less than 1 year,Rust,TensorFlow,MongoDB,Terraform,No,No,Yes,Data Engineer,No,No
+More than 5 years,Swift,Flutter,CassandraDB,AWS,Yes,Yes,Yes,Project Manager,Yes,Yes
+None,Rust,Next.js,PostgreSQL,Other (please specify),No,No,Yes,IT Support Specialist,Yes,No
+1-3 years,Go,Kotlin Multiplatform Mobile (KMM),Other (please specify),Ansible,No,No,No,DevOps Engineer,Yes,No
+Less than 1 year,Dart,Angular,MongoDB,Terraform,No,No,No,Software Engineer,No,No
+3-5 years,Ruby,TensorFlow,Other (please specify),Docker,No,Yes,No,Other (please specify),Yes,Yes
+More than 5 years,PHP,Svelte,MongoDB,Git,Yes,No,Yes,AI Researcher,No,Yes
+None,Dart,Godot,OracleDB,GitLab CI/CD,No,Yes,Yes,Cybersecurity Analyst,Yes,Yes
+3-5 years,Ruby,Qt,MongoDB,Kubernetes,No,No,Yes,Back-End Developer,Yes,Yes
+None,Ruby,TensorFlow,MySQL,Azure,No,No,Yes,Network Engineer,Yes,Yes
+More than 5 years,TypeScript,GTK,PostgreSQL,Kubernetes,Yes,Yes,No,Data Scientist,Yes,No
+None,C++,Xamarin,Microsoft SQL Server,Git,No,Yes,Yes,Network Engineer,No,No
+3-5 years,JavaScript,Qt,Other (please specify),Apache,Yes,No,Yes,Game Developer,Yes,Yes
+More than 5 years,PHP,JavaFX,MySQL,DigitalOcean,Yes,No,No,Machine Learning Engineer,Yes,No
+More than 5 years,Go,Apache Spark,SQLite,Google Cloud Platform,Yes,Yes,Yes,Network Engineer,No,No
+3-5 years,Python,Metasploit,CassandraDB,DigitalOcean,Yes,Yes,Yes,Database Administrator,Yes,No
+Less than 1 year,TypeScript,Apache Spark,SQLite,Ansible,No,Yes,Yes,Cybersecurity Analyst,Yes,Yes
+1-3 years,Ruby,Electron,Other (please specify),GitLab CI/CD,Yes,No,Yes,Product Manager,No,Yes
+1-3 years,Ruby,Unity,OracleDB,Kubernetes,No,No,Yes,Mobile Developer,No,Yes
+More than 5 years,Ruby,OpenVAS,Microsoft SQL Server,Travis CI,No,No,No,DevOps Engineer,Yes,Yes
+Less than 1 year,Java,Angular,Redis,GitLab CI/CD,No,No,Yes,Project Manager,Yes,No
+3-5 years,Ruby,Next.js,SQLite,Google Cloud Platform,No,No,No,Other (please specify),No,Yes
+3-5 years,C++,Ruby on Rails,Other (please specify),Nginx,Yes,No,Yes,Robotics Engineer,Yes,Yes
+3-5 years,C++,Dask,OracleDB,AWS,Yes,Yes,Yes,Software Engineer,No,No
+1-3 years,C,Scikit-Learn,Redis,Apache,No,Yes,No,Front-End Developer,Yes,No
+Less than 1 year,Python,SwiftUI,MySQL,Travis CI,No,No,No,Back-End Developer,No,Yes
+1-3 years,Go,Apache Spark,Other (please specify),Ansible,No,Yes,Yes,IT Support Specialist,No,No
+1-3 years,C#,Metasploit,PostgreSQL,Other (please specify),No,Yes,Yes,Machine Learning Engineer,No,Yes
+None,JavaScript,React Native,MongoDB,Ansible,No,No,No,Machine Learning Engineer,Yes,Yes
+More than 5 years,Rust,Ruby on Rails,PostgreSQL,CircleCI,No,Yes,No,Other (please specify),Yes,Yes
+Less than 1 year,TypeScript,Godot,CassandraDB,Kubernetes,No,No,Yes,Full-Stack Developer,No,Yes
+1-3 years,Other (please specify),Scikit-Learn,SQLite,GitLab CI/CD,No,No,No,Project Manager,Yes,Yes
+3-5 years,Python,React,Redis,CircleCI,Yes,Yes,No,AI Researcher,Yes,Yes
+Less than 1 year,Go,Kotlin Multiplatform Mobile (KMM),MySQL,DigitalOcean,No,Yes,No,Database Administrator,Yes,Yes
+3-5 years,None,Godot,Microsoft SQL Server,Docker,Yes,No,Yes,Software Engineer,Yes,Yes
+None,Go,Ruby on Rails,Other (please specify),Jenkins,No,No,Yes,Game Developer,No,No
+1-3 years,Swift,Svelte,MySQL,Terraform,No,No,No,Game Developer,Yes,Yes
+1-3 years,C#,Numpy,Other (please specify),Jenkins,No,No,No,Data Scientist,Yes,Yes
+1-3 years,Ruby,Next.js,SQLite,CircleCI,No,Yes,Yes,Data Scientist,Yes,No
+Less than 1 year,Go,GTK,MySQL,CircleCI,No,No,No,Cloud Engineer,Yes,Yes
+More than 5 years,Ruby,Flutter,MongoDB,AWS,Yes,No,Yes,Network Engineer,No,No
+More than 5 years,Other (please specify),CryEngine,Other (please specify),GitLab CI/CD,No,No,No,Robotics Engineer,Yes,No
+More than 5 years,PHP,Unity,OracleDB,Apache,No,Yes,Yes,Robotics Engineer,Yes,No
+Less than 1 year,None,Electron,MongoDB,CircleCI,Yes,Yes,No,Other (please specify),No,No
+Less than 1 year,Rust,React,Microsoft SQL Server,Kubernetes,No,Yes,Yes,Other (please specify),Yes,No
+More than 5 years,JavaScript,Scikit-Learn,Other (please specify),AWS,Yes,No,No,Game Developer,Yes,Yes
+More than 5 years,Ruby,JavaFX,CassandraDB,Terraform,Yes,No,Yes,Back-End Developer,Yes,No
+Less than 1 year,Python,OpenVAS,SQLite,GitLab CI/CD,Yes,Yes,Yes,Machine Learning Engineer,No,Yes
+None,Python,Electron,Redis,Other (please specify),Yes,Yes,Yes,Other (please specify),Yes,Yes
+1-3 years,Python,Xamarin,Redis,Azure,No,No,No,Full-Stack Developer,No,No
+None,PHP,Metasploit,Other (please specify),Azure,Yes,No,No,Mobile Developer,Yes,No
+Less than 1 year,JavaScript,Apache Spark,MySQL,AWS,No,No,Yes,Systems Analyst,Yes,Yes
+None,Rust,Ruby on Rails,Other (please specify),Git,Yes,Yes,No,AI Researcher,Yes,No
+More than 5 years,Swift,Svelte,Microsoft SQL Server,Travis CI,No,Yes,Yes,Other (please specify),No,No
+1-3 years,Go,Unity,SQLite,AWS,No,No,No,Robotics Engineer,No,No
+3-5 years,Kotlin,Apache Spark,CassandraDB,Other (please specify),No,Yes,No,Project Manager,No,No
+3-5 years,PHP,Next.js,Microsoft SQL Server,Other (please specify),No,Yes,Yes,Project Manager,No,Yes
+3-5 years,Other (please specify),Unreal Engine,CassandraDB,Jenkins,Yes,No,No,Database Administrator,Yes,Yes
+None,C,Svelte,CassandraDB,Apache,Yes,No,No,Data Scientist,No,No
+Less than 1 year,Python,React Native,Other (please specify),DigitalOcean,Yes,Yes,No,Product Manager,No,Yes
+1-3 years,Other (please specify),Xamarin,MongoDB,CircleCI,Yes,Yes,No,Software Engineer,Yes,No
+1-3 years,PHP,Qt,MongoDB,Google Cloud Platform,No,Yes,Yes,Software Engineer,No,No
+None,JavaScript,Pandas,PostgreSQL,Terraform,Yes,No,No,IT Support Specialist,Yes,Yes
+None,Ruby,Kotlin Multiplatform Mobile (KMM),MySQL,Other (please specify),No,No,No,Robotics Engineer,Yes,No
+None,Kotlin,Django,MySQL,Jenkins,Yes,No,No,Game Developer,No,Yes
+Less than 1 year,Java,Ruby on Rails,MongoDB,Docker,No,No,No,Game Developer,Yes,Yes
+Less than 1 year,Dart,OpenVAS,Microsoft SQL Server,Git,Yes,No,No,Software Engineer,No,Yes
+3-5 years,None,Express.js,MySQL,GitLab CI/CD,No,No,No,Full-Stack Developer,Yes,No
+1-3 years,Kotlin,Wireshark,MySQL,Nginx,No,Yes,Yes,Front-End Developer,Yes,No
+1-3 years,JavaScript,Snort,Redis,Git,Yes,Yes,Yes,Other (please specify),No,Yes
+Less than 1 year,PHP,Numpy,MongoDB,Git,Yes,Yes,No,IT Support Specialist,No,Yes
+1-3 years,C#,Svelte,Redis,Docker,No,No,No,Other (please specify),No,Yes
+Less than 1 year,Java,Next.js,MongoDB,AWS,No,Yes,Yes,Front-End Developer,No,Yes
+1-3 years,PHP,Apache Spark,MySQL,Google Cloud Platform,Yes,No,No,Other (please specify),No,No
+3-5 years,PHP,JavaFX,MySQL,Docker,No,No,No,Data Scientist,No,No
+1-3 years,Other (please specify),GTK,MySQL,Other (please specify),Yes,No,No,DevOps Engineer,No,Yes
+None,Swift,Angular,MySQL,Azure,No,No,No,Data Scientist,No,No
+1-3 years,TypeScript,Electron,CassandraDB,Ansible,No,Yes,Yes,Front-End Developer,Yes,Yes
+1-3 years,Other (please specify),Nestjs,CassandraDB,GitLab CI/CD,Yes,No,No,DevOps Engineer,No,No
+3-5 years,C#,WPF,Microsoft SQL Server,CircleCI,No,No,Yes,DevOps Engineer,Yes,Yes
+3-5 years,None,Unreal Engine,Redis,AWS,No,Yes,No,Data Scientist,Yes,No
+3-5 years,C++,Electron,MySQL,Apache,No,No,Yes,Other (please specify),No,No
+1-3 years,Other (please specify),Xamarin,CassandraDB,Terraform,Yes,Yes,Yes,Machine Learning Engineer,Yes,No
+More than 5 years,JavaScript,Numpy,OracleDB,Azure,Yes,Yes,Yes,Game Developer,Yes,No
+Less than 1 year,Go,OpenVAS,MongoDB,Git,No,Yes,Yes,Cloud Engineer,No,No
+1-3 years,Kotlin,Flutter,Other (please specify),Jenkins,Yes,No,No,Product Manager,Yes,No
+More than 5 years,JavaScript,Snort,MongoDB,Nginx,No,No,Yes,Mobile Developer,No,Yes
+3-5 years,Other (please specify),Wireshark,CassandraDB,Google Cloud Platform,No,Yes,No,Back-End Developer,No,Yes
+3-5 years,PHP,Scikit-Learn,Other (please specify),Other (please specify),Yes,No,No,Mobile Developer,Yes,Yes
+1-3 years,JavaScript,Apache Spark,Other (please specify),Docker,No,No,Yes,Product Manager,No,Yes
+None,Swift,PyTorch,SQLite,Nginx,No,No,Yes,Other (please specify),No,Yes
+More than 5 years,C#,Next.js,OracleDB,DigitalOcean,No,Yes,Yes,Systems Analyst,Yes,Yes
+Less than 1 year,TypeScript,.NET Core,MongoDB,Other (please specify),No,Yes,No,DevOps Engineer,No,Yes
+3-5 years,PHP,TensorFlow,CassandraDB,Git,No,Yes,No,AI Researcher,Yes,No
+1-3 years,C#,WPF,Microsoft SQL Server,GitLab CI/CD,No,No,Yes,Game Developer,No,Yes
+More than 5 years,Other (please specify),Ruby on Rails,Microsoft SQL Server,Ansible,Yes,Yes,Yes,Systems Analyst,Yes,Yes
+More than 5 years,Java,TensorFlow,MySQL,Jenkins,No,Yes,Yes,Cloud Engineer,Yes,No
+Less than 1 year,Swift,Svelte,Microsoft SQL Server,Jenkins,No,Yes,Yes,Data Scientist,No,No
+Less than 1 year,PHP,Numpy,MongoDB,Nginx,Yes,No,No,DevOps Engineer,No,No
+1-3 years,Dart,Apache Spark,SQLite,Apache,Yes,Yes,No,Project Manager,No,Yes
+Less than 1 year,Kotlin,Django,PostgreSQL,AWS,No,Yes,No,Game Developer,Yes,Yes
+None,C#,Pandas,Other (please specify),Other (please specify),No,No,No,Software Engineer,Yes,Yes
+3-5 years,JavaScript,Numpy,SQLite,Ansible,Yes,No,No,Cybersecurity Analyst,No,No
+Less than 1 year,JavaScript,Apache Spark,PostgreSQL,Git,Yes,Yes,No,Machine Learning Engineer,No,Yes
+None,Ruby,Scikit-Learn,OracleDB,Ansible,Yes,Yes,No,Data Engineer,Yes,No
+More than 5 years,JavaScript,PyTorch,Other (please specify),Azure,Yes,No,Yes,Full-Stack Developer,No,No
+Less than 1 year,Go,SwiftUI,Redis,DigitalOcean,Yes,Yes,No,AI Researcher,Yes,No
+None,C++,JavaFX,MongoDB,Google Cloud Platform,No,Yes,No,Database Administrator,No,Yes
+Less than 1 year,C++,Qt,SQLite,Terraform,Yes,Yes,No,Data Engineer,Yes,No
+3-5 years,JavaScript,Keras,MongoDB,Other (please specify),No,Yes,No,Full-Stack Developer,Yes,Yes
+1-3 years,Python,Kali Linux,Redis,Travis CI,Yes,No,Yes,Robotics Engineer,Yes,No
+None,Go,Unreal Engine,Microsoft SQL Server,AWS,Yes,No,Yes,Robotics Engineer,No,Yes
+None,Java,Ruby on Rails,PostgreSQL,Jenkins,Yes,Yes,Yes,AI Researcher,Yes,Yes
+Less than 1 year,Rust,PyTorch,PostgreSQL,AWS,Yes,Yes,No,Full-Stack Developer,No,No
+More than 5 years,Dart,Unreal Engine,CassandraDB,GitLab CI/CD,No,Yes,Yes,Project Manager,No,No
+More than 5 years,Swift,Burp Suite,MySQL,AWS,Yes,Yes,No,Back-End Developer,No,Yes
+1-3 years,TypeScript,Express.js,Microsoft SQL Server,Terraform,No,Yes,Yes,Back-End Developer,No,Yes
+None,C,JavaFX,Other (please specify),Jenkins,Yes,Yes,Yes,AI Researcher,No,No
+3-5 years,C#,Vue.js,MongoDB,Docker,No,Yes,No,Back-End Developer,Yes,No
+Less than 1 year,C#,WPF,Microsoft SQL Server,DigitalOcean,Yes,No,No,Game Developer,No,No
+3-5 years,Dart,TensorFlow,MySQL,Nginx,Yes,Yes,No,Product Manager,No,No
+3-5 years,Java,Burp Suite,PostgreSQL,Other (please specify),No,Yes,Yes,Cloud Engineer,No,No
+More than 5 years,Rust,Wireshark,MongoDB,Travis CI,Yes,Yes,Yes,Robotics Engineer,No,Yes
+None,TypeScript,Electron,MySQL,Other (please specify),No,No,Yes,Database Administrator,No,Yes
+1-3 years,Dart,React,MySQL,CircleCI,Yes,No,No,Data Scientist,No,No
+More than 5 years,Java,Burp Suite,Redis,Terraform,No,No,No,Robotics Engineer,Yes,No
+Less than 1 year,C#,Metasploit,PostgreSQL,Azure,No,No,Yes,DevOps Engineer,No,No
+Less than 1 year,None,Flask,CassandraDB,Nginx,No,Yes,No,Robotics Engineer,Yes,No
+Less than 1 year,C++,Wireshark,MySQL,Google Cloud Platform,Yes,No,No,Full-Stack Developer,Yes,No
+More than 5 years,C++,Vue.js,Microsoft SQL Server,AWS,No,Yes,No,Mobile Developer,No,No
+None,C#,Xamarin,CassandraDB,GitLab CI/CD,No,Yes,No,Game Developer,Yes,Yes
+None,JavaScript,Godot,CassandraDB,Azure,Yes,No,No,Cloud Engineer,Yes,No
+1-3 years,PHP,Angular,OracleDB,AWS,Yes,Yes,Yes,Machine Learning Engineer,No,Yes
+Less than 1 year,Rust,React,CassandraDB,Travis CI,Yes,No,Yes,Robotics Engineer,Yes,No
+More than 5 years,Ruby,Snort,Other (please specify),Other (please specify),No,Yes,No,Machine Learning Engineer,Yes,No
+Less than 1 year,Ruby,React Native,MySQL,Kubernetes,No,Yes,No,IT Support Specialist,No,Yes
+More than 5 years,Dart,OpenVAS,Redis,Travis CI,No,Yes,No,Machine Learning Engineer,Yes,Yes
+Less than 1 year,Go,Ruby on Rails,SQLite,Google Cloud Platform,No,Yes,Yes,Cybersecurity Analyst,Yes,Yes
+1-3 years,C++,WPF,OracleDB,GitLab CI/CD,Yes,No,No,DevOps Engineer,No,Yes
+More than 5 years,Swift,Numpy,MySQL,Apache,No,Yes,No,Machine Learning Engineer,Yes,Yes
+More than 5 years,None,React,Redis,Kubernetes,Yes,No,Yes,Game Developer,Yes,Yes
+Less than 1 year,C++,Qt,Redis,Kubernetes,Yes,No,Yes,Full-Stack Developer,Yes,No
+None,Ruby,Kali Linux,PostgreSQL,Google Cloud Platform,Yes,Yes,No,Database Administrator,Yes,No
+None,Java,OpenVAS,Microsoft SQL Server,GitLab CI/CD,Yes,No,No,Other (please specify),Yes,Yes
+1-3 years,JavaScript,Flask,SQLite,Other (please specify),Yes,Yes,No,AI Researcher,Yes,No
+Less than 1 year,Dart,Dask,Microsoft SQL Server,Travis CI,Yes,No,Yes,Back-End Developer,No,No
+Less than 1 year,Rust,Keras,Redis,GitLab CI/CD,Yes,No,Yes,Cloud Engineer,No,Yes
+More than 5 years,Other (please specify),Svelte,Other (please specify),Jenkins,Yes,No,Yes,Data Engineer,Yes,Yes
+3-5 years,Kotlin,React Native,MongoDB,Google Cloud Platform,Yes,No,Yes,Software Engineer,Yes,No
+1-3 years,Swift,Qt,Microsoft SQL Server,Docker,Yes,Yes,No,Database Administrator,Yes,Yes
+3-5 years,JavaScript,Ruby on Rails,CassandraDB,Azure,No,No,Yes,Database Administrator,No,No
+3-5 years,C#,Express.js,CassandraDB,AWS,No,No,No,IT Support Specialist,No,Yes
+Less than 1 year,C#,Godot,OracleDB,Other (please specify),Yes,No,No,Robotics Engineer,No,No
+1-3 years,Swift,Dask,OracleDB,Azure,Yes,No,No,Machine Learning Engineer,No,No
+3-5 years,Dart,PyTorch,Other (please specify),AWS,Yes,Yes,No,Database Administrator,No,No
+More than 5 years,Other (please specify),Keras,MySQL,Other (please specify),Yes,Yes,Yes,Network Engineer,No,Yes
+More than 5 years,JavaScript,Next.js,PostgreSQL,Kubernetes,Yes,Yes,No,Database Administrator,No,Yes
+1-3 years,PHP,Angular,Microsoft SQL Server,AWS,No,No,No,IT Support Specialist,Yes,Yes
+Less than 1 year,C,Kali Linux,PostgreSQL,DigitalOcean,Yes,No,No,Network Engineer,Yes,No
+3-5 years,Kotlin,Godot,MySQL,Apache,No,No,No,Project Manager,No,Yes
+1-3 years,TypeScript,Keras,CassandraDB,Terraform,No,No,Yes,Software Engineer,No,No
+3-5 years,TypeScript,Burp Suite,Microsoft SQL Server,Git,Yes,No,No,Cybersecurity Analyst,Yes,Yes
+More than 5 years,Python,Svelte,MongoDB,CircleCI,No,No,Yes,Cloud Engineer,Yes,No
+1-3 years,Other (please specify),SwiftUI,Other (please specify),Git,Yes,No,Yes,Cybersecurity Analyst,Yes,Yes
+1-3 years,Go,Burp Suite,Microsoft SQL Server,GitLab CI/CD,No,Yes,Yes,Cloud Engineer,No,No
+3-5 years,Python,Ruby on Rails,SQLite,Azure,Yes,Yes,No,Software Engineer,No,Yes
+1-3 years,Java,React,Redis,Git,No,Yes,No,Data Engineer,Yes,No
+3-5 years,Swift,Burp Suite,SQLite,Travis CI,Yes,Yes,No,Full-Stack Developer,Yes,Yes
+None,C++,OpenVAS,SQLite,CircleCI,Yes,No,Yes,Database Administrator,No,Yes
+More than 5 years,C++,Flutter,Microsoft SQL Server,Kubernetes,Yes,No,No,Software Engineer,Yes,No
+Less than 1 year,None,Ruby on Rails,OracleDB,Apache,Yes,No,Yes,Data Engineer,Yes,Yes
+None,Kotlin,TensorFlow,OracleDB,Terraform,Yes,Yes,No,Front-End Developer,No,No
+1-3 years,Go,Unreal Engine,OracleDB,CircleCI,No,No,No,AI Researcher,No,Yes
+None,Swift,Flask,Other (please specify),Jenkins,No,Yes,No,Systems Analyst,No,Yes
+None,JavaScript,.NET Core,Redis,DigitalOcean,No,No,Yes,Robotics Engineer,No,Yes
+More than 5 years,Java,Keras,Redis,Jenkins,No,Yes,Yes,Robotics Engineer,No,Yes
+More than 5 years,Go,Nestjs,SQLite,DigitalOcean,No,Yes,Yes,Project Manager,No,No
+3-5 years,Ruby,Apache Spark,MySQL,DigitalOcean,No,No,Yes,Mobile Developer,No,Yes
+More than 5 years,Go,Keras,Redis,Git,No,No,No,Full-Stack Developer,Yes,Yes
+None,Kotlin,GTK,PostgreSQL,Jenkins,Yes,Yes,No,Other (please specify),No,No
+3-5 years,PHP,Next.js,CassandraDB,Terraform,No,Yes,Yes,Mobile Developer,Yes,Yes
+1-3 years,Swift,Kotlin Multiplatform Mobile (KMM),SQLite,GitLab CI/CD,No,Yes,Yes,Data Engineer,Yes,No
+3-5 years,Other (please specify),Flask,OracleDB,Terraform,No,Yes,No,Game Developer,Yes,No
+3-5 years,Go,Flutter,MySQL,GitLab CI/CD,No,Yes,No,Mobile Developer,No,Yes
+1-3 years,Go,PyTorch,OracleDB,Travis CI,No,Yes,No,Data Scientist,No,No
+1-3 years,Swift,Snort,Redis,Ansible,No,Yes,No,Machine Learning Engineer,Yes,No
+3-5 years,Java,Qt,MySQL,DigitalOcean,Yes,No,No,Software Engineer,Yes,No
+More than 5 years,Go,Numpy,PostgreSQL,GitLab CI/CD,Yes,Yes,No,Database Administrator,No,Yes
+3-5 years,TypeScript,Burp Suite,PostgreSQL,DigitalOcean,No,No,No,Mobile Developer,Yes,Yes
+None,None,Django,MongoDB,Azure,Yes,No,Yes,Robotics Engineer,Yes,No
+3-5 years,TypeScript,PyTorch,MongoDB,Travis CI,Yes,Yes,No,Mobile Developer,No,No
+None,Dart,Metasploit,Microsoft SQL Server,GitLab CI/CD,No,No,No,Product Manager,No,Yes
+Less than 1 year,Other (please specify),TensorFlow,Other (please specify),Docker,No,No,Yes,Cloud Engineer,No,No
+More than 5 years,C,Vue.js,CassandraDB,Apache,No,No,Yes,Data Scientist,Yes,Yes
+None,Swift,.NET Core,SQLite,Git,Yes,Yes,Yes,Data Engineer,No,No
+3-5 years,Python,Unity,CassandraDB,CircleCI,No,Yes,No,Database Administrator,No,No
+None,Java,Express.js,Other (please specify),Travis CI,Yes,No,Yes,Game Developer,No,No
+Less than 1 year,Dart,Xamarin,PostgreSQL,Jenkins,No,Yes,Yes,Game Developer,Yes,Yes
+None,Dart,PyTorch,SQLite,Apache,Yes,No,Yes,Machine Learning Engineer,No,No
+Less than 1 year,Go,Dask,PostgreSQL,Git,Yes,No,Yes,Systems Analyst,Yes,Yes
+None,C,Vue.js,CassandraDB,Docker,Yes,Yes,No,Front-End Developer,Yes,No
+3-5 years,TypeScript,Godot,CassandraDB,Terraform,No,No,Yes,Front-End Developer,No,No
+3-5 years,TypeScript,Svelte,MySQL,Nginx,No,Yes,Yes,Robotics Engineer,No,Yes
+1-3 years,Rust,Apache Spark,Other (please specify),Git,No,Yes,Yes,Cybersecurity Analyst,Yes,No
+More than 5 years,Rust,Burp Suite,SQLite,AWS,Yes,No,No,Back-End Developer,No,Yes
+None,Kotlin,OpenVAS,Redis,Jenkins,No,Yes,Yes,IT Support Specialist,Yes,Yes
+More than 5 years,PHP,Electron,CassandraDB,Azure,Yes,Yes,No,Full-Stack Developer,No,No
+More than 5 years,C++,Unreal Engine,SQLite,Kubernetes,No,Yes,Yes,Software Engineer,Yes,No
+1-3 years,PHP,Pandas,Microsoft SQL Server,Apache,No,No,No,Software Engineer,No,No
+1-3 years,TypeScript,CryEngine,OracleDB,Other (please specify),No,Yes,No,Network Engineer,No,No
+1-3 years,Java,Pandas,Microsoft SQL Server,Apache,No,No,No,DevOps Engineer,Yes,No
+1-3 years,C++,WPF,SQLite,Git,Yes,No,No,Mobile Developer,Yes,Yes
+More than 5 years,Rust,Svelte,Other (please specify),Azure,No,No,Yes,Data Engineer,Yes,No
+1-3 years,PHP,Flask,PostgreSQL,GitLab CI/CD,Yes,Yes,No,Data Scientist,Yes,No
+More than 5 years,PHP,Apache Spark,MySQL,Nginx,Yes,No,Yes,Product Manager,No,No
+More than 5 years,Rust,Kali Linux,MySQL,Apache,No,Yes,No,Product Manager,No,No
+1-3 years,C,Snort,CassandraDB,Apache,Yes,Yes,No,DevOps Engineer,Yes,No
+Less than 1 year,Dart,Dask,CassandraDB,Nginx,Yes,No,Yes,Robotics Engineer,Yes,No
+Less than 1 year,Other (please specify),Dask,OracleDB,Azure,Yes,Yes,Yes,Front-End Developer,No,Yes
+None,JavaScript,JavaFX,Microsoft SQL Server,Kubernetes,No,No,No,AI Researcher,No,Yes
+Less than 1 year,Go,Vue.js,SQLite,Ansible,Yes,No,Yes,Cybersecurity Analyst,No,Yes
+3-5 years,C,Unreal Engine,Microsoft SQL Server,Jenkins,No,No,No,Product Manager,No,Yes
+None,Ruby,Wireshark,MongoDB,Ansible,No,Yes,Yes,Other (please specify),No,No
+None,Python,Qt,SQLite,Azure,Yes,Yes,No,Front-End Developer,No,Yes
+More than 5 years,C,Burp Suite,MongoDB,AWS,Yes,No,Yes,Cybersecurity Analyst,No,Yes
+3-5 years,Rust,Wireshark,MongoDB,CircleCI,Yes,Yes,Yes,Database Administrator,No,No
+None,Dart,Keras,SQLite,Jenkins,Yes,No,Yes,Front-End Developer,No,Yes
+3-5 years,Java,Kotlin Multiplatform Mobile (KMM),Other (please specify),Google Cloud Platform,No,Yes,Yes,Mobile Developer,Yes,No
+1-3 years,C#,Flutter,SQLite,Azure,Yes,No,Yes,Database Administrator,Yes,Yes
+More than 5 years,Java,Flask,MySQL,Docker,No,Yes,No,Mobile Developer,Yes,No
+1-3 years,Go,Flask,CassandraDB,Other (please specify),Yes,Yes,Yes,Machine Learning Engineer,Yes,No
+None,Kotlin,Angular,Microsoft SQL Server,Git,No,Yes,No,Machine Learning Engineer,No,Yes
+3-5 years,Ruby,SwiftUI,MongoDB,Nginx,No,Yes,Yes,Back-End Developer,No,No
+More than 5 years,Python,Scikit-Learn,SQLite,DigitalOcean,No,Yes,No,Cloud Engineer,Yes,Yes
+More than 5 years,JavaScript,Scikit-Learn,OracleDB,Azure,Yes,Yes,No,Mobile Developer,No,Yes
+3-5 years,Kotlin,Apache Spark,MySQL,DigitalOcean,No,No,Yes,Project Manager,No,Yes
+Less than 1 year,Python,Unity,CassandraDB,CircleCI,Yes,Yes,No,Full-Stack Developer,Yes,No
+1-3 years,C++,Snort,MongoDB,Docker,No,No,No,Full-Stack Developer,No,Yes
+1-3 years,Swift,Pandas,Redis,DigitalOcean,No,Yes,Yes,IT Support Specialist,No,No
+Less than 1 year,C#,Flask,Other (please specify),AWS,No,Yes,Yes,Mobile Developer,Yes,Yes
+More than 5 years,C,Pandas,CassandraDB,Google Cloud Platform,Yes,Yes,No,Full-Stack Developer,No,No
+More than 5 years,Go,CryEngine,MySQL,Terraform,No,No,Yes,Other (please specify),Yes,Yes
+Less than 1 year,Dart,PyTorch,MySQL,Kubernetes,No,Yes,Yes,Data Scientist,No,Yes
+1-3 years,TypeScript,Apache Spark,SQLite,Google Cloud Platform,Yes,Yes,Yes,Database Administrator,Yes,Yes
+More than 5 years,Rust,Kotlin Multiplatform Mobile (KMM),MySQL,Azure,Yes,No,Yes,Machine Learning Engineer,No,Yes
+More than 5 years,C++,Vue.js,PostgreSQL,Docker,Yes,No,Yes,Product Manager,Yes,Yes
+1-3 years,C#,Burp Suite,PostgreSQL,Ansible,No,No,No,Front-End Developer,Yes,Yes
+More than 5 years,Java,Numpy,Other (please specify),GitLab CI/CD,No,Yes,Yes,Network Engineer,No,No
+More than 5 years,C++,Scikit-Learn,Redis,DigitalOcean,Yes,No,No,Data Engineer,No,No
+More than 5 years,PHP,Dask,MongoDB,Jenkins,No,No,No,Software Engineer,No,No
+3-5 years,Kotlin,JavaFX,PostgreSQL,Terraform,Yes,No,No,Product Manager,No,Yes
+3-5 years,Java,Xamarin,SQLite,DigitalOcean,No,Yes,Yes,Project Manager,Yes,No
+None,C++,CryEngine,Redis,CircleCI,No,No,No,DevOps Engineer,No,Yes
+Less than 1 year,Kotlin,Next.js,MongoDB,Terraform,No,Yes,No,AI Researcher,Yes,Yes
+1-3 years,Dart,WPF,OracleDB,Google Cloud Platform,Yes,No,No,Mobile Developer,No,Yes
+3-5 years,Go,GTK,Microsoft SQL Server,Kubernetes,Yes,No,Yes,Robotics Engineer,Yes,Yes
+3-5 years,JavaScript,GTK,MongoDB,Travis CI,No,Yes,No,Full-Stack Developer,No,Yes
+1-3 years,Go,Kali Linux,Other (please specify),GitLab CI/CD,No,No,No,Machine Learning Engineer,Yes,Yes
+None,C,Django,MySQL,Git,Yes,Yes,Yes,Front-End Developer,No,Yes
+1-3 years,Go,Scikit-Learn,MySQL,Nginx,No,No,No,Data Scientist,Yes,Yes
+Less than 1 year,JavaScript,Numpy,Other (please specify),Travis CI,No,Yes,No,Product Manager,Yes,No
+None,Kotlin,Pandas,Other (please specify),Apache,No,No,Yes,IT Support Specialist,Yes,No
+3-5 years,Python,Numpy,Microsoft SQL Server,Terraform,No,No,No,Game Developer,Yes,Yes
+1-3 years,Dart,JavaFX,Other (please specify),Jenkins,No,Yes,Yes,Front-End Developer,No,No
+3-5 years,Rust,Dask,Redis,Apache,No,Yes,Yes,Software Engineer,Yes,Yes
+1-3 years,PHP,Metasploit,Other (please specify),Azure,Yes,No,Yes,DevOps Engineer,No,Yes
+None,Java,Vue.js,SQLite,CircleCI,No,Yes,No,DevOps Engineer,No,No
+1-3 years,C#,Angular,OracleDB,Docker,No,No,No,Other (please specify),Yes,Yes
+1-3 years,C,Wireshark,MySQL,Terraform,No,No,No,Other (please specify),Yes,Yes
+None,Dart,Next.js,CassandraDB,Git,Yes,No,No,Database Administrator,Yes,No
+1-3 years,JavaScript,TensorFlow,MySQL,Jenkins,No,No,No,Game Developer,Yes,Yes
+None,C,Xamarin,SQLite,Azure,No,No,Yes,Network Engineer,Yes,No
+3-5 years,Go,TensorFlow,Microsoft SQL Server,Jenkins,No,Yes,Yes,Full-Stack Developer,No,Yes
+More than 5 years,Java,GTK,SQLite,AWS,No,No,Yes,Machine Learning Engineer,Yes,No
+Less than 1 year,Other (please specify),OpenVAS,Redis,Nginx,No,Yes,No,Systems Analyst,No,No
+1-3 years,C,Keras,Microsoft SQL Server,Kubernetes,No,Yes,Yes,Cloud Engineer,No,No
+Less than 1 year,Go,Nestjs,Redis,Docker,Yes,Yes,Yes,Database Administrator,No,No
+1-3 years,TypeScript,Unreal Engine,SQLite,Ansible,Yes,Yes,No,Network Engineer,Yes,Yes
+1-3 years,TypeScript,Snort,PostgreSQL,AWS,Yes,Yes,No,Robotics Engineer,No,No
+1-3 years,C++,SwiftUI,CassandraDB,Other (please specify),No,No,Yes,DevOps Engineer,No,No
+None,Other (please specify),SwiftUI,SQLite,Other (please specify),Yes,No,No,Front-End Developer,Yes,Yes
+1-3 years,TypeScript,Svelte,PostgreSQL,CircleCI,Yes,Yes,Yes,Project Manager,Yes,Yes
+1-3 years,Dart,Express.js,OracleDB,Apache,No,Yes,No,AI Researcher,Yes,No
+Less than 1 year,Ruby,Express.js,SQLite,Google Cloud Platform,Yes,No,Yes,DevOps Engineer,Yes,No
+Less than 1 year,Kotlin,Unity,Redis,Git,Yes,No,Yes,Game Developer,Yes,No
+Less than 1 year,Java,Dask,PostgreSQL,Ansible,Yes,Yes,Yes,Systems Analyst,Yes,Yes
+None,None,WPF,SQLite,GitLab CI/CD,No,No,Yes,Machine Learning Engineer,No,Yes
+More than 5 years,PHP,Dask,CassandraDB,Ansible,No,Yes,No,AI Researcher,No,Yes
+More than 5 years,Ruby,Unity,Redis,Jenkins,No,Yes,Yes,Product Manager,Yes,Yes
+Less than 1 year,None,WPF,Other (please specify),GitLab CI/CD,No,Yes,Yes,IT Support Specialist,No,Yes
+More than 5 years,C,Unreal Engine,CassandraDB,Nginx,Yes,No,No,Cybersecurity Analyst,Yes,Yes
+Less than 1 year,Python,Wireshark,SQLite,Other (please specify),No,No,Yes,Project Manager,No,Yes
+Less than 1 year,None,Apache Spark,PostgreSQL,GitLab CI/CD,No,No,Yes,Full-Stack Developer,No,No
+Less than 1 year,Python,CryEngine,OracleDB,Jenkins,Yes,No,No,Machine Learning Engineer,No,Yes
+None,PHP,Wireshark,Microsoft SQL Server,Azure,Yes,No,No,Project Manager,No,No
+Less than 1 year,C++,Pandas,MongoDB,Azure,No,Yes,Yes,Software Engineer,Yes,No
+3-5 years,Dart,Angular,PostgreSQL,Apache,Yes,Yes,No,Other (please specify),No,Yes
+1-3 years,Ruby,Snort,OracleDB,GitLab CI/CD,No,No,No,Game Developer,Yes,No
+More than 5 years,Go,Flutter,OracleDB,Git,Yes,Yes,Yes,AI Researcher,No,No
+1-3 years,Dart,Nestjs,MySQL,Travis CI,Yes,Yes,No,Game Developer,No,Yes
+None,Other (please specify),React Native,PostgreSQL,Jenkins,No,No,No,DevOps Engineer,Yes,No
+Less than 1 year,Kotlin,Ruby on Rails,SQLite,Travis CI,No,Yes,Yes,Mobile Developer,No,No
+More than 5 years,Go,Electron,CassandraDB,CircleCI,Yes,Yes,No,Game Developer,No,Yes
+More than 5 years,Kotlin,Snort,OracleDB,Jenkins,No,No,Yes,AI Researcher,Yes,No
+None,C,Qt,Other (please specify),Ansible,Yes,No,Yes,Data Scientist,No,Yes
+1-3 years,Other (please specify),Nestjs,MongoDB,Ansible,Yes,Yes,Yes,DevOps Engineer,Yes,Yes
+More than 5 years,Java,Scikit-Learn,Microsoft SQL Server,Jenkins,Yes,Yes,No,Cybersecurity Analyst,Yes,Yes
+Less than 1 year,TypeScript,Django,MongoDB,Kubernetes,No,No,Yes,Back-End Developer,No,No
+3-5 years,Java,Metasploit,PostgreSQL,Google Cloud Platform,Yes,No,Yes,Data Engineer,Yes,No
+3-5 years,C++,CryEngine,OracleDB,AWS,Yes,Yes,No,Other (please specify),Yes,No
+More than 5 years,TypeScript,React Native,Other (please specify),AWS,Yes,No,Yes,Game Developer,No,Yes
+3-5 years,TypeScript,Unreal Engine,OracleDB,Ansible,Yes,Yes,Yes,Cybersecurity Analyst,Yes,Yes
+More than 5 years,None,Metasploit,SQLite,Google Cloud Platform,No,No,Yes,Systems Analyst,No,No
+3-5 years,Other (please specify),JavaFX,OracleDB,Kubernetes,Yes,Yes,No,Project Manager,Yes,No
+1-3 years,Kotlin,Xamarin,SQLite,Travis CI,Yes,Yes,Yes,Project Manager,Yes,No
+Less than 1 year,C,Nestjs,MongoDB,Apache,Yes,Yes,No,Database Administrator,No,Yes
+None,TypeScript,PyTorch,OracleDB,Azure,No,Yes,Yes,Cloud Engineer,Yes,Yes
+None,Go,Express.js,MongoDB,AWS,Yes,Yes,Yes,Database Administrator,Yes,No
+Less than 1 year,Rust,React,PostgreSQL,Ansible,Yes,No,Yes,Product Manager,Yes,No
+More than 5 years,JavaScript,Numpy,Microsoft SQL Server,Docker,No,No,Yes,Robotics Engineer,Yes,No
+Less than 1 year,C#,Snort,SQLite,GitLab CI/CD,No,No,Yes,Database Administrator,Yes,Yes
+None,Swift,Nestjs,Redis,Git,No,Yes,No,AI Researcher,No,No
+1-3 years,Rust,SwiftUI,MongoDB,CircleCI,No,Yes,No,Front-End Developer,Yes,No
+Less than 1 year,Python,Next.js,Redis,Jenkins,No,Yes,No,Robotics Engineer,Yes,No
+More than 5 years,Other (please specify),Metasploit,Microsoft SQL Server,Apache,No,No,Yes,Other (please specify),No,No
+None,C,Unreal Engine,OracleDB,Jenkins,Yes,Yes,No,Mobile Developer,No,Yes
+None,None,PyTorch,Other (please specify),Terraform,Yes,Yes,Yes,DevOps Engineer,Yes,No
+1-3 years,C,Flask,MongoDB,Other (please specify),No,No,Yes,Game Developer,Yes,No
+1-3 years,PHP,CryEngine,PostgreSQL,Terraform,No,No,Yes,Machine Learning Engineer,No,No
+1-3 years,Java,React,Microsoft SQL Server,Jenkins,No,Yes,Yes,AI Researcher,No,Yes
+1-3 years,JavaScript,Svelte,MySQL,Other (please specify),No,No,Yes,Project Manager,Yes,No
+More than 5 years,Rust,GTK,PostgreSQL,Git,Yes,No,No,Network Engineer,No,No
+None,Other (please specify),TensorFlow,Microsoft SQL Server,Docker,No,No,No,Systems Analyst,Yes,Yes
+3-5 years,Go,React,MongoDB,Kubernetes,No,Yes,No,Other (please specify),No,No
+1-3 years,None,Apache Spark,PostgreSQL,Nginx,No,Yes,Yes,Full-Stack Developer,Yes,No
+1-3 years,Other (please specify),Godot,PostgreSQL,Docker,Yes,Yes,Yes,DevOps Engineer,Yes,Yes
+None,None,TensorFlow,MongoDB,Nginx,No,No,Yes,Game Developer,No,No
+Less than 1 year,Go,React Native,PostgreSQL,AWS,No,No,No,IT Support Specialist,No,Yes
+Less than 1 year,PHP,.NET Core,PostgreSQL,Google Cloud Platform,No,Yes,No,Machine Learning Engineer,No,No
+Less than 1 year,Other (please specify),Vue.js,CassandraDB,AWS,Yes,Yes,No,Software Engineer,No,Yes
+Less than 1 year,Java,Apache Spark,PostgreSQL,Git,Yes,No,No,Back-End Developer,Yes,Yes
+1-3 years,C#,TensorFlow,Redis,Google Cloud Platform,No,Yes,No,Mobile Developer,Yes,No
+1-3 years,Other (please specify),Wireshark,Other (please specify),Azure,No,No,Yes,AI Researcher,Yes,No
+More than 5 years,Rust,Vue.js,Redis,Ansible,No,Yes,Yes,Machine Learning Engineer,Yes,No
+Less than 1 year,JavaScript,Ruby on Rails,OracleDB,Other (please specify),Yes,Yes,No,IT Support Specialist,No,Yes
+3-5 years,TypeScript,Electron,OracleDB,Apache,Yes,No,Yes,Game Developer,No,No
+More than 5 years,C#,Pandas,MySQL,Ansible,No,Yes,No,Data Scientist,No,No
+More than 5 years,Python,Unity,CassandraDB,Azure,No,No,No,AI Researcher,Yes,Yes
+None,Other (please specify),JavaFX,Redis,Azure,Yes,Yes,No,Data Engineer,Yes,No
+3-5 years,Rust,Flutter,Other (please specify),Ansible,No,Yes,Yes,Network Engineer,No,Yes
+3-5 years,Kotlin,Wireshark,CassandraDB,Ansible,No,No,Yes,Software Engineer,Yes,Yes
+None,Ruby,SwiftUI,MongoDB,Kubernetes,No,No,Yes,DevOps Engineer,Yes,No
+None,C#,Metasploit,MongoDB,Git,Yes,Yes,Yes,AI Researcher,Yes,Yes
+None,C#,Unreal Engine,Microsoft SQL Server,GitLab CI/CD,Yes,Yes,Yes,Network Engineer,No,Yes
+3-5 years,C,Angular,MongoDB,Git,No,No,Yes,Project Manager,Yes,No
+None,Java,Nestjs,MongoDB,CircleCI,Yes,Yes,No,Other (please specify),Yes,No
+3-5 years,TypeScript,Next.js,PostgreSQL,Jenkins,No,No,No,Project Manager,Yes,No
+More than 5 years,Ruby,Dask,CassandraDB,CircleCI,No,No,Yes,Systems Analyst,Yes,Yes
+None,Dart,Xamarin,SQLite,Google Cloud Platform,Yes,No,Yes,Back-End Developer,Yes,No
+1-3 years,Go,Burp Suite,SQLite,Other (please specify),No,No,No,Machine Learning Engineer,No,Yes
+Less than 1 year,C++,Scikit-Learn,SQLite,Nginx,Yes,Yes,Yes,Machine Learning Engineer,No,No
+None,Python,Flutter,MongoDB,CircleCI,No,Yes,No,Cybersecurity Analyst,No,No
+None,None,React Native,Microsoft SQL Server,Docker,No,No,Yes,Robotics Engineer,Yes,No
+Less than 1 year,PHP,SwiftUI,PostgreSQL,Ansible,No,No,No,Other (please specify),No,Yes
+1-3 years,Other (please specify),Unity,SQLite,Other (please specify),Yes,No,No,Cybersecurity Analyst,Yes,No
+None,Python,Svelte,Redis,GitLab CI/CD,No,Yes,No,Cloud Engineer,Yes,No
+1-3 years,Python,PyTorch,CassandraDB,AWS,Yes,Yes,No,DevOps Engineer,Yes,Yes
+Less than 1 year,Kotlin,PyTorch,MongoDB,Git,No,No,No,Software Engineer,Yes,No
+3-5 years,TypeScript,Godot,MySQL,Apache,Yes,No,Yes,Product Manager,Yes,Yes
+Less than 1 year,Swift,Unreal Engine,Microsoft SQL Server,Docker,Yes,Yes,Yes,IT Support Specialist,Yes,Yes
+3-5 years,Ruby,Flutter,CassandraDB,Travis CI,No,Yes,Yes,Machine Learning Engineer,No,Yes
+None,Swift,Scikit-Learn,Microsoft SQL Server,Google Cloud Platform,No,No,No,Software Engineer,Yes,Yes
+1-3 years,Kotlin,Flask,OracleDB,Terraform,Yes,Yes,No,Game Developer,Yes,Yes
+1-3 years,C#,React Native,SQLite,Azure,No,Yes,Yes,Software Engineer,Yes,Yes
+Less than 1 year,Kotlin,Next.js,Microsoft SQL Server,Docker,No,Yes,Yes,Cloud Engineer,No,Yes
+1-3 years,Go,Flutter,Other (please specify),Apache,No,No,Yes,Software Engineer,Yes,Yes
+1-3 years,Go,Flask,MySQL,Google Cloud Platform,Yes,No,No,Robotics Engineer,No,Yes
+More than 5 years,C#,OpenVAS,PostgreSQL,Other (please specify),No,No,Yes,Robotics Engineer,No,Yes
+None,Swift,React,Redis,Nginx,Yes,Yes,Yes,Other (please specify),No,Yes
+3-5 years,Rust,OpenVAS,Microsoft SQL Server,DigitalOcean,No,No,Yes,Project Manager,No,Yes
+More than 5 years,Dart,Pandas,CassandraDB,Ansible,No,No,Yes,AI Researcher,No,No
+None,Swift,Pandas,Microsoft SQL Server,Git,No,Yes,No,Network Engineer,No,Yes
+3-5 years,Python,Snort,MongoDB,Git,Yes,No,Yes,DevOps Engineer,Yes,Yes
+3-5 years,Kotlin,GTK,MongoDB,Terraform,Yes,No,No,AI Researcher,Yes,Yes
+More than 5 years,Ruby,Django,MySQL,CircleCI,Yes,Yes,Yes,IT Support Specialist,Yes,No
+3-5 years,Other (please specify),Wireshark,MySQL,Ansible,No,Yes,Yes,Network Engineer,No,Yes
+1-3 years,C++,Kotlin Multiplatform Mobile (KMM),MySQL,Other (please specify),No,Yes,Yes,Data Scientist,No,Yes
+Less than 1 year,Kotlin,OpenVAS,MySQL,AWS,No,Yes,Yes,Back-End Developer,No,No
+More than 5 years,TypeScript,CryEngine,PostgreSQL,DigitalOcean,No,No,No,Machine Learning Engineer,No,Yes
+More than 5 years,PHP,Unity,CassandraDB,Ansible,No,Yes,No,Full-Stack Developer,Yes,No
+1-3 years,C#,PyTorch,Microsoft SQL Server,Kubernetes,Yes,Yes,No,Machine Learning Engineer,Yes,Yes
+None,Rust,Dask,OracleDB,CircleCI,Yes,Yes,No,Front-End Developer,No,No
+More than 5 years,Rust,Kali Linux,MongoDB,GitLab CI/CD,Yes,No,No,Robotics Engineer,No,No
+Less than 1 year,Rust,Snort,Other (please specify),DigitalOcean,Yes,Yes,Yes,Systems Analyst,Yes,Yes
+More than 5 years,Kotlin,Svelte,Redis,DigitalOcean,Yes,No,No,Game Developer,No,Yes
+More than 5 years,TypeScript,Vue.js,PostgreSQL,Nginx,Yes,Yes,Yes,Full-Stack Developer,No,Yes
+More than 5 years,PHP,Keras,Redis,Terraform,Yes,Yes,Yes,Product Manager,Yes,No
+3-5 years,JavaScript,.NET Core,CassandraDB,Jenkins,Yes,No,No,Data Engineer,Yes,Yes
+3-5 years,None,Dask,CassandraDB,Git,No,No,Yes,Front-End Developer,Yes,No
+None,Ruby,TensorFlow,MySQL,Other (please specify),No,Yes,Yes,Software Engineer,No,Yes
+Less than 1 year,C#,Nestjs,Other (please specify),Azure,No,No,No,IT Support Specialist,Yes,Yes
+1-3 years,Dart,Pandas,PostgreSQL,Terraform,No,No,Yes,Network Engineer,Yes,No
+More than 5 years,Dart,CryEngine,PostgreSQL,Kubernetes,Yes,No,Yes,Robotics Engineer,Yes,Yes
+Less than 1 year,PHP,GTK,MongoDB,DigitalOcean,No,Yes,Yes,Back-End Developer,No,No
+1-3 years,Dart,Burp Suite,PostgreSQL,AWS,Yes,No,No,Mobile Developer,No,Yes
+1-3 years,Go,Unreal Engine,Redis,Nginx,Yes,Yes,Yes,Front-End Developer,No,Yes
+Less than 1 year,PHP,Angular,OracleDB,Apache,No,No,Yes,Robotics Engineer,No,No
+3-5 years,C#,OpenVAS,Other (please specify),AWS,No,No,Yes,Database Administrator,Yes,No
+3-5 years,C#,Keras,Redis,GitLab CI/CD,No,No,No,AI Researcher,No,Yes
+1-3 years,JavaScript,Wireshark,Redis,Nginx,No,No,Yes,Front-End Developer,Yes,Yes
+Less than 1 year,C,Vue.js,SQLite,CircleCI,No,No,No,Game Developer,Yes,Yes
+3-5 years,Go,Burp Suite,CassandraDB,Docker,No,No,Yes,Game Developer,Yes,Yes
+3-5 years,PHP,Keras,Redis,Git,Yes,Yes,No,Cybersecurity Analyst,No,No
+3-5 years,Python,.NET Core,Other (please specify),Other (please specify),Yes,No,No,Machine Learning Engineer,Yes,No
+3-5 years,C#,Qt,PostgreSQL,Other (please specify),No,Yes,No,Data Scientist,Yes,No
+None,Python,Angular,Redis,CircleCI,No,Yes,Yes,AI Researcher,Yes,Yes
+Less than 1 year,None,Godot,SQLite,Travis CI,No,No,No,Software Engineer,Yes,Yes
+More than 5 years,Swift,OpenVAS,Redis,CircleCI,Yes,Yes,Yes,Systems Analyst,Yes,Yes
+1-3 years,None,Kali Linux,CassandraDB,Docker,No,Yes,Yes,Front-End Developer,No,No
+None,Go,Express.js,MySQL,CircleCI,Yes,Yes,No,Machine Learning Engineer,No,No
+More than 5 years,Java,Scikit-Learn,OracleDB,Terraform,No,Yes,Yes,IT Support Specialist,Yes,No
+3-5 years,Rust,Godot,SQLite,Docker,Yes,Yes,Yes,Data Engineer,No,Yes
+Less than 1 year,Kotlin,Unreal Engine,OracleDB,AWS,No,No,Yes,Game Developer,No,Yes
+More than 5 years,PHP,Svelte,Other (please specify),AWS,Yes,No,Yes,Machine Learning Engineer,No,Yes
+More than 5 years,PHP,Burp Suite,Other (please specify),CircleCI,Yes,Yes,Yes,Software Engineer,Yes,No
+More than 5 years,Swift,WPF,CassandraDB,Azure,No,No,Yes,DevOps Engineer,Yes,No
+Less than 1 year,C++,Express.js,OracleDB,Travis CI,Yes,No,Yes,Network Engineer,Yes,Yes
+1-3 years,C#,Xamarin,Redis,Jenkins,Yes,Yes,No,Other (please specify),No,Yes
+None,C++,React,CassandraDB,Azure,Yes,Yes,Yes,Product Manager,Yes,No
+More than 5 years,C,Snort,SQLite,Apache,Yes,No,No,Game Developer,No,Yes
+Less than 1 year,Swift,Flutter,PostgreSQL,Jenkins,No,No,Yes,IT Support Specialist,Yes,No
+1-3 years,Kotlin,Express.js,Redis,DigitalOcean,No,Yes,Yes,Network Engineer,No,Yes
+Less than 1 year,C#,SwiftUI,MongoDB,DigitalOcean,Yes,Yes,No,Cloud Engineer,Yes,No
+Less than 1 year,Go,Numpy,Redis,Apache,No,Yes,No,Project Manager,Yes,No
+More than 5 years,Rust,Django,CassandraDB,Travis CI,No,Yes,No,Project Manager,No,No
+None,Dart,Angular,OracleDB,DigitalOcean,Yes,Yes,No,Systems Analyst,Yes,Yes
+None,Swift,Next.js,SQLite,Kubernetes,Yes,No,No,Robotics Engineer,Yes,No
+More than 5 years,Other (please specify),Flask,SQLite,Other (please specify),Yes,Yes,No,Back-End Developer,Yes,Yes
+More than 5 years,C++,GTK,MongoDB,Other (please specify),Yes,No,No,Mobile Developer,Yes,No
+3-5 years,C#,Dask,Microsoft SQL Server,Nginx,No,No,No,Other (please specify),No,No
+3-5 years,Go,Nestjs,Microsoft SQL Server,Ansible,Yes,No,No,Systems Analyst,No,No
+1-3 years,Kotlin,PyTorch,Redis,GitLab CI/CD,Yes,No,Yes,Mobile Developer,Yes,Yes
+Less than 1 year,Ruby,Burp Suite,SQLite,Docker,Yes,No,No,Cybersecurity Analyst,No,Yes
+Less than 1 year,Java,Snort,OracleDB,Other (please specify),No,No,No,Data Scientist,Yes,Yes
+None,Dart,Unreal Engine,PostgreSQL,Docker,No,Yes,No,Machine Learning Engineer,No,Yes
+1-3 years,Python,Burp Suite,Other (please specify),Git,No,Yes,Yes,Software Engineer,No,Yes
+3-5 years,Swift,Scikit-Learn,SQLite,Nginx,No,No,No,Machine Learning Engineer,Yes,No
+More than 5 years,None,Flask,Microsoft SQL Server,AWS,No,Yes,No,Front-End Developer,No,Yes
+1-3 years,Rust,Django,SQLite,CircleCI,Yes,No,Yes,Systems Analyst,No,No
+1-3 years,Other (please specify),Dask,PostgreSQL,AWS,Yes,Yes,No,Database Administrator,No,No
+More than 5 years,Other (please specify),Vue.js,Other (please specify),GitLab CI/CD,Yes,Yes,No,Full-Stack Developer,No,No
+1-3 years,Other (please specify),Metasploit,Microsoft SQL Server,Google Cloud Platform,Yes,No,No,Game Developer,Yes,Yes
+More than 5 years,Python,Unreal Engine,MongoDB,Kubernetes,Yes,Yes,Yes,Network Engineer,No,No
+None,Python,Express.js,PostgreSQL,Git,No,No,Yes,Other (please specify),No,Yes
+None,C#,Nestjs,Microsoft SQL Server,GitLab CI/CD,No,Yes,No,Machine Learning Engineer,No,Yes
+1-3 years,Ruby,Vue.js,MongoDB,Jenkins,Yes,Yes,Yes,Systems Analyst,No,Yes
+Less than 1 year,Swift,Xamarin,Redis,Docker,Yes,No,Yes,Mobile Developer,No,Yes
+None,None,Unreal Engine,Microsoft SQL Server,Ansible,No,Yes,No,Machine Learning Engineer,Yes,Yes
+None,Python,PyTorch,PostgreSQL,Kubernetes,Yes,Yes,No,Data Engineer,Yes,No
+Less than 1 year,Rust,Wireshark,PostgreSQL,Jenkins,No,No,Yes,Front-End Developer,Yes,No
+More than 5 years,C#,CryEngine,SQLite,Apache,No,Yes,Yes,Network Engineer,Yes,No
+1-3 years,JavaScript,WPF,Microsoft SQL Server,Apache,No,No,No,Network Engineer,No,No
+1-3 years,Ruby,GTK,Redis,Nginx,No,No,Yes,Product Manager,Yes,No
+1-3 years,Rust,Scikit-Learn,SQLite,Terraform,No,No,Yes,Network Engineer,No,No
+3-5 years,Kotlin,Express.js,SQLite,Nginx,No,No,Yes,Robotics Engineer,No,Yes
+None,C++,Snort,MongoDB,Nginx,Yes,No,Yes,Software Engineer,Yes,No
+None,C#,Scikit-Learn,MongoDB,Apache,Yes,Yes,Yes,IT Support Specialist,Yes,Yes
+3-5 years,Kotlin,WPF,Other (please specify),Kubernetes,No,Yes,Yes,AI Researcher,Yes,No
+More than 5 years,Kotlin,Kali Linux,SQLite,Travis CI,Yes,Yes,Yes,Other (please specify),No,No
+Less than 1 year,Kotlin,Electron,MySQL,Kubernetes,No,Yes,Yes,Cloud Engineer,No,Yes
+More than 5 years,TypeScript,SwiftUI,MySQL,Azure,No,No,Yes,Project Manager,No,Yes
+Less than 1 year,None,WPF,Microsoft SQL Server,Travis CI,No,No,No,DevOps Engineer,Yes,Yes
+Less than 1 year,C++,Angular,Microsoft SQL Server,CircleCI,No,Yes,No,Software Engineer,No,Yes
+Less than 1 year,C++,Express.js,SQLite,GitLab CI/CD,No,Yes,Yes,Software Engineer,Yes,No
+None,Swift,Electron,CassandraDB,AWS,No,Yes,No,Back-End Developer,Yes,No
+None,C,JavaFX,SQLite,Jenkins,Yes,No,No,Cybersecurity Analyst,Yes,Yes
+3-5 years,Go,Electron,PostgreSQL,CircleCI,No,Yes,Yes,AI Researcher,No,No
+None,JavaScript,TensorFlow,CassandraDB,Kubernetes,Yes,No,Yes,Product Manager,Yes,No
+3-5 years,Rust,Angular,Redis,Travis CI,No,Yes,Yes,Data Scientist,No,No
+None,JavaScript,CryEngine,CassandraDB,Docker,Yes,No,Yes,IT Support Specialist,Yes,Yes
+1-3 years,Python,SwiftUI,PostgreSQL,Docker,No,Yes,Yes,Product Manager,Yes,No
+1-3 years,TypeScript,Numpy,PostgreSQL,CircleCI,No,No,No,Product Manager,No,Yes
+Less than 1 year,C#,CryEngine,Microsoft SQL Server,CircleCI,No,No,Yes,Network Engineer,Yes,No
+More than 5 years,C++,Ruby on Rails,MongoDB,Other (please specify),Yes,No,No,Software Engineer,No,Yes
+None,Go,Electron,Other (please specify),Terraform,No,No,No,Systems Analyst,Yes,Yes
+1-3 years,C,Unreal Engine,Other (please specify),Google Cloud Platform,Yes,Yes,Yes,Machine Learning Engineer,No,Yes
+3-5 years,Swift,Ruby on Rails,MySQL,Jenkins,Yes,Yes,Yes,Robotics Engineer,No,Yes
+None,Rust,GTK,MySQL,Kubernetes,Yes,Yes,Yes,IT Support Specialist,No,Yes
+1-3 years,None,Scikit-Learn,Redis,Kubernetes,Yes,No,Yes,Network Engineer,No,Yes
+1-3 years,Java,Nestjs,PostgreSQL,DigitalOcean,No,No,Yes,Data Scientist,No,Yes
+1-3 years,Go,Svelte,MySQL,GitLab CI/CD,No,No,No,DevOps Engineer,No,No
+None,Python,React,MongoDB,Nginx,No,No,No,Cybersecurity Analyst,No,Yes
+Less than 1 year,PHP,WPF,OracleDB,Azure,Yes,No,Yes,Cybersecurity Analyst,No,No
+None,Java,Wireshark,MongoDB,DigitalOcean,No,No,Yes,Cybersecurity Analyst,No,Yes
+None,Go,WPF,CassandraDB,Nginx,Yes,No,Yes,Product Manager,Yes,No
+Less than 1 year,JavaScript,Django,Redis,Git,Yes,No,Yes,Data Engineer,Yes,No
+None,C,React,MongoDB,Travis CI,Yes,No,No,IT Support Specialist,Yes,No
+Less than 1 year,JavaScript,Dask,MongoDB,DigitalOcean,Yes,No,Yes,Machine Learning Engineer,No,Yes
+None,Rust,Unreal Engine,CassandraDB,DigitalOcean,No,Yes,Yes,DevOps Engineer,Yes,Yes
+Less than 1 year,PHP,CryEngine,MongoDB,Google Cloud Platform,Yes,Yes,Yes,Front-End Developer,No,Yes
+None,JavaScript,Electron,OracleDB,Terraform,Yes,Yes,No,Cybersecurity Analyst,No,No
+None,Kotlin,Next.js,MySQL,Terraform,Yes,No,Yes,AI Researcher,No,Yes
+1-3 years,C#,Scikit-Learn,Redis,AWS,No,Yes,Yes,Software Engineer,No,No
+More than 5 years,Kotlin,Burp Suite,MongoDB,Travis CI,No,Yes,Yes,Game Developer,No,Yes
+Less than 1 year,Java,React,Redis,AWS,No,Yes,No,Other (please specify),No,No
+None,Kotlin,Flutter,SQLite,Travis CI,No,No,Yes,Machine Learning Engineer,No,No
+3-5 years,Java,Unreal Engine,Microsoft SQL Server,GitLab CI/CD,No,No,Yes,Back-End Developer,No,No
+Less than 1 year,Other (please specify),Apache Spark,Microsoft SQL Server,Git,Yes,Yes,No,Data Engineer,No,No
+1-3 years,C++,Kali Linux,PostgreSQL,DigitalOcean,No,No,No,Front-End Developer,Yes,Yes
+None,TypeScript,SwiftUI,MongoDB,Ansible,No,Yes,No,Data Scientist,No,No
+Less than 1 year,Dart,Keras,Microsoft SQL Server,Jenkins,No,Yes,No,Full-Stack Developer,Yes,No
+None,Swift,Scikit-Learn,MongoDB,Git,No,Yes,No,Cybersecurity Analyst,Yes,No
+1-3 years,Rust,GTK,Other (please specify),Google Cloud Platform,No,Yes,Yes,Front-End Developer,Yes,No
+1-3 years,Kotlin,Metasploit,Redis,Docker,Yes,No,No,Front-End Developer,Yes,No
+3-5 years,Go,Apache Spark,MySQL,Ansible,No,Yes,Yes,Cybersecurity Analyst,Yes,Yes
+More than 5 years,Rust,Express.js,SQLite,Jenkins,No,No,No,Product Manager,Yes,No
+More than 5 years,C#,Pandas,PostgreSQL,Nginx,No,No,Yes,Robotics Engineer,No,No
+1-3 years,Ruby,React,OracleDB,Ansible,Yes,No,No,Data Scientist,No,Yes
+Less than 1 year,C,Angular,MongoDB,Jenkins,No,No,Yes,Systems Analyst,Yes,No
+1-3 years,Java,Flutter,OracleDB,Git,Yes,No,No,Network Engineer,No,No
+None,Java,PyTorch,Microsoft SQL Server,CircleCI,Yes,Yes,Yes,Project Manager,No,No
+More than 5 years,None,Express.js,SQLite,Terraform,Yes,No,Yes,DevOps Engineer,No,Yes
+1-3 years,Rust,Next.js,MySQL,GitLab CI/CD,Yes,Yes,No,Data Scientist,No,No
+None,C,Apache Spark,OracleDB,Ansible,Yes,No,No,Product Manager,No,Yes
+3-5 years,PHP,Django,Redis,Docker,No,Yes,Yes,IT Support Specialist,Yes,Yes
+More than 5 years,Dart,TensorFlow,OracleDB,Nginx,No,No,No,Cloud Engineer,Yes,No
+3-5 years,C++,Kali Linux,MongoDB,Apache,No,Yes,No,Data Scientist,Yes,Yes
+1-3 years,Java,Kali Linux,Other (please specify),Kubernetes,Yes,Yes,No,Product Manager,No,Yes
+None,C++,TensorFlow,SQLite,CircleCI,Yes,Yes,No,IT Support Specialist,Yes,No
+1-3 years,Other (please specify),Svelte,OracleDB,Kubernetes,No,No,Yes,DevOps Engineer,Yes,Yes
+None,Python,Xamarin,MongoDB,Travis CI,No,Yes,No,Project Manager,No,Yes
+1-3 years,Go,Metasploit,PostgreSQL,DigitalOcean,No,No,No,Cloud Engineer,No,Yes
+None,C++,Scikit-Learn,MongoDB,DigitalOcean,Yes,Yes,No,Network Engineer,Yes,No
+1-3 years,Ruby,Numpy,MongoDB,Terraform,No,Yes,Yes,IT Support Specialist,Yes,No
+Less than 1 year,Dart,Kotlin Multiplatform Mobile (KMM),MySQL,Jenkins,No,Yes,Yes,Mobile Developer,Yes,Yes
+3-5 years,C#,Pandas,MySQL,Terraform,Yes,No,Yes,DevOps Engineer,No,No
+None,C++,JavaFX,MongoDB,Nginx,Yes,Yes,Yes,Project Manager,No,No
+None,Java,Kali Linux,OracleDB,Apache,No,No,Yes,Game Developer,No,Yes
+Less than 1 year,Java,Qt,Other (please specify),Jenkins,No,Yes,No,Data Scientist,Yes,No
+More than 5 years,C++,.NET Core,Redis,DigitalOcean,Yes,Yes,Yes,Mobile Developer,Yes,No
+None,C++,Electron,OracleDB,Terraform,No,Yes,No,Project Manager,Yes,No
+Less than 1 year,Python,TensorFlow,SQLite,Jenkins,No,Yes,Yes,Database Administrator,No,Yes
+1-3 years,Python,OpenVAS,Redis,Ansible,No,No,No,Front-End Developer,No,Yes
+Less than 1 year,Dart,Ruby on Rails,MySQL,Terraform,No,Yes,Yes,Project Manager,Yes,Yes
+More than 5 years,JavaScript,Express.js,Microsoft SQL Server,Nginx,No,No,No,Data Scientist,Yes,Yes
+More than 5 years,PHP,TensorFlow,SQLite,AWS,No,Yes,Yes,Cybersecurity Analyst,Yes,Yes
+More than 5 years,Other (please specify),CryEngine,CassandraDB,AWS,Yes,Yes,Yes,Data Scientist,Yes,No
+1-3 years,Rust,React,PostgreSQL,Docker,No,No,Yes,Data Engineer,Yes,No
+None,None,Flutter,OracleDB,CircleCI,Yes,No,No,Database Administrator,Yes,Yes
+None,Other (please specify),CryEngine,Microsoft SQL Server,Ansible,No,No,No,Database Administrator,No,Yes
+None,Go,Flutter,PostgreSQL,Git,Yes,No,Yes,AI Researcher,No,No
+More than 5 years,Dart,PyTorch,Microsoft SQL Server,Google Cloud Platform,No,No,Yes,Product Manager,No,Yes
+Less than 1 year,None,PyTorch,OracleDB,Other (please specify),Yes,Yes,No,Product Manager,Yes,No
+More than 5 years,C#,Ruby on Rails,Redis,Git,No,No,No,Network Engineer,Yes,Yes
+3-5 years,Swift,Snort,MongoDB,AWS,Yes,No,Yes,Product Manager,Yes,Yes
+None,TypeScript,PyTorch,MySQL,Nginx,No,No,Yes,Game Developer,No,Yes
+More than 5 years,Dart,Angular,Other (please specify),Travis CI,No,Yes,No,Other (please specify),Yes,No
+More than 5 years,Swift,Angular,CassandraDB,Git,Yes,No,Yes,Machine Learning Engineer,Yes,No
+3-5 years,Swift,Next.js,MongoDB,Jenkins,No,Yes,Yes,Other (please specify),No,Yes
+None,JavaScript,JavaFX,Microsoft SQL Server,GitLab CI/CD,No,Yes,No,Database Administrator,No,No
+3-5 years,None,Svelte,MySQL,Azure,No,No,No,AI Researcher,No,No
+Less than 1 year,PHP,Numpy,PostgreSQL,Kubernetes,No,No,No,Software Engineer,No,No
+3-5 years,Kotlin,Snort,MySQL,Azure,No,No,Yes,Game Developer,Yes,No
+More than 5 years,None,Metasploit,PostgreSQL,Terraform,Yes,Yes,Yes,AI Researcher,Yes,No
+More than 5 years,PHP,Snort,OracleDB,Google Cloud Platform,Yes,Yes,No,IT Support Specialist,Yes,No
+1-3 years,C#,Qt,MySQL,Other (please specify),Yes,Yes,No,Software Engineer,No,Yes
+1-3 years,Go,Ruby on Rails,PostgreSQL,Terraform,No,Yes,Yes,Cybersecurity Analyst,No,Yes
+More than 5 years,Ruby,Godot,MySQL,Terraform,Yes,Yes,No,Full-Stack Developer,Yes,Yes
+None,Go,.NET Core,MongoDB,AWS,No,Yes,Yes,Systems Analyst,Yes,Yes
+More than 5 years,TypeScript,Godot,Redis,Other (please specify),No,No,No,Cloud Engineer,Yes,Yes
+1-3 years,Dart,WPF,Other (please specify),Google Cloud Platform,No,No,No,IT Support Specialist,No,Yes
+1-3 years,Swift,Keras,Redis,Jenkins,No,No,No,Full-Stack Developer,Yes,No
+3-5 years,Rust,Ruby on Rails,MongoDB,AWS,No,No,No,Cybersecurity Analyst,No,Yes
+None,Java,CryEngine,Microsoft SQL Server,Apache,No,Yes,No,Database Administrator,Yes,Yes
+More than 5 years,Go,CryEngine,Microsoft SQL Server,Ansible,No,Yes,No,IT Support Specialist,Yes,Yes
+More than 5 years,C++,Qt,Redis,CircleCI,No,Yes,No,Data Engineer,No,Yes
+3-5 years,Other (please specify),Unreal Engine,PostgreSQL,DigitalOcean,No,Yes,No,Mobile Developer,Yes,Yes
+More than 5 years,Swift,Apache Spark,PostgreSQL,DigitalOcean,Yes,No,Yes,Data Scientist,No,Yes
+Less than 1 year,Java,Wireshark,MongoDB,Terraform,Yes,No,Yes,Front-End Developer,No,Yes
+None,JavaScript,Django,MySQL,AWS,Yes,Yes,Yes,Game Developer,Yes,No
+1-3 years,Ruby,CryEngine,PostgreSQL,CircleCI,Yes,Yes,No,Software Engineer,Yes,Yes
+Less than 1 year,PHP,Unreal Engine,Other (please specify),Jenkins,No,No,No,Product Manager,Yes,No
+None,Kotlin,Metasploit,CassandraDB,AWS,Yes,No,Yes,Data Engineer,Yes,No
+3-5 years,JavaScript,Dask,Redis,Nginx,Yes,No,No,Product Manager,Yes,Yes
+Less than 1 year,C#,Dask,Redis,Other (please specify),No,Yes,Yes,Data Engineer,No,Yes
+Less than 1 year,C++,Angular,MySQL,GitLab CI/CD,Yes,No,Yes,Robotics Engineer,Yes,Yes
+3-5 years,Python,GTK,Redis,Azure,No,Yes,No,Game Developer,Yes,Yes
+Less than 1 year,Python,TensorFlow,Redis,Ansible,Yes,No,Yes,Back-End Developer,No,Yes
+1-3 years,Other (please specify),Django,Microsoft SQL Server,GitLab CI/CD,Yes,Yes,No,Project Manager,Yes,No
+More than 5 years,Python,Numpy,Redis,Docker,Yes,Yes,No,DevOps Engineer,Yes,Yes
+More than 5 years,C,OpenVAS,Redis,Nginx,No,Yes,Yes,Network Engineer,Yes,Yes
+Less than 1 year,JavaScript,Wireshark,Redis,Ansible,No,Yes,No,Network Engineer,Yes,Yes
+3-5 years,C++,Metasploit,OracleDB,Other (please specify),No,Yes,Yes,Data Scientist,No,Yes
+3-5 years,Python,Numpy,MySQL,Kubernetes,Yes,Yes,Yes,DevOps Engineer,No,Yes
+More than 5 years,C++,Express.js,Microsoft SQL Server,Azure,No,Yes,Yes,Software Engineer,Yes,Yes
+Less than 1 year,PHP,Express.js,MongoDB,Ansible,No,No,No,AI Researcher,No,No
+Less than 1 year,None,WPF,MySQL,Apache,No,No,No,Cybersecurity Analyst,No,Yes
+3-5 years,C,.NET Core,Other (please specify),Google Cloud Platform,Yes,Yes,Yes,Database Administrator,No,No
+1-3 years,TypeScript,React Native,PostgreSQL,Apache,No,Yes,Yes,AI Researcher,Yes,Yes
+None,Kotlin,Metasploit,MySQL,Terraform,No,No,No,IT Support Specialist,No,No
+3-5 years,Go,Burp Suite,Other (please specify),Google Cloud Platform,No,No,No,Mobile Developer,No,Yes
+3-5 years,Rust,Kotlin Multiplatform Mobile (KMM),MySQL,Google Cloud Platform,Yes,No,Yes,Project Manager,Yes,No
+None,TypeScript,Dask,Redis,Jenkins,No,No,Yes,Other (please specify),Yes,Yes
+3-5 years,JavaScript,JavaFX,SQLite,Ansible,Yes,Yes,Yes,Data Engineer,No,Yes
+Less than 1 year,None,Godot,Redis,Nginx,Yes,No,Yes,Robotics Engineer,No,No
+3-5 years,Ruby,TensorFlow,PostgreSQL,Google Cloud Platform,Yes,No,No,Project Manager,Yes,Yes
+Less than 1 year,TypeScript,Angular,CassandraDB,DigitalOcean,No,No,Yes,Software Engineer,Yes,Yes
+None,JavaScript,Svelte,Other (please specify),CircleCI,Yes,No,No,Database Administrator,No,Yes
+More than 5 years,Python,Unity,Other (please specify),Google Cloud Platform,No,Yes,No,Software Engineer,Yes,No
+Less than 1 year,Rust,Pandas,MongoDB,Jenkins,Yes,No,Yes,Data Engineer,No,No
+More than 5 years,Kotlin,Vue.js,Redis,Google Cloud Platform,No,Yes,No,Product Manager,Yes,Yes
+None,C++,WPF,MySQL,Kubernetes,Yes,No,No,IT Support Specialist,Yes,No
+3-5 years,Java,Dask,OracleDB,Nginx,No,Yes,Yes,Mobile Developer,Yes,No
+3-5 years,Dart,Express.js,Other (please specify),GitLab CI/CD,No,Yes,No,AI Researcher,Yes,No
+3-5 years,TypeScript,Django,Microsoft SQL Server,Nginx,No,No,No,Other (please specify),No,Yes
+More than 5 years,Dart,Wireshark,Other (please specify),Docker,Yes,Yes,Yes,Robotics Engineer,No,No
+More than 5 years,Go,Qt,Redis,Docker,Yes,No,Yes,IT Support Specialist,Yes,Yes
+More than 5 years,Kotlin,GTK,Other (please specify),Other (please specify),Yes,No,No,Systems Analyst,No,Yes
+More than 5 years,Go,Nestjs,Microsoft SQL Server,Apache,No,No,No,DevOps Engineer,Yes,Yes
+More than 5 years,Python,Nestjs,MongoDB,Google Cloud Platform,No,No,No,Cloud Engineer,Yes,No
+Less than 1 year,C,Express.js,PostgreSQL,Google Cloud Platform,Yes,Yes,Yes,Product Manager,No,No
+1-3 years,Other (please specify),Next.js,MySQL,Git,Yes,No,Yes,Robotics Engineer,No,No
+More than 5 years,Swift,Kali Linux,Redis,Travis CI,No,No,Yes,Other (please specify),No,Yes
+Less than 1 year,C++,PyTorch,MySQL,Google Cloud Platform,No,Yes,Yes,Other (please specify),No,No
+None,Ruby,Next.js,MongoDB,Docker,Yes,No,No,Other (please specify),Yes,Yes
+More than 5 years,Other (please specify),Qt,Other (please specify),Jenkins,No,No,No,Systems Analyst,Yes,Yes
+3-5 years,Other (please specify),CryEngine,CassandraDB,Other (please specify),Yes,Yes,Yes,AI Researcher,Yes,No
+1-3 years,TypeScript,React,Microsoft SQL Server,GitLab CI/CD,Yes,Yes,No,Back-End Developer,No,No
+Less than 1 year,Rust,Snort,MongoDB,Apache,No,Yes,Yes,Systems Analyst,Yes,Yes
+3-5 years,Ruby,Wireshark,MySQL,DigitalOcean,No,Yes,Yes,Database Administrator,Yes,Yes
+None,Other (please specify),Unreal Engine,Redis,Azure,No,Yes,Yes,IT Support Specialist,No,Yes
+More than 5 years,Java,Scikit-Learn,CassandraDB,Ansible,No,No,No,DevOps Engineer,Yes,Yes
+None,Swift,React Native,OracleDB,Travis CI,Yes,No,Yes,Data Scientist,No,Yes
+More than 5 years,C,Electron,SQLite,Terraform,No,No,Yes,Front-End Developer,Yes,Yes
+None,Go,JavaFX,OracleDB,Azure,Yes,Yes,Yes,Systems Analyst,No,No
+3-5 years,TypeScript,Xamarin,CassandraDB,GitLab CI/CD,No,Yes,No,Network Engineer,Yes,Yes
+Less than 1 year,Ruby,Flutter,Microsoft SQL Server,Google Cloud Platform,Yes,Yes,No,Game Developer,No,No
+3-5 years,Dart,OpenVAS,Redis,Git,No,Yes,No,Data Engineer,Yes,No
+1-3 years,C,Scikit-Learn,Microsoft SQL Server,AWS,Yes,Yes,No,Robotics Engineer,Yes,Yes
+3-5 years,Other (please specify),SwiftUI,SQLite,CircleCI,Yes,Yes,Yes,Other (please specify),Yes,Yes
+Less than 1 year,Python,Numpy,Redis,GitLab CI/CD,Yes,Yes,No,Cloud Engineer,Yes,Yes
+More than 5 years,Python,Snort,Redis,CircleCI,Yes,No,No,Game Developer,Yes,Yes
+None,Swift,Unity,OracleDB,Google Cloud Platform,No,Yes,No,Other (please specify),No,No
+Less than 1 year,JavaScript,Electron,CassandraDB,Other (please specify),No,Yes,Yes,Data Engineer,Yes,Yes
+More than 5 years,Other (please specify),SwiftUI,PostgreSQL,Kubernetes,No,Yes,Yes,Mobile Developer,Yes,Yes
+Less than 1 year,None,Dask,MongoDB,CircleCI,Yes,Yes,Yes,Data Engineer,Yes,No
+More than 5 years,Other (please specify),Nestjs,PostgreSQL,Travis CI,Yes,No,No,Product Manager,Yes,No
+More than 5 years,C#,Burp Suite,Other (please specify),Git,No,Yes,No,Game Developer,No,Yes
+3-5 years,Other (please specify),Snort,Microsoft SQL Server,Travis CI,Yes,No,No,Back-End Developer,Yes,Yes
+3-5 years,Swift,Django,Other (please specify),Jenkins,No,Yes,Yes,Cybersecurity Analyst,Yes,Yes
+None,Java,Kotlin Multiplatform Mobile (KMM),Microsoft SQL Server,Google Cloud Platform,No,Yes,Yes,AI Researcher,No,No
+3-5 years,Rust,Express.js,CassandraDB,Kubernetes,No,No,Yes,IT Support Specialist,No,No
+More than 5 years,Dart,WPF,OracleDB,Docker,Yes,Yes,Yes,Full-Stack Developer,No,Yes
+3-5 years,C++,Unreal Engine,SQLite,Git,Yes,No,No,Back-End Developer,No,No
+More than 5 years,Go,React Native,MongoDB,Azure,No,Yes,Yes,Database Administrator,No,No
+3-5 years,PHP,Keras,SQLite,Jenkins,Yes,No,Yes,Back-End Developer,No,No
+1-3 years,None,Unreal Engine,CassandraDB,Google Cloud Platform,Yes,No,Yes,Cloud Engineer,Yes,No
+Less than 1 year,Ruby,Metasploit,OracleDB,Azure,Yes,No,Yes,Software Engineer,No,Yes
+3-5 years,JavaScript,Express.js,Microsoft SQL Server,AWS,No,Yes,Yes,Robotics Engineer,No,Yes
+None,Rust,Vue.js,Microsoft SQL Server,Apache,Yes,Yes,No,Product Manager,No,No
+1-3 years,TypeScript,OpenVAS,CassandraDB,GitLab CI/CD,Yes,Yes,No,Cloud Engineer,No,Yes
+None,Other (please specify),Kali Linux,Microsoft SQL Server,DigitalOcean,Yes,Yes,Yes,Cybersecurity Analyst,Yes,Yes
+3-5 years,Go,Flutter,CassandraDB,Jenkins,Yes,Yes,Yes,Database Administrator,Yes,No
+More than 5 years,Kotlin,Next.js,SQLite,Ansible,No,No,Yes,Back-End Developer,Yes,Yes
+3-5 years,Java,OpenVAS,Redis,Git,Yes,Yes,Yes,Other (please specify),Yes,No
+Less than 1 year,Go,React,MongoDB,Azure,Yes,Yes,No,Software Engineer,Yes,Yes
+3-5 years,PHP,Unity,Other (please specify),Ansible,Yes,Yes,Yes,Machine Learning Engineer,Yes,No
+1-3 years,Other (please specify),SwiftUI,Redis,Nginx,No,No,No,Data Scientist,No,Yes
+More than 5 years,JavaScript,Unreal Engine,Other (please specify),Kubernetes,Yes,Yes,Yes,IT Support Specialist,No,Yes
+More than 5 years,Go,Flutter,Other (please specify),DigitalOcean,Yes,Yes,No,IT Support Specialist,Yes,Yes
+Less than 1 year,TypeScript,Scikit-Learn,Redis,CircleCI,Yes,No,No,Full-Stack Developer,No,Yes
+3-5 years,Java,Unreal Engine,SQLite,Git,Yes,Yes,Yes,Robotics Engineer,Yes,No
+1-3 years,Ruby,TensorFlow,Other (please specify),Git,Yes,Yes,No,Project Manager,Yes,No
+More than 5 years,Rust,SwiftUI,OracleDB,Other (please specify),Yes,Yes,No,Full-Stack Developer,Yes,Yes
+More than 5 years,C#,WPF,PostgreSQL,Other (please specify),No,No,Yes,Full-Stack Developer,Yes,No
+Less than 1 year,C#,React Native,OracleDB,AWS,Yes,No,Yes,Back-End Developer,Yes,No
+1-3 years,None,Dask,CassandraDB,Ansible,Yes,No,Yes,Robotics Engineer,Yes,Yes
+3-5 years,C,Vue.js,Other (please specify),Docker,Yes,No,No,Full-Stack Developer,Yes,Yes
+3-5 years,None,Flutter,SQLite,Apache,Yes,No,No,Cybersecurity Analyst,No,No
+More than 5 years,Python,Keras,Microsoft SQL Server,Kubernetes,No,Yes,No,Full-Stack Developer,No,Yes
+More than 5 years,Go,Unity,Redis,Git,No,No,Yes,Machine Learning Engineer,Yes,No
+None,C++,Nestjs,OracleDB,CircleCI,No,Yes,Yes,DevOps Engineer,No,No
+1-3 years,PHP,Next.js,MySQL,AWS,Yes,No,Yes,Project Manager,No,No
+Less than 1 year,C++,.NET Core,SQLite,Jenkins,Yes,No,Yes,Software Engineer,No,Yes
+None,Java,Apache Spark,SQLite,GitLab CI/CD,Yes,No,Yes,Cybersecurity Analyst,Yes,No
+Less than 1 year,Kotlin,Snort,PostgreSQL,Git,No,No,Yes,Full-Stack Developer,Yes,No
+Less than 1 year,JavaScript,Scikit-Learn,SQLite,Google Cloud Platform,No,No,No,Database Administrator,No,No
+Less than 1 year,Dart,Electron,OracleDB,Git,No,No,No,Data Engineer,No,No
+Less than 1 year,Other (please specify),Django,PostgreSQL,Google Cloud Platform,No,Yes,No,Software Engineer,Yes,No
+Less than 1 year,Dart,Nestjs,OracleDB,Apache,No,Yes,No,Back-End Developer,No,Yes
+Less than 1 year,Swift,Nestjs,MySQL,Kubernetes,No,Yes,No,Network Engineer,Yes,Yes
+1-3 years,Python,React Native,MySQL,CircleCI,Yes,No,Yes,Data Engineer,No,Yes
+3-5 years,Swift,JavaFX,Redis,Jenkins,Yes,Yes,No,DevOps Engineer,Yes,No
+1-3 years,C++,Kotlin Multiplatform Mobile (KMM),Other (please specify),Docker,No,Yes,Yes,IT Support Specialist,No,Yes
+Less than 1 year,JavaScript,GTK,MongoDB,Apache,Yes,No,No,DevOps Engineer,Yes,No
+More than 5 years,C++,Flask,CassandraDB,CircleCI,No,Yes,No,Product Manager,No,No
+Less than 1 year,Python,JavaFX,CassandraDB,Git,Yes,Yes,Yes,Front-End Developer,No,No
+More than 5 years,Python,Burp Suite,MongoDB,Kubernetes,Yes,Yes,Yes,Mobile Developer,Yes,No
+Less than 1 year,Kotlin,React Native,OracleDB,Azure,No,Yes,Yes,Other (please specify),No,Yes
+None,Dart,Burp Suite,MongoDB,Apache,Yes,Yes,No,DevOps Engineer,No,No
+1-3 years,None,React,Redis,Terraform,No,Yes,No,Software Engineer,Yes,Yes
+More than 5 years,Other (please specify),JavaFX,Other (please specify),Travis CI,Yes,Yes,Yes,Mobile Developer,Yes,No
+1-3 years,Python,TensorFlow,SQLite,CircleCI,No,No,Yes,DevOps Engineer,No,No
+1-3 years,PHP,Ruby on Rails,Microsoft SQL Server,Travis CI,No,Yes,No,Data Scientist,Yes,Yes
+Less than 1 year,Other (please specify),Keras,MySQL,Other (please specify),No,Yes,Yes,Project Manager,Yes,No
+3-5 years,Other (please specify),Flask,SQLite,Other (please specify),No,No,No,Full-Stack Developer,No,No
+More than 5 years,PHP,Svelte,Other (please specify),Other (please specify),No,No,No,Mobile Developer,No,No
+1-3 years,C,Dask,Microsoft SQL Server,Azure,Yes,No,Yes,Network Engineer,Yes,No
+More than 5 years,Ruby,Numpy,Redis,Google Cloud Platform,Yes,No,No,Robotics Engineer,Yes,No
+More than 5 years,C,GTK,MySQL,Apache,Yes,Yes,No,AI Researcher,Yes,Yes
+Less than 1 year,Ruby,Express.js,PostgreSQL,Apache,Yes,Yes,Yes,Robotics Engineer,Yes,No
+Less than 1 year,JavaScript,SwiftUI,MongoDB,CircleCI,No,No,No,Software Engineer,No,No
+3-5 years,JavaScript,React Native,Microsoft SQL Server,AWS,Yes,Yes,No,Data Scientist,Yes,No
+None,JavaScript,Kotlin Multiplatform Mobile (KMM),Microsoft SQL Server,Kubernetes,Yes,No,No,Systems Analyst,No,Yes
+Less than 1 year,JavaScript,Apache Spark,OracleDB,Other (please specify),No,No,No,AI Researcher,No,Yes
+1-3 years,TypeScript,TensorFlow,Redis,Azure,Yes,Yes,Yes,Robotics Engineer,Yes,Yes
+1-3 years,TypeScript,Dask,Microsoft SQL Server,GitLab CI/CD,Yes,No,Yes,Database Administrator,No,Yes
+3-5 years,C++,CryEngine,MySQL,Apache,No,No,No,Mobile Developer,No,Yes
+1-3 years,Kotlin,Xamarin,Microsoft SQL Server,Kubernetes,No,No,Yes,Systems Analyst,No,Yes
+Less than 1 year,TypeScript,Next.js,MySQL,Nginx,No,No,Yes,Back-End Developer,Yes,No
+More than 5 years,Python,SwiftUI,Microsoft SQL Server,Apache,Yes,Yes,No,DevOps Engineer,No,No
+Less than 1 year,Swift,Kali Linux,OracleDB,Git,Yes,Yes,Yes,Data Scientist,Yes,Yes
+Less than 1 year,Ruby,Flutter,CassandraDB,Nginx,Yes,No,Yes,Cybersecurity Analyst,No,Yes
+1-3 years,Rust,Unity,SQLite,Azure,No,No,No,Front-End Developer,No,Yes
+None,Dart,React,Redis,AWS,Yes,No,Yes,DevOps Engineer,Yes,Yes
+Less than 1 year,C++,Ruby on Rails,MySQL,Azure,No,No,Yes,Game Developer,Yes,Yes
+Less than 1 year,Ruby,Burp Suite,MySQL,Nginx,No,No,No,DevOps Engineer,Yes,No
+Less than 1 year,Rust,Kali Linux,MySQL,Apache,No,No,Yes,Machine Learning Engineer,No,Yes
+1-3 years,Java,JavaFX,Redis,Docker,No,No,Yes,Data Scientist,Yes,No
+More than 5 years,TypeScript,Angular,Microsoft SQL Server,Ansible,No,No,Yes,Project Manager,No,No
+More than 5 years,PHP,Pandas,Microsoft SQL Server,GitLab CI/CD,Yes,Yes,No,Data Scientist,No,Yes
+More than 5 years,C++,Django,SQLite,GitLab CI/CD,No,No,Yes,Software Engineer,No,No
+More than 5 years,None,Django,MySQL,DigitalOcean,Yes,No,Yes,IT Support Specialist,No,No
+None,C#,Kali Linux,MongoDB,Google Cloud Platform,No,No,Yes,Network Engineer,Yes,No
+3-5 years,C#,Svelte,CassandraDB,Jenkins,No,Yes,Yes,Product Manager,Yes,No
+Less than 1 year,PHP,Kotlin Multiplatform Mobile (KMM),OracleDB,Travis CI,Yes,No,No,Cloud Engineer,Yes,Yes
+Less than 1 year,C#,React,SQLite,AWS,No,Yes,No,Network Engineer,Yes,No
+1-3 years,None,Unity,OracleDB,Other (please specify),No,No,Yes,Machine Learning Engineer,No,No
+Less than 1 year,Rust,Kotlin Multiplatform Mobile (KMM),PostgreSQL,Travis CI,Yes,Yes,No,Software Engineer,No,Yes
+1-3 years,Java,TensorFlow,Other (please specify),Travis CI,No,Yes,Yes,Game Developer,Yes,No
+More than 5 years,C++,Keras,Other (please specify),Google Cloud Platform,Yes,Yes,No,Data Scientist,Yes,Yes
+Less than 1 year,Rust,Django,MySQL,Other (please specify),No,No,Yes,Data Engineer,No,Yes
+None,TypeScript,Numpy,Microsoft SQL Server,Terraform,Yes,Yes,No,DevOps Engineer,No,No
+More than 5 years,C#,TensorFlow,SQLite,Nginx,Yes,No,No,Network Engineer,Yes,No
+None,Rust,GTK,Other (please specify),CircleCI,Yes,Yes,No,Mobile Developer,Yes,No
+3-5 years,JavaScript,Express.js,Redis,Azure,Yes,Yes,No,Mobile Developer,Yes,No
+Less than 1 year,C++,JavaFX,Redis,Docker,Yes,No,Yes,Systems Analyst,No,No
+1-3 years,None,SwiftUI,SQLite,AWS,Yes,Yes,Yes,Robotics Engineer,Yes,No
+1-3 years,Ruby,TensorFlow,MySQL,Git,No,No,Yes,Robotics Engineer,Yes,Yes
+None,C#,Scikit-Learn,Other (please specify),Nginx,No,No,No,AI Researcher,Yes,No
+Less than 1 year,None,Flutter,OracleDB,Apache,Yes,Yes,Yes,Database Administrator,No,Yes
+More than 5 years,Rust,React,PostgreSQL,Terraform,No,Yes,Yes,Data Engineer,Yes,No
+Less than 1 year,Python,Numpy,CassandraDB,Nginx,No,No,Yes,Database Administrator,Yes,No
+1-3 years,JavaScript,Flutter,OracleDB,Ansible,No,No,Yes,Front-End Developer,No,No
+3-5 years,Other (please specify),Pandas,SQLite,CircleCI,No,Yes,No,Back-End Developer,Yes,Yes
+1-3 years,C,PyTorch,SQLite,Docker,Yes,No,Yes,Machine Learning Engineer,No,No
+Less than 1 year,Dart,Unreal Engine,Other (please specify),CircleCI,No,No,No,Full-Stack Developer,Yes,Yes
+1-3 years,Ruby,Svelte,MySQL,AWS,No,Yes,No,IT Support Specialist,Yes,Yes
+Less than 1 year,Swift,Xamarin,SQLite,Terraform,No,No,No,AI Researcher,Yes,Yes
+Less than 1 year,Java,React,Microsoft SQL Server,Kubernetes,Yes,Yes,Yes,DevOps Engineer,No,Yes
+Less than 1 year,JavaScript,Kali Linux,PostgreSQL,Terraform,No,Yes,No,Product Manager,No,Yes
+Less than 1 year,PHP,Ruby on Rails,Redis,AWS,No,Yes,Yes,Back-End Developer,Yes,Yes
+3-5 years,Python,React Native,Other (please specify),DigitalOcean,No,No,Yes,Front-End Developer,No,Yes
+Less than 1 year,Rust,JavaFX,MongoDB,Nginx,Yes,Yes,No,Database Administrator,No,No
+None,C++,React,MongoDB,CircleCI,No,Yes,Yes,AI Researcher,No,No
+Less than 1 year,Ruby,Next.js,Redis,CircleCI,Yes,Yes,No,Systems Analyst,Yes,Yes
+3-5 years,Python,Scikit-Learn,Other (please specify),Docker,No,No,No,Software Engineer,Yes,Yes
+1-3 years,PHP,Metasploit,SQLite,Azure,No,No,Yes,AI Researcher,Yes,No
+More than 5 years,Rust,Snort,MongoDB,Git,No,No,No,DevOps Engineer,Yes,Yes
+None,JavaScript,Snort,MongoDB,Ansible,No,Yes,No,Back-End Developer,Yes,Yes
+1-3 years,C,Kali Linux,OracleDB,Ansible,No,Yes,No,IT Support Specialist,No,Yes
+None,Swift,Django,Redis,GitLab CI/CD,Yes,No,Yes,Product Manager,No,Yes
+Less than 1 year,Ruby,Electron,Microsoft SQL Server,GitLab CI/CD,No,No,No,Front-End Developer,Yes,Yes
+More than 5 years,Swift,Kotlin Multiplatform Mobile (KMM),Microsoft SQL Server,Ansible,Yes,No,Yes,Cloud Engineer,Yes,No
+More than 5 years,Java,Nestjs,Redis,Jenkins,Yes,Yes,Yes,DevOps Engineer,No,Yes
+Less than 1 year,JavaScript,Vue.js,OracleDB,Other (please specify),No,No,No,Project Manager,Yes,Yes
+1-3 years,C,Keras,MySQL,DigitalOcean,No,Yes,No,Cybersecurity Analyst,No,No
+Less than 1 year,JavaScript,Svelte,Redis,Jenkins,Yes,No,No,Robotics Engineer,No,No
+Less than 1 year,C,Vue.js,OracleDB,Apache,Yes,Yes,Yes,Network Engineer,Yes,No
+More than 5 years,Kotlin,Numpy,CassandraDB,Google Cloud Platform,Yes,No,Yes,Back-End Developer,No,Yes
+Less than 1 year,C++,React Native,OracleDB,Ansible,No,Yes,No,Product Manager,No,No
+Less than 1 year,C,Unity,Microsoft SQL Server,Apache,Yes,Yes,Yes,Systems Analyst,No,No
+Less than 1 year,Kotlin,Burp Suite,OracleDB,DigitalOcean,No,No,No,Database Administrator,No,Yes
+More than 5 years,C#,Keras,MongoDB,Nginx,Yes,Yes,No,Cybersecurity Analyst,Yes,Yes
+3-5 years,PHP,OpenVAS,Redis,Azure,No,Yes,Yes,Robotics Engineer,No,Yes
+3-5 years,TypeScript,JavaFX,MySQL,AWS,No,No,Yes,Game Developer,No,Yes
+3-5 years,Other (please specify),Snort,CassandraDB,Travis CI,No,No,No,Robotics Engineer,Yes,No
+1-3 years,C++,Svelte,PostgreSQL,Apache,Yes,Yes,Yes,Other (please specify),No,Yes
+3-5 years,C#,Vue.js,Redis,AWS,No,Yes,Yes,Cloud Engineer,Yes,Yes
+None,Other (please specify),Electron,Redis,Azure,Yes,Yes,No,Full-Stack Developer,Yes,No
+Less than 1 year,C,Vue.js,MongoDB,Nginx,Yes,No,No,Network Engineer,No,Yes
+3-5 years,Go,React,SQLite,Azure,No,No,No,Systems Analyst,Yes,Yes
+More than 5 years,C,React,PostgreSQL,Azure,No,Yes,No,Front-End Developer,Yes,Yes
+3-5 years,Rust,Flask,Other (please specify),Kubernetes,Yes,Yes,No,Project Manager,No,No
+1-3 years,Python,Burp Suite,MongoDB,AWS,Yes,No,Yes,Machine Learning Engineer,Yes,No
+More than 5 years,C#,Scikit-Learn,CassandraDB,Google Cloud Platform,Yes,Yes,Yes,Front-End Developer,Yes,No
+More than 5 years,Go,Electron,Microsoft SQL Server,GitLab CI/CD,No,No,Yes,Machine Learning Engineer,No,Yes
+Less than 1 year,Python,Unity,CassandraDB,Terraform,Yes,No,Yes,Other (please specify),Yes,Yes
+More than 5 years,Rust,Qt,OracleDB,Azure,Yes,No,No,Data Engineer,No,Yes
+Less than 1 year,Go,OpenVAS,Redis,Nginx,Yes,Yes,Yes,Software Engineer,Yes,No
+Less than 1 year,C++,Metasploit,Microsoft SQL Server,Apache,No,Yes,No,AI Researcher,No,Yes
+1-3 years,C,WPF,SQLite,GitLab CI/CD,No,No,Yes,Network Engineer,No,Yes
+None,None,CryEngine,MongoDB,Other (please specify),Yes,Yes,Yes,Other (please specify),Yes,No
+More than 5 years,C,Burp Suite,MySQL,Git,Yes,No,Yes,Data Scientist,Yes,Yes
+None,Dart,Numpy,Other (please specify),Travis CI,No,No,No,AI Researcher,No,No
+Less than 1 year,C#,TensorFlow,MongoDB,AWS,No,No,Yes,Game Developer,No,Yes
+More than 5 years,C#,Dask,MongoDB,Docker,Yes,No,Yes,Product Manager,No,Yes
+More than 5 years,Ruby,Angular,Redis,DigitalOcean,Yes,Yes,No,Back-End Developer,Yes,Yes
+3-5 years,C,Wireshark,OracleDB,Azure,No,Yes,No,AI Researcher,No,No
+Less than 1 year,Other (please specify),Godot,Other (please specify),AWS,Yes,No,No,Data Engineer,Yes,No
+3-5 years,JavaScript,Dask,MySQL,Git,No,Yes,Yes,Database Administrator,Yes,Yes
+3-5 years,Rust,React Native,MySQL,Nginx,Yes,Yes,No,Cloud Engineer,No,Yes
+None,Go,Qt,PostgreSQL,Travis CI,No,No,No,Database Administrator,No,Yes
+More than 5 years,Swift,Unity,MongoDB,Travis CI,No,No,No,Product Manager,No,Yes
+None,JavaScript,Angular,CassandraDB,DigitalOcean,No,Yes,No,Cybersecurity Analyst,Yes,Yes
+1-3 years,None,.NET Core,Redis,Google Cloud Platform,No,Yes,No,Machine Learning Engineer,No,Yes
+More than 5 years,None,.NET Core,SQLite,Azure,No,No,No,Data Scientist,No,No
+None,Rust,React,PostgreSQL,Terraform,No,Yes,No,AI Researcher,No,Yes
+More than 5 years,JavaScript,Unity,MySQL,Jenkins,No,Yes,Yes,Game Developer,No,Yes
+None,C#,Kali Linux,MongoDB,Terraform,Yes,No,No,Network Engineer,Yes,Yes
+1-3 years,Go,Numpy,OracleDB,CircleCI,Yes,No,Yes,Data Engineer,Yes,No
+None,Rust,Angular,Other (please specify),GitLab CI/CD,Yes,No,No,Product Manager,Yes,Yes
+More than 5 years,Other (please specify),Scikit-Learn,OracleDB,Kubernetes,No,No,Yes,Robotics Engineer,No,No
+1-3 years,Other (please specify),Unity,PostgreSQL,GitLab CI/CD,Yes,Yes,No,Machine Learning Engineer,Yes,Yes
+3-5 years,None,PyTorch,PostgreSQL,CircleCI,No,No,Yes,Front-End Developer,Yes,Yes
+Less than 1 year,Rust,Burp Suite,Other (please specify),Docker,No,No,Yes,AI Researcher,No,No
+None,C,Flask,PostgreSQL,Git,No,Yes,No,Robotics Engineer,No,Yes
+Less than 1 year,C,CryEngine,Redis,Nginx,Yes,Yes,Yes,Data Engineer,No,Yes
+1-3 years,Dart,React,MySQL,Git,No,No,Yes,DevOps Engineer,Yes,Yes
+1-3 years,PHP,Next.js,Other (please specify),Travis CI,No,No,No,Machine Learning Engineer,No,Yes
+Less than 1 year,None,React,Microsoft SQL Server,Travis CI,No,No,Yes,Cybersecurity Analyst,Yes,Yes
+Less than 1 year,Ruby,Next.js,OracleDB,Other (please specify),Yes,Yes,No,AI Researcher,Yes,Yes
+1-3 years,PHP,Unreal Engine,MySQL,Apache,No,Yes,No,Full-Stack Developer,No,No
+None,C#,Pandas,Redis,Google Cloud Platform,Yes,No,No,Software Engineer,Yes,No
+None,Go,Apache Spark,OracleDB,Ansible,Yes,Yes,No,Software Engineer,No,Yes
+Less than 1 year,None,Ruby on Rails,Other (please specify),Ansible,No,No,Yes,Front-End Developer,No,No
+More than 5 years,Rust,React,Microsoft SQL Server,Kubernetes,Yes,Yes,Yes,Cloud Engineer,Yes,Yes
+Less than 1 year,None,Pandas,MySQL,Jenkins,No,Yes,No,Cybersecurity Analyst,No,Yes
+None,Ruby,Scikit-Learn,Microsoft SQL Server,CircleCI,Yes,Yes,Yes,Product Manager,No,Yes
+1-3 years,Rust,Unity,OracleDB,CircleCI,Yes,Yes,Yes,AI Researcher,Yes,No
+3-5 years,Java,Flutter,MySQL,AWS,No,Yes,No,Cloud Engineer,Yes,No
+3-5 years,Python,Keras,PostgreSQL,Google Cloud Platform,Yes,No,Yes,Network Engineer,No,No
+3-5 years,C++,Pandas,OracleDB,Other (please specify),No,Yes,Yes,Other (please specify),No,Yes
+3-5 years,Go,PyTorch,SQLite,Docker,Yes,No,Yes,Software Engineer,Yes,No
+More than 5 years,C,Express.js,Other (please specify),DigitalOcean,Yes,Yes,Yes,Cloud Engineer,Yes,Yes
+More than 5 years,Java,Flask,PostgreSQL,Docker,No,No,Yes,Other (please specify),No,No
+None,Dart,OpenVAS,Redis,Google Cloud Platform,Yes,Yes,No,Database Administrator,No,No
+None,Ruby,PyTorch,Other (please specify),Git,Yes,Yes,Yes,Other (please specify),Yes,Yes
+3-5 years,C,SwiftUI,Other (please specify),Nginx,Yes,No,No,Data Scientist,Yes,Yes
+1-3 years,Python,Flask,MongoDB,GitLab CI/CD,No,Yes,No,Systems Analyst,Yes,Yes
+Less than 1 year,Dart,Burp Suite,OracleDB,Azure,Yes,No,No,Mobile Developer,Yes,Yes
+Less than 1 year,Go,Next.js,MongoDB,Travis CI,Yes,Yes,No,Project Manager,Yes,No
+None,Java,Kali Linux,CassandraDB,Git,No,Yes,No,DevOps Engineer,No,No
+Less than 1 year,Ruby,Electron,Other (please specify),Kubernetes,Yes,Yes,Yes,Cybersecurity Analyst,No,No
+More than 5 years,C,Angular,PostgreSQL,DigitalOcean,Yes,No,Yes,Cybersecurity Analyst,Yes,No
+More than 5 years,Dart,Next.js,MongoDB,DigitalOcean,Yes,Yes,No,Back-End Developer,No,No
+1-3 years,C++,Wireshark,SQLite,Apache,No,Yes,Yes,Cloud Engineer,Yes,Yes
+None,Java,Dask,SQLite,DigitalOcean,No,Yes,Yes,Machine Learning Engineer,No,Yes
+More than 5 years,Kotlin,Next.js,SQLite,Travis CI,Yes,Yes,No,Game Developer,Yes,No
+1-3 years,C,SwiftUI,CassandraDB,Docker,Yes,Yes,No,Database Administrator,Yes,Yes
+More than 5 years,Go,Kali Linux,PostgreSQL,Kubernetes,Yes,Yes,No,Network Engineer,Yes,No
+3-5 years,Other (please specify),Snort,Redis,Travis CI,Yes,Yes,No,Other (please specify),Yes,Yes
+3-5 years,JavaScript,Django,PostgreSQL,GitLab CI/CD,No,No,Yes,Back-End Developer,No,No
+1-3 years,C#,.NET Core,Microsoft SQL Server,Travis CI,No,Yes,No,Data Scientist,Yes,Yes
+None,C#,PyTorch,MySQL,CircleCI,No,Yes,Yes,Data Scientist,Yes,Yes
+3-5 years,C#,Flutter,Redis,Apache,Yes,Yes,No,Software Engineer,No,No
+More than 5 years,JavaScript,Flask,OracleDB,Google Cloud Platform,Yes,Yes,No,IT Support Specialist,No,Yes
+1-3 years,Kotlin,Svelte,Other (please specify),Travis CI,Yes,No,No,Data Scientist,Yes,No
+Less than 1 year,Python,Wireshark,Microsoft SQL Server,Azure,Yes,Yes,Yes,Machine Learning Engineer,No,No
+3-5 years,Rust,Apache Spark,Microsoft SQL Server,Nginx,Yes,Yes,Yes,Software Engineer,No,No
+More than 5 years,TypeScript,CryEngine,CassandraDB,Ansible,No,No,Yes,Network Engineer,Yes,Yes
+More than 5 years,Ruby,Kotlin Multiplatform Mobile (KMM),CassandraDB,Kubernetes,Yes,No,No,Cybersecurity Analyst,No,Yes
+Less than 1 year,TypeScript,CryEngine,MySQL,Kubernetes,Yes,No,No,Cybersecurity Analyst,No,Yes
+None,Java,Pandas,MySQL,Terraform,Yes,No,No,Product Manager,Yes,No
+None,Python,JavaFX,Redis,Other (please specify),No,Yes,No,Software Engineer,No,Yes
+More than 5 years,Go,Dask,Other (please specify),Other (please specify),Yes,No,Yes,Mobile Developer,No,Yes
+1-3 years,C++,CryEngine,CassandraDB,CircleCI,No,No,No,Database Administrator,Yes,No
+Less than 1 year,C,Apache Spark,Microsoft SQL Server,Git,No,Yes,No,Network Engineer,Yes,Yes
+3-5 years,Swift,Keras,Other (please specify),AWS,No,No,No,Cloud Engineer,Yes,Yes
+None,None,Nestjs,PostgreSQL,GitLab CI/CD,Yes,Yes,No,Project Manager,No,Yes
+None,JavaScript,Nestjs,PostgreSQL,Other (please specify),No,No,No,Project Manager,No,No
+More than 5 years,Other (please specify),.NET Core,SQLite,Travis CI,Yes,Yes,Yes,Data Engineer,No,No
+None,Ruby,GTK,Other (please specify),Kubernetes,No,No,No,Data Scientist,Yes,No
+3-5 years,Other (please specify),Apache Spark,Other (please specify),Azure,Yes,Yes,No,Network Engineer,Yes,No
+Less than 1 year,None,Express.js,Redis,Docker,Yes,Yes,Yes,Full-Stack Developer,Yes,No
+None,TypeScript,SwiftUI,MongoDB,Travis CI,No,Yes,Yes,Cloud Engineer,Yes,Yes
+Less than 1 year,None,WPF,PostgreSQL,Travis CI,Yes,No,No,Data Scientist,No,Yes
+3-5 years,Dart,Nestjs,OracleDB,Azure,No,Yes,No,Product Manager,Yes,Yes
+3-5 years,Python,React Native,MongoDB,Docker,Yes,No,Yes,Cybersecurity Analyst,No,Yes
+None,C++,JavaFX,PostgreSQL,Google Cloud Platform,Yes,Yes,No,Product Manager,No,No
+More than 5 years,Ruby,Django,Microsoft SQL Server,Ansible,No,Yes,No,Robotics Engineer,No,Yes
+More than 5 years,Kotlin,TensorFlow,CassandraDB,CircleCI,Yes,Yes,No,Systems Analyst,No,Yes
+3-5 years,None,React,MySQL,AWS,No,No,No,AI Researcher,No,Yes
+None,Swift,Burp Suite,MongoDB,Apache,No,Yes,Yes,Data Engineer,Yes,Yes
+None,Java,Flutter,Microsoft SQL Server,Kubernetes,No,No,Yes,Front-End Developer,No,No
+1-3 years,Rust,TensorFlow,MongoDB,Other (please specify),No,No,No,IT Support Specialist,No,No
+More than 5 years,Ruby,Keras,PostgreSQL,Google Cloud Platform,Yes,Yes,Yes,Network Engineer,No,No
+3-5 years,TypeScript,Flutter,CassandraDB,Azure,No,Yes,Yes,Other (please specify),Yes,Yes
+1-3 years,C++,Dask,OracleDB,Travis CI,Yes,No,No,Database Administrator,No,No
+Less than 1 year,Kotlin,TensorFlow,SQLite,Google Cloud Platform,Yes,Yes,Yes,Cybersecurity Analyst,Yes,No
+Less than 1 year,None,OpenVAS,Redis,Ansible,No,No,Yes,Cybersecurity Analyst,No,Yes
+1-3 years,Java,Vue.js,OracleDB,Jenkins,No,No,No,Back-End Developer,Yes,No
+None,C,Ruby on Rails,MySQL,GitLab CI/CD,No,Yes,No,Back-End Developer,Yes,No
+1-3 years,Other (please specify),OpenVAS,CassandraDB,DigitalOcean,No,Yes,No,Systems Analyst,Yes,Yes
+1-3 years,C++,Django,Redis,Docker,Yes,No,No,Mobile Developer,Yes,Yes
+None,Dart,Dask,MySQL,Jenkins,No,No,No,Robotics Engineer,No,No
+3-5 years,Swift,Unreal Engine,MySQL,Docker,No,No,No,IT Support Specialist,Yes,Yes
+More than 5 years,Other (please specify),Unreal Engine,PostgreSQL,Other (please specify),Yes,Yes,Yes,Network Engineer,Yes,Yes
+3-5 years,C#,SwiftUI,MySQL,DigitalOcean,Yes,Yes,No,Systems Analyst,Yes,No
+None,Go,Scikit-Learn,MongoDB,DigitalOcean,No,Yes,No,Data Engineer,Yes,Yes
+Less than 1 year,Rust,Qt,SQLite,Apache,No,Yes,Yes,Data Scientist,Yes,Yes
+None,Rust,Django,OracleDB,Jenkins,Yes,Yes,No,Machine Learning Engineer,Yes,No
+1-3 years,Java,Scikit-Learn,Microsoft SQL Server,Docker,No,Yes,Yes,Other (please specify),Yes,No
+Less than 1 year,C++,Dask,OracleDB,Jenkins,No,Yes,Yes,Network Engineer,No,Yes
+1-3 years,TypeScript,WPF,PostgreSQL,Jenkins,No,Yes,Yes,AI Researcher,No,Yes
+More than 5 years,C#,Snort,CassandraDB,Git,No,No,No,Software Engineer,Yes,No
+1-3 years,Ruby,Snort,PostgreSQL,Travis CI,Yes,Yes,No,DevOps Engineer,No,Yes
+Less than 1 year,Other (please specify),Apache Spark,MongoDB,DigitalOcean,Yes,Yes,No,Data Scientist,Yes,No
+1-3 years,C++,Next.js,CassandraDB,Git,Yes,Yes,Yes,Front-End Developer,Yes,No
+1-3 years,Python,Kotlin Multiplatform Mobile (KMM),MongoDB,Apache,Yes,No,Yes,Data Scientist,Yes,Yes
+Less than 1 year,C,Apache Spark,PostgreSQL,Kubernetes,Yes,No,Yes,Product Manager,Yes,No
+1-3 years,PHP,Nestjs,CassandraDB,Kubernetes,Yes,Yes,Yes,Mobile Developer,No,Yes
+Less than 1 year,Dart,Apache Spark,Redis,Terraform,No,No,Yes,Mobile Developer,Yes,No
+1-3 years,Java,Wireshark,MongoDB,Nginx,Yes,Yes,Yes,Game Developer,Yes,Yes
+More than 5 years,None,Dask,Redis,Nginx,No,Yes,Yes,Data Engineer,Yes,Yes
+Less than 1 year,None,Django,Microsoft SQL Server,AWS,No,Yes,No,Other (please specify),Yes,No
+3-5 years,C#,Svelte,Redis,Jenkins,No,Yes,Yes,Network Engineer,No,Yes
+More than 5 years,Swift,Godot,PostgreSQL,Nginx,No,Yes,Yes,Database Administrator,Yes,No
+None,Python,Burp Suite,OracleDB,Kubernetes,No,No,No,Data Scientist,No,No
+Less than 1 year,None,Django,MongoDB,Terraform,No,No,Yes,Data Engineer,Yes,Yes
+More than 5 years,None,WPF,Microsoft SQL Server,Google Cloud Platform,No,No,Yes,Project Manager,No,No
+More than 5 years,PHP,PyTorch,MySQL,CircleCI,Yes,No,No,DevOps Engineer,Yes,No
+3-5 years,TypeScript,Burp Suite,Microsoft SQL Server,AWS,Yes,No,No,Game Developer,No,Yes
+More than 5 years,C++,Wireshark,Redis,Google Cloud Platform,Yes,No,No,Network Engineer,No,Yes
+More than 5 years,Dart,Unreal Engine,OracleDB,Apache,No,No,Yes,Game Developer,No,Yes
+3-5 years,JavaScript,Metasploit,OracleDB,GitLab CI/CD,No,Yes,Yes,Project Manager,No,No
+None,C,Ruby on Rails,Microsoft SQL Server,AWS,Yes,No,Yes,Full-Stack Developer,Yes,No
+Less than 1 year,TypeScript,Svelte,Other (please specify),Apache,Yes,Yes,Yes,Game Developer,Yes,Yes
+1-3 years,Go,Pandas,Microsoft SQL Server,Other (please specify),No,Yes,No,Mobile Developer,No,Yes
+None,Go,Next.js,MongoDB,Git,No,No,No,Machine Learning Engineer,Yes,Yes
+Less than 1 year,Ruby,Express.js,SQLite,Apache,Yes,Yes,No,Database Administrator,Yes,No
+More than 5 years,C#,Kotlin Multiplatform Mobile (KMM),OracleDB,DigitalOcean,Yes,No,No,Systems Analyst,Yes,No
+More than 5 years,Go,Xamarin,Redis,GitLab CI/CD,No,No,No,Data Scientist,No,No
+3-5 years,Dart,PyTorch,OracleDB,Terraform,No,Yes,No,DevOps Engineer,No,Yes
+Less than 1 year,Java,Kotlin Multiplatform Mobile (KMM),CassandraDB,Other (please specify),No,No,Yes,Machine Learning Engineer,Yes,Yes
+Less than 1 year,JavaScript,Numpy,CassandraDB,AWS,No,Yes,Yes,Data Scientist,Yes,Yes
+3-5 years,C,Next.js,Other (please specify),CircleCI,Yes,No,Yes,Data Engineer,Yes,No
+Less than 1 year,Dart,GTK,PostgreSQL,Jenkins,No,No,No,IT Support Specialist,Yes,No
+More than 5 years,JavaScript,Metasploit,SQLite,Terraform,No,No,Yes,Machine Learning Engineer,Yes,Yes
+Less than 1 year,Rust,Wireshark,CassandraDB,Nginx,Yes,No,No,Database Administrator,No,Yes
+1-3 years,Ruby,Flutter,SQLite,Terraform,Yes,No,No,Full-Stack Developer,Yes,No
+More than 5 years,C#,Flask,CassandraDB,GitLab CI/CD,No,No,Yes,Robotics Engineer,No,Yes
+None,C++,Scikit-Learn,CassandraDB,Git,Yes,No,Yes,Network Engineer,No,No
+None,Other (please specify),Flutter,Microsoft SQL Server,AWS,Yes,No,Yes,Game Developer,No,Yes
+None,C++,Express.js,PostgreSQL,Google Cloud Platform,No,Yes,Yes,Software Engineer,No,Yes
+Less than 1 year,TypeScript,SwiftUI,PostgreSQL,Terraform,Yes,Yes,Yes,Network Engineer,Yes,Yes
+None,Kotlin,Snort,MySQL,AWS,No,Yes,No,Project Manager,Yes,No
+Less than 1 year,C,.NET Core,Microsoft SQL Server,Terraform,Yes,No,Yes,Front-End Developer,Yes,No
+Less than 1 year,C++,Express.js,SQLite,DigitalOcean,Yes,Yes,Yes,Other (please specify),Yes,No
+More than 5 years,Other (please specify),Unreal Engine,Redis,Git,No,Yes,Yes,Cybersecurity Analyst,No,Yes
+None,Dart,Metasploit,MySQL,Google Cloud Platform,No,Yes,No,Game Developer,No,No
+Less than 1 year,Go,Pandas,SQLite,Apache,No,No,No,Cybersecurity Analyst,No,No
+None,C++,PyTorch,Other (please specify),CircleCI,No,No,No,Back-End Developer,Yes,No
+More than 5 years,C,React,OracleDB,Apache,Yes,No,Yes,Database Administrator,Yes,No
+More than 5 years,PHP,Flutter,MySQL,Apache,No,No,No,Data Engineer,No,No
+None,PHP,Flask,Other (please specify),Azure,Yes,No,No,Robotics Engineer,Yes,Yes
+More than 5 years,TypeScript,Flutter,CassandraDB,GitLab CI/CD,Yes,Yes,No,Software Engineer,No,No
+3-5 years,Other (please specify),Kotlin Multiplatform Mobile (KMM),CassandraDB,Docker,Yes,Yes,Yes,Data Engineer,Yes,No
+None,C#,Django,Redis,Apache,Yes,Yes,Yes,Robotics Engineer,No,Yes
+Less than 1 year,Dart,Xamarin,Microsoft SQL Server,Azure,No,No,Yes,Game Developer,Yes,Yes
+More than 5 years,Ruby,Flutter,MySQL,Git,Yes,No,Yes,Product Manager,Yes,No
+None,Python,Pandas,CassandraDB,Travis CI,Yes,Yes,Yes,Product Manager,No,Yes
+None,JavaScript,Vue.js,Microsoft SQL Server,Docker,Yes,Yes,No,DevOps Engineer,No,Yes
+More than 5 years,TypeScript,Nestjs,CassandraDB,GitLab CI/CD,Yes,Yes,No,Mobile Developer,Yes,Yes
+Less than 1 year,C#,SwiftUI,Other (please specify),Nginx,Yes,No,No,Full-Stack Developer,Yes,Yes
+3-5 years,TypeScript,Apache Spark,MongoDB,Travis CI,Yes,No,No,Front-End Developer,No,Yes
+3-5 years,PHP,Scikit-Learn,OracleDB,Terraform,Yes,Yes,No,Robotics Engineer,No,No
+More than 5 years,None,Electron,OracleDB,Azure,No,Yes,No,Project Manager,Yes,No
+More than 5 years,Java,React,MongoDB,Travis CI,No,Yes,Yes,Network Engineer,No,No
+1-3 years,C,TensorFlow,SQLite,Nginx,No,Yes,No,Back-End Developer,No,Yes
+More than 5 years,Other (please specify),Burp Suite,Microsoft SQL Server,Nginx,No,Yes,No,Front-End Developer,No,Yes
+None,JavaScript,React Native,Microsoft SQL Server,Google Cloud Platform,No,Yes,Yes,Network Engineer,Yes,No
+Less than 1 year,Kotlin,Express.js,MongoDB,AWS,No,Yes,Yes,Network Engineer,No,No
+Less than 1 year,TypeScript,React,MySQL,DigitalOcean,No,Yes,No,DevOps Engineer,Yes,No
+3-5 years,Go,Burp Suite,MySQL,Terraform,No,Yes,No,Software Engineer,Yes,No
+None,Dart,SwiftUI,Redis,Google Cloud Platform,Yes,No,No,IT Support Specialist,No,No
+None,Ruby,Dask,Redis,Git,No,No,No,Systems Analyst,Yes,No
+1-3 years,C#,WPF,OracleDB,Google Cloud Platform,No,No,No,Other (please specify),Yes,No
+1-3 years,Swift,Wireshark,Other (please specify),Apache,No,No,Yes,Robotics Engineer,Yes,Yes
+More than 5 years,Swift,React Native,Microsoft SQL Server,Google Cloud Platform,No,No,No,Data Scientist,No,Yes
+1-3 years,Go,Electron,SQLite,Google Cloud Platform,Yes,Yes,No,Project Manager,No,Yes
+More than 5 years,Rust,Metasploit,CassandraDB,Other (please specify),No,No,No,Database Administrator,No,No
+None,Rust,Unity,Microsoft SQL Server,Other (please specify),Yes,Yes,Yes,Cloud Engineer,No,Yes
+More than 5 years,Go,SwiftUI,SQLite,AWS,No,No,No,Systems Analyst,No,No
+None,Swift,Pandas,Other (please specify),Azure,Yes,Yes,No,Game Developer,No,No
+None,Java,React,MySQL,DigitalOcean,No,No,No,Product Manager,Yes,No
+None,Rust,Kotlin Multiplatform Mobile (KMM),SQLite,Jenkins,Yes,Yes,No,Software Engineer,No,No
+3-5 years,PHP,PyTorch,Redis,Ansible,Yes,No,Yes,Front-End Developer,Yes,No
+Less than 1 year,Ruby,CryEngine,MongoDB,Nginx,No,No,Yes,AI Researcher,Yes,No
+3-5 years,Rust,Unity,SQLite,Google Cloud Platform,Yes,No,Yes,DevOps Engineer,Yes,No
+Less than 1 year,Dart,Apache Spark,Redis,GitLab CI/CD,No,No,Yes,Database Administrator,No,Yes
+None,Python,Svelte,SQLite,Jenkins,Yes,No,No,Project Manager,Yes,No
+More than 5 years,Dart,Flask,MySQL,Azure,No,Yes,Yes,Front-End Developer,Yes,Yes
+Less than 1 year,Java,Flask,PostgreSQL,Travis CI,Yes,Yes,Yes,Cybersecurity Analyst,Yes,Yes
+None,TypeScript,OpenVAS,PostgreSQL,CircleCI,Yes,Yes,No,Data Scientist,Yes,No
+Less than 1 year,Java,SwiftUI,OracleDB,Terraform,Yes,No,No,Full-Stack Developer,Yes,No
+3-5 years,Rust,Wireshark,Other (please specify),Travis CI,No,No,Yes,Game Developer,Yes,No
+None,Kotlin,React Native,Microsoft SQL Server,Azure,Yes,Yes,Yes,Machine Learning Engineer,No,Yes
+More than 5 years,PHP,Ruby on Rails,MongoDB,Docker,Yes,Yes,No,Data Engineer,No,No
+None,TypeScript,GTK,MySQL,Travis CI,No,No,No,Machine Learning Engineer,No,No
+None,C#,Wireshark,SQLite,Terraform,Yes,No,Yes,Robotics Engineer,No,Yes
+3-5 years,C#,Vue.js,OracleDB,CircleCI,Yes,Yes,Yes,Database Administrator,Yes,Yes
+Less than 1 year,PHP,Keras,Redis,Ansible,No,Yes,Yes,Product Manager,Yes,No
+1-3 years,Python,Ruby on Rails,SQLite,Apache,Yes,Yes,No,Game Developer,Yes,Yes
+Less than 1 year,Ruby,Apache Spark,MySQL,Terraform,Yes,No,No,Systems Analyst,Yes,No
+1-3 years,Go,Apache Spark,OracleDB,Docker,No,Yes,No,AI Researcher,Yes,No
+3-5 years,Swift,Kotlin Multiplatform Mobile (KMM),PostgreSQL,Ansible,No,No,Yes,Data Engineer,No,Yes
+3-5 years,Kotlin,Next.js,Microsoft SQL Server,Azure,Yes,No,Yes,Software Engineer,No,No
+1-3 years,C#,Apache Spark,PostgreSQL,Jenkins,No,Yes,No,Cloud Engineer,No,Yes
+More than 5 years,TypeScript,Ruby on Rails,Other (please specify),DigitalOcean,No,No,Yes,Back-End Developer,Yes,No
+More than 5 years,Kotlin,.NET Core,SQLite,DigitalOcean,Yes,No,No,Project Manager,No,Yes
+1-3 years,Swift,Scikit-Learn,OracleDB,Nginx,Yes,No,No,Mobile Developer,Yes,No
+Less than 1 year,C#,TensorFlow,OracleDB,GitLab CI/CD,Yes,No,Yes,Data Engineer,Yes,No
+None,C#,Express.js,Redis,AWS,Yes,No,Yes,Machine Learning Engineer,Yes,Yes
+3-5 years,None,Scikit-Learn,Microsoft SQL Server,GitLab CI/CD,No,Yes,Yes,Cloud Engineer,No,No
+None,Python,Qt,Other (please specify),AWS,Yes,Yes,Yes,Full-Stack Developer,Yes,No
+1-3 years,Ruby,Angular,Redis,Docker,Yes,No,No,Project Manager,Yes,Yes
+More than 5 years,Python,Kotlin Multiplatform Mobile (KMM),MongoDB,AWS,Yes,Yes,No,Full-Stack Developer,Yes,Yes
+Less than 1 year,PHP,Numpy,Microsoft SQL Server,CircleCI,Yes,Yes,Yes,Full-Stack Developer,Yes,No
+Less than 1 year,PHP,Numpy,Other (please specify),Jenkins,Yes,No,Yes,Database Administrator,Yes,No
+1-3 years,Java,Unreal Engine,OracleDB,Nginx,No,Yes,Yes,Project Manager,Yes,No
+More than 5 years,Dart,CryEngine,Other (please specify),Google Cloud Platform,No,No,Yes,Robotics Engineer,Yes,No
+Less than 1 year,C++,Flask,Other (please specify),Jenkins,No,Yes,Yes,Machine Learning Engineer,No,No
+3-5 years,Other (please specify),Scikit-Learn,CassandraDB,Other (please specify),Yes,No,No,Cloud Engineer,Yes,Yes
+3-5 years,TypeScript,React,Microsoft SQL Server,Terraform,Yes,Yes,No,DevOps Engineer,Yes,Yes
+1-3 years,JavaScript,Scikit-Learn,MySQL,AWS,No,Yes,No,Front-End Developer,Yes,Yes
+3-5 years,Ruby,Scikit-Learn,PostgreSQL,Google Cloud Platform,Yes,No,No,AI Researcher,No,No
+Less than 1 year,Swift,WPF,OracleDB,Nginx,No,No,Yes,Software Engineer,Yes,No
+More than 5 years,PHP,TensorFlow,PostgreSQL,Apache,Yes,No,No,Data Engineer,No,Yes
+None,Other (please specify),React,MongoDB,GitLab CI/CD,No,No,No,IT Support Specialist,No,No
+3-5 years,Rust,Scikit-Learn,OracleDB,Ansible,Yes,Yes,Yes,Data Scientist,No,Yes
+Less than 1 year,C#,Pandas,MongoDB,Terraform,No,Yes,Yes,Game Developer,No,Yes
+3-5 years,Other (please specify),Svelte,OracleDB,Nginx,Yes,Yes,Yes,Robotics Engineer,No,No
+More than 5 years,C++,Scikit-Learn,MongoDB,Google Cloud Platform,No,Yes,Yes,Product Manager,No,Yes
+None,Ruby,Snort,Redis,Apache,Yes,Yes,Yes,Network Engineer,Yes,Yes
+Less than 1 year,JavaScript,GTK,Other (please specify),Terraform,Yes,Yes,No,Front-End Developer,No,Yes
+More than 5 years,TypeScript,TensorFlow,MySQL,Jenkins,Yes,No,Yes,Product Manager,No,No
+None,Swift,Scikit-Learn,Other (please specify),Other (please specify),No,Yes,No,Data Scientist,Yes,No
+More than 5 years,Go,Angular,OracleDB,Terraform,No,No,No,Data Scientist,No,No
+1-3 years,Ruby,Pandas,SQLite,Other (please specify),No,Yes,Yes,AI Researcher,No,Yes
+1-3 years,C#,Dask,MongoDB,Git,Yes,Yes,No,AI Researcher,No,Yes
+None,Swift,Pandas,PostgreSQL,Terraform,Yes,No,Yes,Other (please specify),No,No
+None,Rust,Scikit-Learn,Microsoft SQL Server,Ansible,Yes,Yes,No,Project Manager,No,No
+3-5 years,C++,Dask,MySQL,CircleCI,No,No,No,Network Engineer,No,Yes
+3-5 years,C,Numpy,CassandraDB,GitLab CI/CD,Yes,No,Yes,Front-End Developer,No,Yes
+Less than 1 year,PHP,Ruby on Rails,Other (please specify),Ansible,Yes,Yes,No,Full-Stack Developer,No,No
+3-5 years,TypeScript,Metasploit,Other (please specify),Google Cloud Platform,Yes,No,No,AI Researcher,No,No
+1-3 years,Python,React,CassandraDB,CircleCI,No,Yes,Yes,Product Manager,Yes,No
+More than 5 years,C#,JavaFX,Other (please specify),AWS,Yes,Yes,No,DevOps Engineer,Yes,No
+3-5 years,Java,Xamarin,Other (please specify),CircleCI,Yes,Yes,No,Database Administrator,No,No
+Less than 1 year,C++,Pandas,MongoDB,Google Cloud Platform,No,No,Yes,Game Developer,Yes,No
+Less than 1 year,Rust,GTK,MongoDB,Other (please specify),Yes,Yes,Yes,Project Manager,Yes,No
+3-5 years,C,Ruby on Rails,CassandraDB,Jenkins,Yes,No,No,Front-End Developer,Yes,Yes
+3-5 years,Dart,React Native,SQLite,Ansible,Yes,Yes,No,Machine Learning Engineer,No,No
+3-5 years,Go,Scikit-Learn,Microsoft SQL Server,Google Cloud Platform,Yes,Yes,No,Systems Analyst,No,No
+Less than 1 year,Go,React Native,Other (please specify),AWS,Yes,No,No,Full-Stack Developer,Yes,No
+1-3 years,JavaScript,Pandas,MongoDB,GitLab CI/CD,Yes,Yes,Yes,Software Engineer,No,Yes
+1-3 years,Other (please specify),Ruby on Rails,MySQL,Git,Yes,No,Yes,Data Engineer,Yes,No
+More than 5 years,Swift,Dask,CassandraDB,Other (please specify),Yes,Yes,Yes,Network Engineer,No,Yes
+None,Swift,Flutter,MongoDB,Jenkins,No,No,Yes,Front-End Developer,Yes,Yes
+More than 5 years,TypeScript,OpenVAS,PostgreSQL,Google Cloud Platform,Yes,Yes,No,Data Scientist,No,No
+Less than 1 year,Ruby,WPF,SQLite,Git,Yes,Yes,Yes,Game Developer,No,No
+3-5 years,Go,Flask,PostgreSQL,AWS,Yes,No,No,Back-End Developer,No,No
+Less than 1 year,Ruby,SwiftUI,SQLite,Kubernetes,Yes,No,No,Project Manager,No,Yes
+Less than 1 year,Swift,Express.js,Other (please specify),Apache,No,Yes,No,AI Researcher,No,Yes
+3-5 years,Rust,TensorFlow,OracleDB,Kubernetes,No,Yes,No,Network Engineer,No,No
+None,C,Kotlin Multiplatform Mobile (KMM),OracleDB,Terraform,No,Yes,Yes,Software Engineer,Yes,Yes
+Less than 1 year,C#,Vue.js,CassandraDB,Ansible,No,Yes,No,Network Engineer,Yes,No
+3-5 years,Python,Dask,SQLite,Ansible,No,No,No,Cybersecurity Analyst,No,Yes
+1-3 years,JavaScript,React Native,MongoDB,DigitalOcean,Yes,Yes,Yes,Product Manager,Yes,No
+None,Rust,CryEngine,Microsoft SQL Server,CircleCI,No,Yes,Yes,Software Engineer,No,No
+Less than 1 year,C,Ruby on Rails,Other (please specify),Kubernetes,No,Yes,Yes,Mobile Developer,Yes,No
+1-3 years,Rust,Pandas,Redis,Other (please specify),No,No,Yes,IT Support Specialist,No,No
+Less than 1 year,JavaScript,Numpy,CassandraDB,Jenkins,No,No,Yes,Product Manager,No,No
+More than 5 years,PHP,CryEngine,Redis,GitLab CI/CD,No,Yes,No,Database Administrator,No,Yes
+1-3 years,Other (please specify),Apache Spark,Redis,CircleCI,No,No,No,Project Manager,No,No
+None,Go,CryEngine,MongoDB,DigitalOcean,Yes,No,Yes,Back-End Developer,Yes,No
+Less than 1 year,Swift,OpenVAS,Microsoft SQL Server,Other (please specify),No,Yes,Yes,Cybersecurity Analyst,No,No
+None,Python,TensorFlow,PostgreSQL,Other (please specify),No,No,Yes,Network Engineer,Yes,Yes
+3-5 years,Rust,PyTorch,Redis,Apache,No,No,Yes,Product Manager,No,No
+1-3 years,Dart,Apache Spark,PostgreSQL,Apache,Yes,Yes,Yes,Software Engineer,No,No
+None,Python,Next.js,Microsoft SQL Server,CircleCI,No,No,No,Mobile Developer,Yes,No
+3-5 years,Kotlin,Snort,MySQL,AWS,Yes,Yes,Yes,Database Administrator,Yes,Yes
+None,Dart,Wireshark,OracleDB,CircleCI,Yes,No,No,Machine Learning Engineer,No,No
+3-5 years,JavaScript,Kali Linux,Microsoft SQL Server,AWS,No,Yes,No,Software Engineer,No,No
+Less than 1 year,TypeScript,Next.js,SQLite,Azure,No,No,No,Product Manager,Yes,Yes
+More than 5 years,Kotlin,Numpy,SQLite,DigitalOcean,No,No,Yes,Data Engineer,Yes,No
+More than 5 years,None,Kali Linux,SQLite,Jenkins,Yes,Yes,Yes,Data Scientist,Yes,No
+Less than 1 year,PHP,Qt,Redis,AWS,No,No,No,DevOps Engineer,Yes,No
+1-3 years,TypeScript,Flutter,MySQL,AWS,No,No,No,Systems Analyst,Yes,Yes
+More than 5 years,C#,Qt,MySQL,Travis CI,No,Yes,No,Systems Analyst,No,Yes
+More than 5 years,Other (please specify),Express.js,Redis,Azure,No,No,No,Mobile Developer,No,Yes
+1-3 years,PHP,Angular,Redis,Kubernetes,Yes,No,Yes,Other (please specify),Yes,Yes
+More than 5 years,None,React Native,SQLite,Nginx,No,Yes,Yes,Data Scientist,No,Yes
+None,Other (please specify),OpenVAS,OracleDB,Google Cloud Platform,Yes,Yes,No,DevOps Engineer,Yes,Yes
+1-3 years,Dart,Next.js,Redis,Kubernetes,No,No,No,Cloud Engineer,Yes,Yes
+1-3 years,TypeScript,TensorFlow,CassandraDB,Nginx,No,No,No,Project Manager,No,Yes
+More than 5 years,PHP,Flutter,MySQL,Google Cloud Platform,Yes,Yes,Yes,Back-End Developer,No,Yes
+1-3 years,Other (please specify),GTK,PostgreSQL,DigitalOcean,No,Yes,Yes,AI Researcher,Yes,Yes
+Less than 1 year,Ruby,Flutter,Other (please specify),Azure,Yes,Yes,Yes,Back-End Developer,Yes,No
+1-3 years,C,GTK,MySQL,GitLab CI/CD,No,Yes,No,Data Scientist,Yes,Yes
+More than 5 years,Go,SwiftUI,MySQL,Azure,Yes,No,Yes,Full-Stack Developer,No,Yes
+More than 5 years,C#,Vue.js,PostgreSQL,Apache,Yes,No,No,Data Engineer,Yes,Yes
+1-3 years,Kotlin,WPF,PostgreSQL,Terraform,Yes,Yes,No,Cybersecurity Analyst,Yes,Yes
+None,Go,Dask,Microsoft SQL Server,Other (please specify),No,Yes,Yes,Front-End Developer,No,No
+More than 5 years,Python,Angular,OracleDB,Azure,No,Yes,Yes,Front-End Developer,No,No
+Less than 1 year,Java,CryEngine,MongoDB,Ansible,No,Yes,No,AI Researcher,Yes,Yes
+Less than 1 year,JavaScript,SwiftUI,OracleDB,Apache,Yes,No,No,Cloud Engineer,No,No
+1-3 years,Dart,Keras,MySQL,Git,Yes,No,No,IT Support Specialist,No,No
+More than 5 years,JavaScript,Numpy,Redis,DigitalOcean,Yes,No,Yes,Software Engineer,Yes,No
+More than 5 years,JavaScript,Nestjs,OracleDB,Jenkins,Yes,No,Yes,Cybersecurity Analyst,Yes,Yes
+None,TypeScript,Godot,Other (please specify),Azure,No,Yes,Yes,Systems Analyst,No,No
+More than 5 years,JavaScript,Kali Linux,Microsoft SQL Server,CircleCI,No,Yes,Yes,Software Engineer,Yes,Yes
+More than 5 years,Ruby,Dask,SQLite,Other (please specify),No,Yes,No,Game Developer,Yes,No
+1-3 years,Dart,React Native,CassandraDB,Azure,Yes,Yes,No,Software Engineer,No,No
+3-5 years,Swift,React Native,SQLite,AWS,No,No,Yes,Data Engineer,No,No
+1-3 years,C++,React,PostgreSQL,Travis CI,No,Yes,Yes,AI Researcher,Yes,Yes
+3-5 years,JavaScript,CryEngine,CassandraDB,AWS,No,Yes,Yes,Back-End Developer,Yes,No
+More than 5 years,Python,GTK,OracleDB,AWS,No,Yes,Yes,Systems Analyst,No,Yes
+3-5 years,Other (please specify),Unity,SQLite,Git,Yes,Yes,Yes,Cloud Engineer,Yes,No
+1-3 years,Kotlin,Qt,MySQL,Ansible,No,No,No,Product Manager,Yes,Yes
+None,Dart,TensorFlow,Redis,AWS,No,Yes,Yes,Back-End Developer,No,Yes
+None,Python,GTK,Redis,Git,Yes,Yes,No,Back-End Developer,No,Yes
+Less than 1 year,TypeScript,Numpy,Redis,Travis CI,No,Yes,No,Robotics Engineer,No,No
+Less than 1 year,Swift,Metasploit,OracleDB,Other (please specify),Yes,No,No,Software Engineer,Yes,Yes
+None,Dart,Unity,MongoDB,Google Cloud Platform,No,No,No,Network Engineer,No,No
+1-3 years,Swift,GTK,OracleDB,Other (please specify),Yes,No,No,Full-Stack Developer,No,No
+None,JavaScript,OpenVAS,MongoDB,GitLab CI/CD,No,No,Yes,Software Engineer,Yes,No
+3-5 years,Other (please specify),Metasploit,PostgreSQL,Apache,No,Yes,No,Product Manager,No,No
+1-3 years,Other (please specify),Numpy,PostgreSQL,AWS,Yes,Yes,No,Other (please specify),No,No
+None,Python,OpenVAS,MongoDB,Terraform,Yes,Yes,No,Full-Stack Developer,Yes,No
+More than 5 years,C#,OpenVAS,MySQL,CircleCI,Yes,No,No,Data Engineer,Yes,No
+None,JavaScript,Express.js,Other (please specify),AWS,No,No,Yes,Cloud Engineer,No,Yes
+More than 5 years,Kotlin,Flask,MongoDB,Docker,No,No,Yes,Data Scientist,Yes,No
+3-5 years,PHP,Next.js,MySQL,Azure,No,No,No,Front-End Developer,No,Yes
+3-5 years,Other (please specify),Kotlin Multiplatform Mobile (KMM),SQLite,Kubernetes,Yes,Yes,Yes,Systems Analyst,Yes,Yes
+Less than 1 year,C#,React Native,SQLite,GitLab CI/CD,No,Yes,No,Front-End Developer,Yes,No
+3-5 years,Go,Kotlin Multiplatform Mobile (KMM),PostgreSQL,Apache,Yes,No,Yes,Systems Analyst,No,No
+3-5 years,Swift,WPF,OracleDB,Azure,Yes,Yes,No,DevOps Engineer,Yes,Yes
+Less than 1 year,TypeScript,Qt,Other (please specify),Other (please specify),No,Yes,Yes,IT Support Specialist,Yes,Yes
+3-5 years,C++,.NET Core,PostgreSQL,Git,Yes,Yes,No,Full-Stack Developer,No,Yes
+1-3 years,TypeScript,Kotlin Multiplatform Mobile (KMM),PostgreSQL,Terraform,No,Yes,Yes,Front-End Developer,Yes,Yes
+Less than 1 year,TypeScript,WPF,MongoDB,Kubernetes,No,No,No,Software Engineer,No,No
+None,C++,Flutter,PostgreSQL,Terraform,No,No,No,Full-Stack Developer,No,Yes
+Less than 1 year,Go,Metasploit,MongoDB,Travis CI,Yes,No,Yes,Robotics Engineer,Yes,No
+None,Other (please specify),PyTorch,OracleDB,Nginx,Yes,Yes,Yes,Data Engineer,Yes,Yes
+3-5 years,TypeScript,Express.js,Microsoft SQL Server,Apache,Yes,No,Yes,Robotics Engineer,No,Yes
+Less than 1 year,Kotlin,JavaFX,MySQL,DigitalOcean,Yes,No,No,Data Scientist,Yes,No
+More than 5 years,Rust,Snort,CassandraDB,Google Cloud Platform,Yes,No,Yes,Other (please specify),No,Yes
+1-3 years,Other (please specify),Flutter,MySQL,Kubernetes,No,No,Yes,Project Manager,Yes,Yes
+Less than 1 year,C#,PyTorch,PostgreSQL,Jenkins,Yes,Yes,Yes,Game Developer,No,No
+Less than 1 year,Kotlin,React Native,PostgreSQL,CircleCI,No,Yes,Yes,Other (please specify),Yes,Yes
+Less than 1 year,None,Nestjs,CassandraDB,Git,Yes,No,Yes,Game Developer,Yes,Yes
+Less than 1 year,PHP,Nestjs,CassandraDB,GitLab CI/CD,Yes,Yes,No,Database Administrator,Yes,No
+1-3 years,Kotlin,WPF,CassandraDB,Travis CI,Yes,Yes,Yes,Systems Analyst,No,Yes
+None,Ruby,Next.js,CassandraDB,Other (please specify),Yes,No,Yes,Mobile Developer,Yes,No
+None,JavaScript,Xamarin,Microsoft SQL Server,Ansible,Yes,No,Yes,Front-End Developer,No,Yes
+Less than 1 year,Java,Pandas,MySQL,Docker,No,Yes,Yes,Full-Stack Developer,Yes,Yes
+None,Rust,Flask,Other (please specify),Google Cloud Platform,Yes,No,Yes,Cybersecurity Analyst,Yes,Yes
+More than 5 years,Go,Qt,MongoDB,GitLab CI/CD,No,Yes,No,Cybersecurity Analyst,Yes,Yes
+None,PHP,SwiftUI,MySQL,Google Cloud Platform,Yes,Yes,No,Other (please specify),No,No
+Less than 1 year,None,Nestjs,Other (please specify),Terraform,No,Yes,No,Software Engineer,Yes,Yes
+Less than 1 year,JavaScript,OpenVAS,MongoDB,Apache,Yes,Yes,No,Product Manager,No,Yes
+1-3 years,Swift,Flutter,CassandraDB,Nginx,Yes,Yes,No,Cybersecurity Analyst,No,Yes
+More than 5 years,Ruby,Next.js,CassandraDB,Other (please specify),Yes,Yes,No,Mobile Developer,No,No
+1-3 years,C#,Flutter,MongoDB,Terraform,No,Yes,Yes,DevOps Engineer,No,No
+1-3 years,C#,React Native,MySQL,Nginx,Yes,Yes,No,Machine Learning Engineer,No,No
+None,Dart,Ruby on Rails,SQLite,Jenkins,No,No,Yes,Systems Analyst,No,No
+Less than 1 year,Ruby,Ruby on Rails,PostgreSQL,Nginx,Yes,No,No,Full-Stack Developer,No,No
+3-5 years,C#,Pandas,PostgreSQL,Ansible,Yes,Yes,Yes,DevOps Engineer,Yes,Yes
+3-5 years,JavaScript,Nestjs,PostgreSQL,Docker,Yes,Yes,Yes,Machine Learning Engineer,No,No
+1-3 years,PHP,SwiftUI,Other (please specify),Ansible,Yes,Yes,No,Network Engineer,No,Yes
+3-5 years,C,Electron,MongoDB,Jenkins,Yes,Yes,Yes,Full-Stack Developer,Yes,Yes
+More than 5 years,Python,Nestjs,PostgreSQL,Other (please specify),No,No,No,Mobile Developer,No,Yes
+1-3 years,C#,Django,MySQL,Travis CI,Yes,Yes,Yes,Machine Learning Engineer,No,No
+1-3 years,PHP,Flutter,Other (please specify),GitLab CI/CD,No,No,Yes,Other (please specify),Yes,No
+3-5 years,Dart,Unreal Engine,CassandraDB,DigitalOcean,Yes,No,Yes,Other (please specify),Yes,Yes
+None,Rust,React,CassandraDB,Ansible,No,No,Yes,DevOps Engineer,Yes,No
+None,Java,Nestjs,PostgreSQL,GitLab CI/CD,No,No,No,Game Developer,No,No
+3-5 years,C++,Qt,PostgreSQL,Google Cloud Platform,Yes,No,Yes,Full-Stack Developer,Yes,No
+More than 5 years,TypeScript,Electron,OracleDB,GitLab CI/CD,No,No,No,Data Engineer,No,Yes
+1-3 years,Swift,Nestjs,Other (please specify),Nginx,No,Yes,No,Data Scientist,No,No
+1-3 years,None,Numpy,MongoDB,Travis CI,No,No,No,AI Researcher,No,No
+More than 5 years,PHP,Express.js,SQLite,Travis CI,Yes,Yes,No,DevOps Engineer,Yes,Yes
+3-5 years,PHP,Scikit-Learn,Other (please specify),Terraform,No,Yes,No,Back-End Developer,No,No
+Less than 1 year,None,Keras,CassandraDB,Terraform,No,Yes,No,Robotics Engineer,No,No
+Less than 1 year,Rust,OpenVAS,MySQL,Apache,No,Yes,No,Full-Stack Developer,No,No
+3-5 years,Swift,React Native,Other (please specify),Jenkins,Yes,Yes,Yes,Project Manager,Yes,Yes
+None,Ruby,Django,OracleDB,Ansible,No,Yes,No,IT Support Specialist,Yes,Yes
+Less than 1 year,Kotlin,Kali Linux,MongoDB,Docker,No,Yes,No,Network Engineer,No,No
+Less than 1 year,None,JavaFX,Microsoft SQL Server,Travis CI,No,No,Yes,Software Engineer,No,Yes
+Less than 1 year,Kotlin,Unreal Engine,CassandraDB,Other (please specify),Yes,Yes,Yes,Full-Stack Developer,No,No
+More than 5 years,Ruby,Flask,CassandraDB,CircleCI,Yes,No,Yes,Data Scientist,No,Yes
+More than 5 years,None,Nestjs,OracleDB,Git,Yes,No,No,Other (please specify),No,Yes
+None,Kotlin,Svelte,CassandraDB,CircleCI,No,Yes,No,Robotics Engineer,No,No
+None,C++,Angular,SQLite,Jenkins,No,Yes,No,Machine Learning Engineer,Yes,No
+Less than 1 year,Go,Express.js,Microsoft SQL Server,DigitalOcean,Yes,Yes,Yes,Network Engineer,Yes,Yes
+1-3 years,C++,Flutter,PostgreSQL,Nginx,Yes,No,Yes,Software Engineer,Yes,Yes
+1-3 years,Go,Scikit-Learn,OracleDB,Terraform,Yes,No,Yes,Machine Learning Engineer,Yes,Yes
+1-3 years,JavaScript,Wireshark,Other (please specify),Jenkins,Yes,Yes,Yes,Mobile Developer,Yes,Yes
+3-5 years,Other (please specify),Dask,MongoDB,Nginx,No,Yes,Yes,Other (please specify),No,No
+None,C,Unity,MongoDB,AWS,Yes,Yes,No,AI Researcher,No,No
+Less than 1 year,C++,GTK,OracleDB,Other (please specify),Yes,No,No,Other (please specify),No,Yes
+Less than 1 year,C,Kali Linux,CassandraDB,Google Cloud Platform,No,Yes,Yes,Game Developer,Yes,Yes
+1-3 years,JavaScript,Wireshark,MongoDB,GitLab CI/CD,Yes,Yes,No,IT Support Specialist,No,Yes
+Less than 1 year,Java,WPF,SQLite,Google Cloud Platform,No,No,Yes,Data Engineer,No,Yes
+More than 5 years,JavaScript,Dask,Redis,DigitalOcean,Yes,No,Yes,Product Manager,No,No
+None,Go,Xamarin,MySQL,Other (please specify),Yes,Yes,No,Front-End Developer,No,Yes
+3-5 years,Ruby,Electron,PostgreSQL,GitLab CI/CD,No,Yes,Yes,Network Engineer,No,No
+More than 5 years,Python,Scikit-Learn,MongoDB,Git,No,No,Yes,AI Researcher,No,Yes
+More than 5 years,Go,Ruby on Rails,SQLite,Apache,Yes,Yes,Yes,Front-End Developer,Yes,No
+None,Rust,Nestjs,OracleDB,Azure,Yes,Yes,No,Machine Learning Engineer,No,Yes
+1-3 years,Dart,Svelte,CassandraDB,Jenkins,No,Yes,No,Robotics Engineer,No,No
+More than 5 years,Ruby,Keras,Redis,Other (please specify),Yes,No,Yes,Database Administrator,No,No
+More than 5 years,Swift,Burp Suite,OracleDB,Ansible,Yes,Yes,No,DevOps Engineer,Yes,No
+More than 5 years,Ruby,Next.js,Microsoft SQL Server,CircleCI,Yes,Yes,No,Software Engineer,No,No
+3-5 years,TypeScript,Qt,MongoDB,Git,No,No,Yes,Project Manager,Yes,No
+None,TypeScript,WPF,MongoDB,Other (please specify),Yes,Yes,Yes,Cloud Engineer,No,Yes
+None,Swift,.NET Core,OracleDB,Docker,Yes,No,Yes,Cybersecurity Analyst,Yes,No
+1-3 years,Kotlin,.NET Core,SQLite,Docker,No,No,No,Mobile Developer,No,Yes
+3-5 years,Swift,Svelte,SQLite,Nginx,No,Yes,No,AI Researcher,No,No
+Less than 1 year,Go,Flutter,MySQL,Docker,Yes,Yes,Yes,Data Engineer,No,Yes
+More than 5 years,Swift,Dask,OracleDB,Jenkins,No,No,No,Full-Stack Developer,Yes,No
+More than 5 years,PHP,Unity,OracleDB,Other (please specify),Yes,Yes,No,Robotics Engineer,Yes,No
+More than 5 years,Ruby,Snort,MongoDB,Azure,No,Yes,Yes,Machine Learning Engineer,Yes,No
+1-3 years,JavaScript,Keras,MongoDB,Kubernetes,No,No,No,Game Developer,No,No
+More than 5 years,Swift,CryEngine,MongoDB,DigitalOcean,No,Yes,No,Project Manager,Yes,Yes
+3-5 years,Kotlin,Unreal Engine,PostgreSQL,Other (please specify),Yes,No,No,Project Manager,No,Yes
+3-5 years,TypeScript,React,SQLite,AWS,Yes,Yes,Yes,Product Manager,No,Yes
+Less than 1 year,Other (please specify),JavaFX,PostgreSQL,Jenkins,No,Yes,Yes,Software Engineer,No,Yes
+3-5 years,Python,Wireshark,MongoDB,Kubernetes,No,Yes,No,Robotics Engineer,Yes,No
+More than 5 years,C++,Keras,Redis,Google Cloud Platform,Yes,Yes,No,Robotics Engineer,Yes,Yes
+More than 5 years,Python,Express.js,OracleDB,Kubernetes,No,No,Yes,Mobile Developer,Yes,Yes
+More than 5 years,Ruby,TensorFlow,Redis,Kubernetes,Yes,Yes,No,Robotics Engineer,Yes,Yes
+More than 5 years,C,Express.js,MySQL,Kubernetes,Yes,No,No,Robotics Engineer,No,No
+More than 5 years,Swift,Kotlin Multiplatform Mobile (KMM),Microsoft SQL Server,CircleCI,No,No,Yes,Full-Stack Developer,No,Yes
+1-3 years,PHP,Numpy,MongoDB,AWS,No,Yes,Yes,Full-Stack Developer,No,No
+None,Dart,Xamarin,MongoDB,CircleCI,No,Yes,Yes,AI Researcher,Yes,Yes
+More than 5 years,C,Flask,SQLite,Kubernetes,No,Yes,No,Network Engineer,Yes,No
+More than 5 years,Kotlin,Svelte,MySQL,Git,No,No,Yes,Robotics Engineer,Yes,Yes
+More than 5 years,Dart,PyTorch,SQLite,Azure,No,Yes,Yes,Front-End Developer,No,Yes
+Less than 1 year,C++,Angular,MySQL,Docker,Yes,No,Yes,Back-End Developer,No,Yes
+More than 5 years,Swift,Pandas,Microsoft SQL Server,Apache,Yes,No,Yes,Game Developer,No,No
+Less than 1 year,C++,Flask,Microsoft SQL Server,CircleCI,No,No,Yes,Front-End Developer,Yes,Yes
+More than 5 years,Rust,WPF,Redis,Travis CI,Yes,Yes,No,Front-End Developer,No,Yes
+None,C,Ruby on Rails,PostgreSQL,Terraform,Yes,Yes,No,Cloud Engineer,Yes,No
+Less than 1 year,Swift,Ruby on Rails,MongoDB,Travis CI,No,Yes,Yes,Front-End Developer,Yes,Yes
+Less than 1 year,C++,Ruby on Rails,OracleDB,GitLab CI/CD,No,No,Yes,Database Administrator,No,Yes
+None,JavaScript,Pandas,Redis,AWS,Yes,No,No,DevOps Engineer,No,No
+3-5 years,C++,Express.js,MySQL,Docker,Yes,No,No,Cloud Engineer,Yes,Yes
+1-3 years,Ruby,SwiftUI,Other (please specify),Apache,No,No,Yes,Data Scientist,Yes,No
+More than 5 years,Dart,PyTorch,MySQL,DigitalOcean,Yes,No,Yes,Back-End Developer,Yes,No
+None,C,Qt,Microsoft SQL Server,Apache,No,No,Yes,Cybersecurity Analyst,Yes,No
+3-5 years,Rust,PyTorch,Microsoft SQL Server,AWS,No,Yes,No,Cloud Engineer,No,Yes
+More than 5 years,Java,Wireshark,OracleDB,Other (please specify),Yes,No,No,Systems Analyst,Yes,Yes
+3-5 years,C#,GTK,SQLite,Ansible,Yes,No,Yes,Project Manager,No,No
+3-5 years,Swift,Django,CassandraDB,Terraform,No,No,Yes,Robotics Engineer,No,No
+Less than 1 year,C,Ruby on Rails,Other (please specify),AWS,No,No,Yes,Cloud Engineer,Yes,No
+More than 5 years,Java,Ruby on Rails,SQLite,Ansible,No,Yes,Yes,Game Developer,No,No
+3-5 years,Rust,TensorFlow,SQLite,GitLab CI/CD,Yes,No,Yes,Database Administrator,No,Yes
+1-3 years,Ruby,Keras,MySQL,CircleCI,Yes,Yes,No,Data Engineer,Yes,Yes
+None,C#,Keras,Other (please specify),Google Cloud Platform,Yes,No,Yes,Product Manager,No,No
+3-5 years,C++,Angular,OracleDB,Git,Yes,No,Yes,Data Engineer,No,Yes
+None,Kotlin,GTK,MongoDB,AWS,No,No,No,Cybersecurity Analyst,Yes,Yes
+Less than 1 year,C#,Kali Linux,OracleDB,AWS,Yes,Yes,Yes,Mobile Developer,No,Yes
+1-3 years,JavaScript,PyTorch,MongoDB,Google Cloud Platform,Yes,No,No,Machine Learning Engineer,No,No
+1-3 years,Ruby,Express.js,Redis,Other (please specify),Yes,Yes,No,Software Engineer,Yes,Yes
+Less than 1 year,C,Xamarin,Microsoft SQL Server,Ansible,No,Yes,Yes,Cloud Engineer,Yes,Yes
+None,C#,Kali Linux,SQLite,Ansible,No,No,No,Front-End Developer,Yes,No
+None,C#,Vue.js,MongoDB,GitLab CI/CD,No,Yes,Yes,DevOps Engineer,No,No
+None,Java,Vue.js,MongoDB,CircleCI,Yes,Yes,Yes,Cybersecurity Analyst,Yes,Yes
+3-5 years,Python,Next.js,OracleDB,Travis CI,Yes,Yes,No,Cloud Engineer,Yes,No
+More than 5 years,TypeScript,CryEngine,MongoDB,Google Cloud Platform,No,No,No,Project Manager,No,No
+3-5 years,PHP,Electron,Microsoft SQL Server,Ansible,No,Yes,Yes,Robotics Engineer,No,No
+Less than 1 year,C#,Metasploit,OracleDB,Other (please specify),Yes,No,No,Full-Stack Developer,Yes,Yes
+Less than 1 year,Ruby,Flutter,Other (please specify),Google Cloud Platform,No,Yes,No,Product Manager,Yes,Yes
+Less than 1 year,PHP,Svelte,Other (please specify),Kubernetes,Yes,No,No,Systems Analyst,Yes,Yes
+Less than 1 year,TypeScript,Unreal Engine,Redis,AWS,No,No,No,Mobile Developer,No,Yes
+None,JavaScript,Vue.js,MySQL,Google Cloud Platform,Yes,Yes,Yes,Robotics Engineer,Yes,Yes
+None,Go,Flutter,MySQL,Ansible,Yes,No,Yes,Mobile Developer,Yes,No
+None,TypeScript,React Native,PostgreSQL,Azure,No,No,Yes,Cybersecurity Analyst,No,No
+None,Swift,Electron,Microsoft SQL Server,Terraform,Yes,Yes,No,Systems Analyst,Yes,Yes
+3-5 years,Java,JavaFX,SQLite,Apache,No,No,No,Network Engineer,Yes,Yes
+More than 5 years,Kotlin,Burp Suite,Redis,CircleCI,Yes,No,Yes,Software Engineer,Yes,No
+3-5 years,C,Django,PostgreSQL,GitLab CI/CD,No,Yes,Yes,Robotics Engineer,Yes,Yes
+Less than 1 year,Rust,Ruby on Rails,Other (please specify),Nginx,Yes,No,No,Mobile Developer,Yes,No
+Less than 1 year,Java,Django,SQLite,Other (please specify),No,No,Yes,Other (please specify),Yes,Yes
+Less than 1 year,TypeScript,Express.js,Redis,Google Cloud Platform,Yes,Yes,Yes,Machine Learning Engineer,No,Yes
+3-5 years,Ruby,Metasploit,CassandraDB,Terraform,Yes,No,No,Data Engineer,Yes,Yes
+3-5 years,TypeScript,.NET Core,MySQL,DigitalOcean,Yes,Yes,Yes,Cybersecurity Analyst,No,No
+Less than 1 year,Java,WPF,MongoDB,Jenkins,No,No,No,Game Developer,No,No
+More than 5 years,JavaScript,Ruby on Rails,MySQL,Nginx,No,No,Yes,Full-Stack Developer,No,No
+Less than 1 year,Go,Xamarin,MySQL,Other (please specify),No,No,Yes,Cybersecurity Analyst,No,No
+3-5 years,Rust,Kotlin Multiplatform Mobile (KMM),Other (please specify),Terraform,No,No,No,Other (please specify),Yes,Yes
+3-5 years,TypeScript,React Native,Microsoft SQL Server,Docker,Yes,Yes,Yes,Network Engineer,Yes,No
+None,Ruby,Ruby on Rails,PostgreSQL,Apache,No,Yes,No,Machine Learning Engineer,No,No
+1-3 years,Python,Scikit-Learn,PostgreSQL,Azure,No,No,Yes,Product Manager,No,Yes
+None,Dart,Keras,Other (please specify),Apache,Yes,No,Yes,Game Developer,No,Yes
+More than 5 years,Kotlin,Unity,Other (please specify),Terraform,No,Yes,No,Full-Stack Developer,Yes,No
+None,PHP,TensorFlow,SQLite,Git,Yes,Yes,No,Cybersecurity Analyst,No,Yes
+None,Go,Wireshark,SQLite,DigitalOcean,No,No,Yes,Back-End Developer,No,Yes
+1-3 years,Dart,Nestjs,CassandraDB,DigitalOcean,No,Yes,No,Other (please specify),Yes,Yes
+1-3 years,TypeScript,Nestjs,PostgreSQL,Ansible,No,No,No,Data Engineer,Yes,Yes
+3-5 years,TypeScript,JavaFX,Other (please specify),Docker,No,No,No,Software Engineer,No,No
+1-3 years,None,React Native,Microsoft SQL Server,Nginx,Yes,Yes,No,Product Manager,Yes,Yes
+Less than 1 year,Rust,Unity,Microsoft SQL Server,GitLab CI/CD,No,No,No,Front-End Developer,Yes,No
+More than 5 years,Kotlin,CryEngine,Microsoft SQL Server,Travis CI,No,Yes,Yes,Data Engineer,No,No
+Less than 1 year,Go,.NET Core,PostgreSQL,Other (please specify),No,No,Yes,Network Engineer,No,Yes
+None,Kotlin,Express.js,MongoDB,GitLab CI/CD,Yes,Yes,No,Data Engineer,Yes,No
+None,Swift,Keras,CassandraDB,DigitalOcean,No,Yes,No,Mobile Developer,Yes,Yes
+None,C++,JavaFX,PostgreSQL,CircleCI,No,Yes,No,Game Developer,Yes,No
+More than 5 years,Other (please specify),GTK,SQLite,Ansible,Yes,Yes,No,Mobile Developer,Yes,Yes
+More than 5 years,None,.NET Core,MySQL,Kubernetes,Yes,Yes,No,Front-End Developer,Yes,No
+3-5 years,Java,Xamarin,Microsoft SQL Server,Apache,No,No,No,Full-Stack Developer,Yes,Yes
+1-3 years,None,JavaFX,MySQL,CircleCI,Yes,No,Yes,Systems Analyst,Yes,No
+Less than 1 year,C++,OpenVAS,OracleDB,AWS,No,No,Yes,Network Engineer,No,Yes
+Less than 1 year,Ruby,Vue.js,Other (please specify),GitLab CI/CD,Yes,Yes,No,Software Engineer,Yes,Yes
+1-3 years,JavaScript,Vue.js,CassandraDB,Terraform,Yes,Yes,Yes,Other (please specify),No,Yes
+3-5 years,Dart,OpenVAS,CassandraDB,Google Cloud Platform,No,No,No,Systems Analyst,No,Yes
+1-3 years,C++,Django,OracleDB,Docker,No,No,Yes,Software Engineer,No,No
+1-3 years,JavaScript,Wireshark,CassandraDB,Google Cloud Platform,No,No,Yes,Robotics Engineer,Yes,Yes
+3-5 years,Dart,TensorFlow,Other (please specify),Other (please specify),Yes,Yes,Yes,Full-Stack Developer,No,Yes
+None,Java,WPF,PostgreSQL,CircleCI,No,Yes,Yes,Cybersecurity Analyst,No,Yes
+3-5 years,Rust,GTK,CassandraDB,Apache,No,Yes,Yes,Project Manager,Yes,Yes
+3-5 years,C#,.NET Core,MySQL,Apache,No,Yes,Yes,Machine Learning Engineer,No,Yes
+Less than 1 year,Dart,Express.js,Microsoft SQL Server,Ansible,Yes,Yes,Yes,Front-End Developer,Yes,No
+3-5 years,None,GTK,PostgreSQL,Ansible,No,No,Yes,Network Engineer,Yes,No
+None,Other (please specify),Express.js,MySQL,Google Cloud Platform,Yes,Yes,No,Data Scientist,No,No
+More than 5 years,C#,GTK,MongoDB,GitLab CI/CD,No,No,No,Full-Stack Developer,No,Yes
+3-5 years,Swift,Unity,MongoDB,Other (please specify),No,Yes,No,Data Scientist,No,Yes
+More than 5 years,Rust,Django,OracleDB,Google Cloud Platform,Yes,No,Yes,Network Engineer,Yes,Yes
+Less than 1 year,None,Godot,Microsoft SQL Server,Other (please specify),No,Yes,Yes,Full-Stack Developer,No,No
+1-3 years,Ruby,Ruby on Rails,CassandraDB,Git,No,No,No,Cybersecurity Analyst,No,Yes
+None,Kotlin,JavaFX,Other (please specify),Azure,No,Yes,No,Machine Learning Engineer,No,No
+Less than 1 year,C++,Unreal Engine,Redis,Azure,Yes,No,Yes,Cybersecurity Analyst,Yes,No
+More than 5 years,Go,PyTorch,MySQL,DigitalOcean,Yes,No,Yes,Back-End Developer,Yes,No
+Less than 1 year,TypeScript,Pandas,SQLite,Azure,Yes,Yes,Yes,Mobile Developer,Yes,Yes
+1-3 years,JavaScript,Metasploit,OracleDB,Azure,No,Yes,Yes,Back-End Developer,No,Yes
+More than 5 years,None,Xamarin,PostgreSQL,Kubernetes,No,Yes,No,AI Researcher,No,No
+None,JavaScript,SwiftUI,OracleDB,Git,No,Yes,No,Machine Learning Engineer,Yes,No
+More than 5 years,C++,Dask,SQLite,Apache,Yes,Yes,Yes,Software Engineer,No,No
+1-3 years,Kotlin,Next.js,PostgreSQL,Azure,Yes,Yes,Yes,Data Engineer,Yes,Yes
+1-3 years,Go,Next.js,MySQL,GitLab CI/CD,Yes,Yes,Yes,DevOps Engineer,Yes,Yes
+1-3 years,TypeScript,React,CassandraDB,Ansible,No,No,Yes,Project Manager,Yes,No
+More than 5 years,Java,Flask,Other (please specify),CircleCI,Yes,Yes,No,Front-End Developer,Yes,Yes
+1-3 years,Ruby,Vue.js,MySQL,Git,Yes,No,No,Cloud Engineer,No,No
+1-3 years,Ruby,CryEngine,Other (please specify),Nginx,Yes,No,No,IT Support Specialist,Yes,No
+1-3 years,Dart,Godot,Redis,Terraform,No,Yes,Yes,IT Support Specialist,No,Yes
+Less than 1 year,JavaScript,Snort,Other (please specify),Azure,No,Yes,No,Other (please specify),No,Yes
+None,Java,Flask,OracleDB,Nginx,Yes,Yes,Yes,Database Administrator,Yes,No
+1-3 years,TypeScript,Godot,Other (please specify),Google Cloud Platform,No,No,No,Cybersecurity Analyst,Yes,Yes
+More than 5 years,Kotlin,Xamarin,Redis,DigitalOcean,No,Yes,No,Back-End Developer,No,No
+None,TypeScript,Express.js,MySQL,Ansible,Yes,No,Yes,Software Engineer,No,Yes
+1-3 years,Dart,Burp Suite,PostgreSQL,AWS,Yes,Yes,No,Cloud Engineer,No,No
+3-5 years,Other (please specify),Electron,CassandraDB,Docker,No,No,Yes,Mobile Developer,No,No
+Less than 1 year,JavaScript,Next.js,SQLite,Nginx,Yes,No,No,Game Developer,No,No
+Less than 1 year,TypeScript,React,Redis,CircleCI,Yes,No,Yes,Cloud Engineer,Yes,No
+Less than 1 year,Python,React Native,OracleDB,Docker,Yes,Yes,No,Data Engineer,Yes,No
+More than 5 years,Swift,Express.js,Other (please specify),AWS,Yes,No,No,Systems Analyst,Yes,Yes
+More than 5 years,Dart,.NET Core,Other (please specify),Terraform,No,No,Yes,Machine Learning Engineer,No,No
+More than 5 years,Dart,Pandas,MongoDB,Git,Yes,No,No,Product Manager,No,Yes
+Less than 1 year,JavaScript,Express.js,OracleDB,Docker,No,Yes,No,Cybersecurity Analyst,No,Yes
+More than 5 years,PHP,Burp Suite,Other (please specify),Kubernetes,Yes,Yes,No,Game Developer,Yes,No
+More than 5 years,None,GTK,PostgreSQL,Terraform,No,Yes,Yes,Product Manager,Yes,No
+3-5 years,Python,JavaFX,Other (please specify),Travis CI,No,No,Yes,Product Manager,No,No
+None,Python,Flutter,Other (please specify),Nginx,No,No,Yes,AI Researcher,No,Yes
+None,Rust,Ruby on Rails,PostgreSQL,Travis CI,Yes,Yes,Yes,Mobile Developer,Yes,No
+1-3 years,Go,Kali Linux,PostgreSQL,Travis CI,Yes,No,Yes,Full-Stack Developer,No,Yes
+Less than 1 year,C#,Vue.js,SQLite,Apache,Yes,Yes,No,Machine Learning Engineer,No,No
+1-3 years,Go,Flask,Other (please specify),Google Cloud Platform,No,Yes,Yes,Robotics Engineer,Yes,No
+More than 5 years,C#,Svelte,PostgreSQL,Docker,No,Yes,No,Database Administrator,No,Yes
+1-3 years,None,Unity,PostgreSQL,AWS,Yes,Yes,No,Full-Stack Developer,No,No
+None,Ruby,Scikit-Learn,OracleDB,Kubernetes,No,Yes,Yes,Data Scientist,No,No
+Less than 1 year,PHP,TensorFlow,Other (please specify),Kubernetes,No,No,No,Robotics Engineer,Yes,No
+None,None,Burp Suite,MongoDB,Jenkins,No,Yes,No,Project Manager,Yes,Yes
+1-3 years,JavaScript,Pandas,MongoDB,Google Cloud Platform,No,No,Yes,DevOps Engineer,Yes,No
+More than 5 years,Python,Dask,PostgreSQL,Terraform,No,Yes,Yes,Mobile Developer,Yes,Yes
+Less than 1 year,Python,Svelte,OracleDB,Google Cloud Platform,Yes,Yes,No,Data Engineer,Yes,No
+1-3 years,TypeScript,Unity,OracleDB,Jenkins,Yes,Yes,Yes,Mobile Developer,No,Yes
+3-5 years,Rust,Godot,MongoDB,Nginx,Yes,No,No,Software Engineer,Yes,No
+None,Other (please specify),Unreal Engine,OracleDB,Ansible,Yes,No,No,Software Engineer,Yes,No
+More than 5 years,Java,Angular,OracleDB,Other (please specify),Yes,No,Yes,Product Manager,Yes,Yes
+More than 5 years,Java,Flutter,CassandraDB,Docker,Yes,No,Yes,IT Support Specialist,Yes,Yes
+3-5 years,PHP,Django,Microsoft SQL Server,Google Cloud Platform,No,No,No,Product Manager,No,No
+1-3 years,Ruby,PyTorch,SQLite,Jenkins,Yes,Yes,No,Cloud Engineer,Yes,Yes
+Less than 1 year,Ruby,SwiftUI,SQLite,Other (please specify),No,Yes,Yes,Data Engineer,No,Yes
+3-5 years,C#,Dask,PostgreSQL,Apache,Yes,No,Yes,Machine Learning Engineer,Yes,No
+3-5 years,PHP,React,Microsoft SQL Server,Google Cloud Platform,No,No,No,Software Engineer,Yes,Yes
+More than 5 years,Dart,Unity,OracleDB,Kubernetes,No,No,No,Data Scientist,No,Yes
+More than 5 years,Other (please specify),Wireshark,Redis,GitLab CI/CD,No,No,No,Front-End Developer,No,Yes
+1-3 years,C#,Angular,PostgreSQL,Terraform,Yes,Yes,No,Network Engineer,Yes,No
+None,Other (please specify),TensorFlow,PostgreSQL,Ansible,No,Yes,No,Cloud Engineer,No,No
+None,JavaScript,Wireshark,Redis,Terraform,Yes,Yes,Yes,Software Engineer,Yes,No
+1-3 years,None,GTK,OracleDB,Apache,No,Yes,Yes,DevOps Engineer,No,Yes
+1-3 years,Python,Unreal Engine,Microsoft SQL Server,Jenkins,Yes,Yes,Yes,IT Support Specialist,No,No
+Less than 1 year,Python,Electron,MongoDB,Kubernetes,No,Yes,Yes,AI Researcher,No,Yes
+Less than 1 year,Swift,Kali Linux,OracleDB,Other (please specify),No,Yes,Yes,Mobile Developer,No,Yes
+3-5 years,Other (please specify),Unreal Engine,PostgreSQL,DigitalOcean,No,Yes,Yes,Data Scientist,Yes,Yes
+More than 5 years,PHP,Flask,Microsoft SQL Server,Terraform,No,Yes,No,Systems Analyst,Yes,Yes
+More than 5 years,Dart,WPF,Microsoft SQL Server,Nginx,No,Yes,Yes,Full-Stack Developer,Yes,Yes
+1-3 years,Java,Kali Linux,OracleDB,GitLab CI/CD,No,Yes,No,Data Scientist,No,No
+Less than 1 year,C,Angular,Redis,Azure,Yes,Yes,No,Cybersecurity Analyst,No,No
+More than 5 years,Kotlin,Dask,OracleDB,DigitalOcean,No,Yes,Yes,Full-Stack Developer,Yes,No
+More than 5 years,Python,Express.js,Other (please specify),Apache,No,Yes,Yes,Machine Learning Engineer,No,Yes
+1-3 years,Python,Kali Linux,MySQL,Azure,Yes,Yes,Yes,Cybersecurity Analyst,No,Yes
+None,Swift,Next.js,OracleDB,CircleCI,No,No,No,Project Manager,Yes,Yes
+1-3 years,C,Unity,Other (please specify),AWS,No,No,No,Machine Learning Engineer,Yes,Yes
+1-3 years,TypeScript,Kotlin Multiplatform Mobile (KMM),Microsoft SQL Server,Git,No,No,No,Other (please specify),No,Yes
+3-5 years,Java,Django,OracleDB,Jenkins,No,No,Yes,Other (please specify),No,Yes
+3-5 years,Rust,GTK,CassandraDB,DigitalOcean,Yes,No,Yes,Robotics Engineer,No,No
+Less than 1 year,Go,Nestjs,Other (please specify),Google Cloud Platform,Yes,No,No,Data Scientist,Yes,No
+1-3 years,Dart,OpenVAS,OracleDB,CircleCI,Yes,No,Yes,Cloud Engineer,No,Yes
+None,C,Angular,PostgreSQL,Other (please specify),No,Yes,Yes,Game Developer,Yes,No
+1-3 years,Swift,Vue.js,PostgreSQL,Travis CI,Yes,No,Yes,Network Engineer,Yes,Yes
+More than 5 years,Other (please specify),Scikit-Learn,PostgreSQL,Docker,No,No,Yes,Machine Learning Engineer,Yes,Yes
+1-3 years,Go,Wireshark,Microsoft SQL Server,Azure,No,No,No,Cybersecurity Analyst,Yes,No
+Less than 1 year,Dart,SwiftUI,SQLite,Terraform,No,Yes,Yes,Other (please specify),Yes,No
+More than 5 years,Go,.NET Core,Redis,Docker,No,No,Yes,Software Engineer,Yes,Yes
+None,Rust,WPF,MySQL,GitLab CI/CD,No,Yes,No,DevOps Engineer,Yes,No
+Less than 1 year,Go,Numpy,CassandraDB,CircleCI,No,Yes,Yes,Product Manager,No,Yes
+Less than 1 year,Python,.NET Core,Microsoft SQL Server,Azure,Yes,No,No,Full-Stack Developer,Yes,Yes
+3-5 years,Kotlin,Burp Suite,CassandraDB,Terraform,Yes,No,Yes,Full-Stack Developer,Yes,Yes
+Less than 1 year,Swift,Xamarin,PostgreSQL,Jenkins,Yes,No,Yes,Data Scientist,No,Yes
+Less than 1 year,JavaScript,Flask,MySQL,Git,Yes,No,No,Machine Learning Engineer,Yes,Yes
+3-5 years,TypeScript,JavaFX,Redis,Azure,No,Yes,Yes,Database Administrator,Yes,Yes
+Less than 1 year,Ruby,Kali Linux,CassandraDB,Terraform,Yes,No,No,Machine Learning Engineer,Yes,No
+1-3 years,None,Godot,Other (please specify),Ansible,No,Yes,Yes,Back-End Developer,No,Yes
+Less than 1 year,Rust,WPF,Redis,Docker,Yes,No,No,Product Manager,No,Yes
+More than 5 years,C++,.NET Core,Microsoft SQL Server,CircleCI,No,Yes,No,Full-Stack Developer,No,Yes
+More than 5 years,Other (please specify),OpenVAS,CassandraDB,DigitalOcean,Yes,No,Yes,Cybersecurity Analyst,No,No
+None,Java,Xamarin,PostgreSQL,Apache,No,No,No,Front-End Developer,No,Yes
+3-5 years,Other (please specify),Next.js,OracleDB,Docker,Yes,Yes,No,Front-End Developer,No,No
+Less than 1 year,PHP,Scikit-Learn,CassandraDB,Travis CI,Yes,Yes,No,Cybersecurity Analyst,Yes,No
+Less than 1 year,PHP,SwiftUI,CassandraDB,Ansible,No,Yes,No,Game Developer,Yes,No
+3-5 years,Other (please specify),SwiftUI,SQLite,Kubernetes,No,Yes,Yes,Back-End Developer,Yes,No
+1-3 years,C,Express.js,MongoDB,Jenkins,Yes,No,Yes,Product Manager,No,Yes
+Less than 1 year,Go,GTK,Microsoft SQL Server,Azure,Yes,No,Yes,Mobile Developer,Yes,Yes
+3-5 years,Go,Wireshark,Redis,Nginx,Yes,No,No,Data Engineer,No,No
+1-3 years,Kotlin,Electron,CassandraDB,Ansible,No,No,No,DevOps Engineer,Yes,Yes
+More than 5 years,C,Pandas,Microsoft SQL Server,Nginx,Yes,No,No,Product Manager,No,No
+Less than 1 year,JavaScript,OpenVAS,PostgreSQL,Apache,No,No,Yes,Back-End Developer,No,Yes
+Less than 1 year,JavaScript,Flask,OracleDB,DigitalOcean,Yes,Yes,Yes,Mobile Developer,No,No
+Less than 1 year,None,Express.js,CassandraDB,GitLab CI/CD,No,Yes,Yes,Back-End Developer,Yes,Yes
+Less than 1 year,Ruby,Numpy,Redis,Other (please specify),Yes,No,No,Software Engineer,Yes,No
+None,Python,Svelte,OracleDB,Travis CI,Yes,No,No,Product Manager,Yes,No
+Less than 1 year,Java,PyTorch,MySQL,DigitalOcean,No,Yes,No,Machine Learning Engineer,Yes,Yes
+1-3 years,Go,Godot,Microsoft SQL Server,Nginx,Yes,No,No,Software Engineer,No,Yes
+Less than 1 year,Ruby,Svelte,CassandraDB,Terraform,No,No,No,Network Engineer,Yes,Yes
+More than 5 years,Java,WPF,Redis,Other (please specify),Yes,No,Yes,IT Support Specialist,Yes,No
+More than 5 years,None,Snort,Microsoft SQL Server,GitLab CI/CD,Yes,Yes,No,Software Engineer,Yes,Yes
+3-5 years,C#,Nestjs,MongoDB,Google Cloud Platform,No,No,Yes,Full-Stack Developer,Yes,No
+More than 5 years,Kotlin,Pandas,MongoDB,Terraform,Yes,No,Yes,IT Support Specialist,Yes,Yes
+3-5 years,Rust,JavaFX,SQLite,DigitalOcean,No,Yes,Yes,Robotics Engineer,No,Yes
+None,Dart,React Native,Microsoft SQL Server,Google Cloud Platform,Yes,Yes,No,Data Scientist,No,Yes
+None,TypeScript,PyTorch,PostgreSQL,Other (please specify),No,No,Yes,Other (please specify),Yes,Yes
+1-3 years,Java,Keras,Other (please specify),Kubernetes,No,No,No,Robotics Engineer,Yes,No
+Less than 1 year,Python,Express.js,MySQL,Other (please specify),Yes,No,Yes,Systems Analyst,Yes,Yes
+None,Other (please specify),React,MongoDB,GitLab CI/CD,No,Yes,No,Other (please specify),Yes,Yes
+3-5 years,Ruby,SwiftUI,MongoDB,Terraform,Yes,Yes,No,Robotics Engineer,Yes,No
+More than 5 years,C++,TensorFlow,CassandraDB,GitLab CI/CD,No,No,No,Systems Analyst,Yes,No
+Less than 1 year,Go,Vue.js,Microsoft SQL Server,Kubernetes,No,Yes,No,Project Manager,No,Yes
+More than 5 years,Java,Flutter,PostgreSQL,Git,No,Yes,Yes,AI Researcher,Yes,No
+3-5 years,C#,Vue.js,Microsoft SQL Server,Other (please specify),Yes,Yes,No,Systems Analyst,Yes,No
+3-5 years,Kotlin,Django,Other (please specify),Docker,No,No,No,Project Manager,No,No
+1-3 years,C++,Electron,PostgreSQL,GitLab CI/CD,No,Yes,Yes,Other (please specify),Yes,No
+More than 5 years,Rust,Flask,SQLite,CircleCI,Yes,No,No,AI Researcher,No,Yes
+1-3 years,PHP,PyTorch,OracleDB,DigitalOcean,Yes,Yes,No,Database Administrator,Yes,No
+More than 5 years,Swift,React,MongoDB,Travis CI,Yes,Yes,No,Data Scientist,No,No
+Less than 1 year,Python,Next.js,OracleDB,DigitalOcean,No,No,Yes,Software Engineer,Yes,No
+Less than 1 year,Go,Django,Redis,Azure,Yes,Yes,Yes,Front-End Developer,Yes,Yes
+None,C#,Angular,MySQL,Azure,No,Yes,No,Cloud Engineer,Yes,Yes
+More than 5 years,Rust,PyTorch,MongoDB,Terraform,No,Yes,Yes,Mobile Developer,Yes,Yes
+More than 5 years,None,Vue.js,PostgreSQL,Docker,No,Yes,No,Machine Learning Engineer,Yes,No
+None,TypeScript,Metasploit,SQLite,Jenkins,No,Yes,Yes,Cybersecurity Analyst,Yes,Yes
+Less than 1 year,Ruby,Next.js,Microsoft SQL Server,Nginx,No,No,Yes,Project Manager,Yes,Yes
+3-5 years,Swift,Wireshark,SQLite,Azure,No,No,No,Data Engineer,No,No
+More than 5 years,PHP,Apache Spark,SQLite,AWS,No,No,No,Machine Learning Engineer,No,Yes
+More than 5 years,None,.NET Core,SQLite,Git,Yes,No,Yes,Network Engineer,Yes,Yes
+More than 5 years,None,Flutter,MySQL,Terraform,No,Yes,Yes,Systems Analyst,No,No
+1-3 years,Ruby,React,OracleDB,Kubernetes,No,Yes,Yes,Game Developer,No,Yes
+Less than 1 year,JavaScript,Flask,Microsoft SQL Server,Terraform,Yes,Yes,No,Systems Analyst,Yes,Yes
+More than 5 years,Ruby,PyTorch,CassandraDB,Kubernetes,Yes,Yes,Yes,Mobile Developer,No,Yes
+More than 5 years,C#,TensorFlow,PostgreSQL,Other (please specify),No,No,No,Full-Stack Developer,No,No
+1-3 years,Other (please specify),WPF,CassandraDB,Google Cloud Platform,Yes,Yes,Yes,Software Engineer,Yes,No
+None,None,Snort,MongoDB,CircleCI,Yes,No,Yes,Database Administrator,No,Yes
+1-3 years,JavaScript,Godot,Redis,Docker,No,No,No,Robotics Engineer,Yes,No
+1-3 years,Swift,Flask,OracleDB,Other (please specify),No,Yes,No,Game Developer,Yes,Yes
+3-5 years,Swift,GTK,SQLite,DigitalOcean,Yes,Yes,No,Front-End Developer,Yes,Yes
+Less than 1 year,Kotlin,OpenVAS,Redis,Ansible,Yes,Yes,Yes,Front-End Developer,Yes,No
+Less than 1 year,Other (please specify),Flutter,OracleDB,DigitalOcean,Yes,No,Yes,Data Scientist,Yes,Yes
+None,None,Numpy,Redis,AWS,Yes,No,Yes,Robotics Engineer,Yes,No
+1-3 years,JavaScript,Pandas,Microsoft SQL Server,Apache,Yes,Yes,Yes,Data Engineer,Yes,No
+1-3 years,Other (please specify),Unity,OracleDB,Other (please specify),Yes,No,No,Cybersecurity Analyst,Yes,No
+1-3 years,Dart,Nestjs,Other (please specify),GitLab CI/CD,Yes,Yes,Yes,DevOps Engineer,No,No
+3-5 years,C++,Angular,MongoDB,Docker,No,Yes,No,Robotics Engineer,No,No
+Less than 1 year,C,Flask,Microsoft SQL Server,Jenkins,Yes,No,No,Mobile Developer,No,No
+None,Kotlin,Pandas,CassandraDB,Git,Yes,Yes,Yes,Cloud Engineer,No,Yes
+None,C#,WPF,OracleDB,DigitalOcean,Yes,Yes,No,Machine Learning Engineer,No,Yes
+Less than 1 year,Dart,Electron,Redis,Jenkins,No,Yes,No,Mobile Developer,No,No
+3-5 years,Ruby,JavaFX,PostgreSQL,Ansible,No,Yes,No,IT Support Specialist,No,No
+More than 5 years,Go,Vue.js,Other (please specify),Kubernetes,No,No,Yes,Network Engineer,No,Yes
+3-5 years,None,Numpy,MongoDB,Google Cloud Platform,No,No,No,Data Engineer,No,No
+Less than 1 year,Python,Nestjs,MySQL,Apache,No,No,No,Machine Learning Engineer,Yes,Yes
+1-3 years,Java,Flutter,CassandraDB,GitLab CI/CD,No,Yes,No,Cloud Engineer,No,No
+1-3 years,Go,Dask,SQLite,CircleCI,Yes,No,Yes,Robotics Engineer,No,Yes
+1-3 years,C,CryEngine,MySQL,Docker,No,Yes,Yes,DevOps Engineer,Yes,No
+1-3 years,C,Nestjs,PostgreSQL,Ansible,No,Yes,Yes,Software Engineer,No,Yes
+More than 5 years,Other (please specify),Electron,SQLite,Kubernetes,Yes,No,No,Software Engineer,Yes,Yes
+3-5 years,Rust,Nestjs,MySQL,Docker,No,No,Yes,Data Engineer,Yes,No
+1-3 years,Swift,React,PostgreSQL,Jenkins,No,No,Yes,Machine Learning Engineer,No,Yes
+Less than 1 year,Other (please specify),Pandas,MySQL,Travis CI,Yes,No,No,Full-Stack Developer,No,No
+None,Swift,Dask,PostgreSQL,Nginx,Yes,Yes,Yes,Robotics Engineer,Yes,Yes
+More than 5 years,PHP,Scikit-Learn,OracleDB,Kubernetes,No,Yes,No,Product Manager,No,Yes
+1-3 years,C#,TensorFlow,MySQL,Kubernetes,No,Yes,Yes,Network Engineer,Yes,Yes
+3-5 years,Kotlin,Xamarin,PostgreSQL,Docker,Yes,Yes,No,Full-Stack Developer,No,Yes
+Less than 1 year,C,Vue.js,Redis,Travis CI,Yes,Yes,Yes,AI Researcher,No,No
+More than 5 years,C,.NET Core,Other (please specify),Git,No,No,Yes,DevOps Engineer,No,Yes
+3-5 years,Java,Qt,Other (please specify),Git,No,Yes,No,Front-End Developer,No,Yes
+3-5 years,Other (please specify),Apache Spark,Other (please specify),Jenkins,Yes,No,Yes,Data Scientist,No,Yes
+1-3 years,Go,Angular,Other (please specify),Jenkins,No,Yes,Yes,Product Manager,Yes,No
+3-5 years,Python,Next.js,Other (please specify),DigitalOcean,No,Yes,Yes,IT Support Specialist,No,Yes
+None,TypeScript,Dask,CassandraDB,Other (please specify),Yes,No,No,Data Scientist,No,No
+1-3 years,Java,Electron,SQLite,Travis CI,Yes,Yes,No,Full-Stack Developer,Yes,Yes
+None,TypeScript,Svelte,OracleDB,Git,Yes,No,Yes,AI Researcher,Yes,Yes
+3-5 years,Kotlin,GTK,MongoDB,Terraform,Yes,Yes,No,Software Engineer,No,Yes
+More than 5 years,Swift,Electron,MySQL,Ansible,Yes,No,Yes,AI Researcher,Yes,No
+Less than 1 year,None,Numpy,Microsoft SQL Server,Ansible,No,No,No,Data Engineer,No,Yes
+More than 5 years,Ruby,.NET Core,CassandraDB,Google Cloud Platform,No,No,No,Network Engineer,Yes,Yes
+Less than 1 year,Go,Next.js,Other (please specify),Apache,No,Yes,Yes,Other (please specify),Yes,No
+3-5 years,TypeScript,JavaFX,Redis,GitLab CI/CD,No,No,Yes,Front-End Developer,Yes,No
+More than 5 years,Other (please specify),Numpy,Redis,Git,Yes,Yes,No,Full-Stack Developer,Yes,No
+None,None,PyTorch,CassandraDB,Kubernetes,Yes,No,Yes,Mobile Developer,No,Yes
+None,Java,Django,MySQL,Apache,Yes,Yes,Yes,Data Scientist,Yes,No
+More than 5 years,Kotlin,Xamarin,Other (please specify),GitLab CI/CD,No,No,No,Network Engineer,No,Yes
+Less than 1 year,JavaScript,Next.js,SQLite,Ansible,Yes,Yes,No,Other (please specify),Yes,Yes
+3-5 years,C#,Keras,Other (please specify),Ansible,Yes,No,No,Machine Learning Engineer,Yes,No
+3-5 years,Python,React,Other (please specify),GitLab CI/CD,Yes,No,No,DevOps Engineer,No,Yes
+Less than 1 year,Rust,Snort,CassandraDB,Nginx,No,No,Yes,Cybersecurity Analyst,No,No
+Less than 1 year,C++,React Native,OracleDB,DigitalOcean,No,No,No,Cybersecurity Analyst,Yes,No
+None,Swift,Electron,SQLite,Terraform,No,No,No,Software Engineer,Yes,Yes
+1-3 years,Python,Ruby on Rails,OracleDB,CircleCI,Yes,Yes,No,Mobile Developer,No,No
+3-5 years,Rust,Electron,Redis,Git,No,No,Yes,Machine Learning Engineer,Yes,Yes
+Less than 1 year,Python,React,OracleDB,CircleCI,Yes,No,Yes,Game Developer,Yes,Yes
+None,Swift,Pandas,SQLite,Kubernetes,Yes,Yes,No,Machine Learning Engineer,No,No
+3-5 years,C,Unity,MySQL,Apache,No,Yes,Yes,Front-End Developer,No,Yes
+Less than 1 year,Kotlin,WPF,Other (please specify),Docker,No,No,No,Machine Learning Engineer,Yes,Yes
+Less than 1 year,None,.NET Core,MongoDB,AWS,No,Yes,Yes,Front-End Developer,No,No
+3-5 years,PHP,Angular,SQLite,Ansible,No,Yes,Yes,Game Developer,Yes,No
+None,C#,Snort,MySQL,CircleCI,Yes,No,No,Cybersecurity Analyst,Yes,Yes
+None,Go,Burp Suite,Redis,Other (please specify),Yes,No,Yes,Mobile Developer,No,No
+1-3 years,C#,Next.js,OracleDB,CircleCI,Yes,Yes,Yes,DevOps Engineer,No,No
+More than 5 years,C,Next.js,CassandraDB,Apache,Yes,Yes,Yes,Cloud Engineer,Yes,No
+1-3 years,Dart,Xamarin,OracleDB,Nginx,Yes,No,No,Data Engineer,Yes,Yes
+None,C++,Apache Spark,Other (please specify),Terraform,Yes,No,No,Software Engineer,Yes,Yes
+More than 5 years,Python,Next.js,CassandraDB,Nginx,Yes,Yes,No,Data Engineer,Yes,Yes
+1-3 years,C++,Kotlin Multiplatform Mobile (KMM),Microsoft SQL Server,Kubernetes,Yes,Yes,No,AI Researcher,No,Yes
+Less than 1 year,Other (please specify),CryEngine,Redis,Git,No,No,Yes,AI Researcher,No,Yes
+3-5 years,Rust,SwiftUI,MongoDB,AWS,No,Yes,No,Database Administrator,Yes,Yes
+1-3 years,Java,React Native,MySQL,Kubernetes,No,No,No,Back-End Developer,No,Yes
+More than 5 years,Other (please specify),Numpy,CassandraDB,Kubernetes,Yes,No,Yes,Cybersecurity Analyst,No,No
+3-5 years,Dart,Kali Linux,PostgreSQL,GitLab CI/CD,Yes,No,No,Machine Learning Engineer,No,No
+None,Rust,CryEngine,Other (please specify),Kubernetes,No,No,No,AI Researcher,Yes,Yes
+3-5 years,Java,Snort,SQLite,Kubernetes,No,Yes,No,Data Engineer,Yes,Yes
+More than 5 years,C,React,Other (please specify),Docker,Yes,Yes,Yes,Machine Learning Engineer,Yes,Yes
+Less than 1 year,C,Express.js,OracleDB,Git,No,Yes,No,Software Engineer,Yes,No
+1-3 years,Kotlin,Unreal Engine,Microsoft SQL Server,AWS,Yes,Yes,Yes,Software Engineer,No,Yes
+3-5 years,TypeScript,Vue.js,Other (please specify),Nginx,Yes,No,No,Front-End Developer,No,Yes
+More than 5 years,TypeScript,Unity,CassandraDB,Apache,Yes,Yes,No,Machine Learning Engineer,Yes,Yes
+More than 5 years,Swift,Snort,Redis,Kubernetes,Yes,Yes,No,Network Engineer,No,Yes
+3-5 years,Python,Numpy,PostgreSQL,Kubernetes,Yes,Yes,No,Full-Stack Developer,No,Yes
+More than 5 years,C,Nestjs,CassandraDB,Google Cloud Platform,No,Yes,No,Robotics Engineer,No,No
+Less than 1 year,C,Apache Spark,Other (please specify),Other (please specify),Yes,No,Yes,Product Manager,No,Yes
+More than 5 years,Python,Next.js,PostgreSQL,Jenkins,No,Yes,No,Cloud Engineer,Yes,No
+None,C,Apache Spark,Microsoft SQL Server,Google Cloud Platform,Yes,No,Yes,Game Developer,Yes,Yes
+Less than 1 year,Ruby,Express.js,CassandraDB,Git,Yes,Yes,Yes,DevOps Engineer,Yes,Yes
+3-5 years,Other (please specify),Svelte,PostgreSQL,Kubernetes,Yes,No,Yes,Game Developer,No,No
+None,C++,Kotlin Multiplatform Mobile (KMM),SQLite,AWS,No,No,Yes,IT Support Specialist,Yes,No
+3-5 years,Swift,Keras,MySQL,Nginx,No,No,Yes,Robotics Engineer,Yes,Yes
+Less than 1 year,JavaScript,Flutter,CassandraDB,Ansible,No,Yes,Yes,Back-End Developer,Yes,No
+None,C++,Numpy,CassandraDB,Azure,No,Yes,Yes,Product Manager,No,No
+Less than 1 year,Java,Keras,CassandraDB,Azure,No,No,No,Mobile Developer,Yes,Yes
+More than 5 years,C++,WPF,Other (please specify),Terraform,Yes,No,No,Project Manager,No,Yes
+More than 5 years,Rust,Svelte,PostgreSQL,CircleCI,No,No,No,Robotics Engineer,No,No
+1-3 years,TypeScript,Kotlin Multiplatform Mobile (KMM),OracleDB,Google Cloud Platform,Yes,No,Yes,IT Support Specialist,No,Yes
+3-5 years,TypeScript,Electron,MongoDB,Docker,Yes,Yes,No,Cloud Engineer,Yes,No
+1-3 years,C,Xamarin,Microsoft SQL Server,AWS,No,Yes,Yes,DevOps Engineer,Yes,No
+3-5 years,C++,Express.js,PostgreSQL,Docker,No,No,No,Network Engineer,No,Yes
+None,Swift,OpenVAS,MongoDB,Azure,No,Yes,Yes,DevOps Engineer,No,No
+1-3 years,TypeScript,Kotlin Multiplatform Mobile (KMM),PostgreSQL,Terraform,Yes,No,No,IT Support Specialist,No,No
+None,Ruby,Numpy,MySQL,AWS,Yes,Yes,No,DevOps Engineer,Yes,Yes
+3-5 years,C#,React Native,Other (please specify),Kubernetes,Yes,No,No,Front-End Developer,No,No
+3-5 years,Kotlin,React Native,Microsoft SQL Server,Ansible,Yes,Yes,Yes,Data Scientist,Yes,Yes
+More than 5 years,Other (please specify),Nestjs,OracleDB,Apache,Yes,Yes,Yes,Front-End Developer,No,No
+More than 5 years,Java,Unreal Engine,Other (please specify),Ansible,Yes,No,No,Project Manager,No,Yes
+1-3 years,Swift,Django,Microsoft SQL Server,DigitalOcean,Yes,Yes,Yes,Product Manager,Yes,Yes
+Less than 1 year,Dart,Xamarin,SQLite,Ansible,No,Yes,Yes,Network Engineer,Yes,No
+1-3 years,Java,React,SQLite,Apache,Yes,No,No,Cloud Engineer,Yes,Yes
+Less than 1 year,Python,Metasploit,Redis,Other (please specify),Yes,No,Yes,Data Scientist,No,Yes
+More than 5 years,C,WPF,PostgreSQL,Docker,Yes,Yes,Yes,Game Developer,Yes,Yes
+Less than 1 year,TypeScript,Vue.js,Microsoft SQL Server,Travis CI,Yes,Yes,Yes,Network Engineer,No,No
+None,Swift,Kotlin Multiplatform Mobile (KMM),PostgreSQL,Apache,No,No,Yes,Machine Learning Engineer,No,No
+More than 5 years,Other (please specify),Electron,Other (please specify),Docker,Yes,Yes,No,Product Manager,Yes,Yes
+Less than 1 year,Kotlin,.NET Core,Microsoft SQL Server,GitLab CI/CD,No,No,No,AI Researcher,Yes,Yes
+3-5 years,Kotlin,Svelte,OracleDB,Nginx,No,Yes,No,Cybersecurity Analyst,No,Yes
+None,Ruby,Next.js,Other (please specify),DigitalOcean,No,Yes,Yes,IT Support Specialist,No,No
+More than 5 years,None,SwiftUI,PostgreSQL,Docker,Yes,No,No,Back-End Developer,No,Yes
+3-5 years,Go,Electron,Redis,AWS,No,No,Yes,Machine Learning Engineer,No,No
+More than 5 years,Java,Apache Spark,OracleDB,Kubernetes,Yes,No,No,Project Manager,Yes,Yes
+None,C#,Nestjs,PostgreSQL,Azure,No,Yes,No,AI Researcher,No,Yes
+3-5 years,C#,Svelte,CassandraDB,Azure,Yes,Yes,No,Front-End Developer,No,Yes
+3-5 years,Go,Snort,Microsoft SQL Server,Other (please specify),Yes,No,No,Project Manager,Yes,No
+None,Java,Flutter,Microsoft SQL Server,Docker,Yes,Yes,Yes,Machine Learning Engineer,Yes,No
+1-3 years,C,Electron,CassandraDB,Terraform,Yes,Yes,Yes,Robotics Engineer,No,Yes
+More than 5 years,PHP,Keras,SQLite,Kubernetes,Yes,Yes,No,Data Engineer,Yes,No
+More than 5 years,TypeScript,.NET Core,SQLite,Azure,No,Yes,Yes,Data Scientist,No,No
+1-3 years,C++,Flask,MySQL,CircleCI,Yes,No,Yes,Full-Stack Developer,Yes,No
+1-3 years,Kotlin,Unreal Engine,MySQL,Other (please specify),No,Yes,Yes,Full-Stack Developer,Yes,Yes
+3-5 years,Other (please specify),Kotlin Multiplatform Mobile (KMM),Other (please specify),Azure,No,No,Yes,Data Engineer,Yes,Yes
+1-3 years,Rust,Kali Linux,OracleDB,Git,No,No,Yes,Front-End Developer,Yes,Yes
+3-5 years,C++,Ruby on Rails,Microsoft SQL Server,Kubernetes,Yes,Yes,No,Software Engineer,No,Yes
+1-3 years,C++,Flask,OracleDB,Travis CI,Yes,Yes,No,Robotics Engineer,No,No
+None,TypeScript,Flask,Other (please specify),DigitalOcean,Yes,No,No,Data Engineer,Yes,Yes
+3-5 years,Swift,GTK,CassandraDB,Google Cloud Platform,No,Yes,Yes,Cloud Engineer,Yes,Yes
+None,None,.NET Core,PostgreSQL,Jenkins,Yes,No,No,Mobile Developer,Yes,Yes
+More than 5 years,Kotlin,PyTorch,MySQL,Azure,Yes,No,No,Other (please specify),No,No
+None,Rust,React,SQLite,Google Cloud Platform,No,No,No,DevOps Engineer,No,No
+3-5 years,Dart,Kotlin Multiplatform Mobile (KMM),Other (please specify),Other (please specify),No,No,No,Database Administrator,Yes,Yes
+More than 5 years,Swift,Angular,MongoDB,Docker,Yes,Yes,No,Back-End Developer,Yes,No
+1-3 years,Java,Django,Microsoft SQL Server,GitLab CI/CD,No,No,No,Back-End Developer,Yes,No
+None,TypeScript,Flutter,Microsoft SQL Server,Nginx,No,No,Yes,Mobile Developer,No,No
+1-3 years,Swift,GTK,SQLite,Ansible,No,Yes,No,Cybersecurity Analyst,Yes,Yes
+3-5 years,C++,Snort,SQLite,Jenkins,No,No,No,IT Support Specialist,Yes,No
+Less than 1 year,Kotlin,Apache Spark,MySQL,Nginx,No,Yes,No,Network Engineer,No,Yes
+1-3 years,C,Vue.js,PostgreSQL,Nginx,Yes,No,Yes,Database Administrator,No,No
+More than 5 years,Go,CryEngine,Redis,Ansible,Yes,Yes,Yes,Front-End Developer,No,No
+None,Kotlin,Snort,MongoDB,Docker,Yes,Yes,No,Systems Analyst,No,Yes
+3-5 years,TypeScript,Scikit-Learn,Other (please specify),Terraform,No,Yes,Yes,AI Researcher,No,No
+1-3 years,Kotlin,Scikit-Learn,Other (please specify),Terraform,Yes,No,Yes,Cybersecurity Analyst,Yes,Yes
+Less than 1 year,Kotlin,Next.js,SQLite,Azure,Yes,Yes,Yes,Cloud Engineer,No,Yes
+3-5 years,Swift,Burp Suite,Microsoft SQL Server,Nginx,Yes,Yes,Yes,Other (please specify),Yes,No
+Less than 1 year,Ruby,Next.js,MongoDB,AWS,No,No,Yes,Data Engineer,Yes,No
+None,Rust,GTK,CassandraDB,AWS,No,No,Yes,Systems Analyst,Yes,Yes
+3-5 years,C#,OpenVAS,SQLite,Docker,No,No,No,AI Researcher,Yes,No
+None,JavaScript,Flutter,MongoDB,Kubernetes,Yes,No,No,Software Engineer,Yes,No
+1-3 years,C#,React Native,SQLite,DigitalOcean,No,No,Yes,IT Support Specialist,Yes,No
+3-5 years,Rust,Burp Suite,Other (please specify),Apache,Yes,Yes,No,Mobile Developer,Yes,Yes
+3-5 years,Swift,OpenVAS,CassandraDB,Travis CI,No,Yes,No,Database Administrator,Yes,Yes
+1-3 years,Go,Godot,OracleDB,Travis CI,No,Yes,Yes,Front-End Developer,No,Yes
+None,JavaScript,Angular,SQLite,Travis CI,Yes,Yes,Yes,Machine Learning Engineer,No,Yes
+1-3 years,Swift,SwiftUI,PostgreSQL,DigitalOcean,No,No,No,Full-Stack Developer,Yes,No
+3-5 years,JavaScript,Dask,OracleDB,CircleCI,Yes,Yes,No,Back-End Developer,No,No
+3-5 years,C,Django,Redis,CircleCI,No,Yes,No,Machine Learning Engineer,No,Yes
+Less than 1 year,Swift,Dask,PostgreSQL,Jenkins,No,No,Yes,Product Manager,Yes,Yes
+More than 5 years,TypeScript,Numpy,Microsoft SQL Server,Azure,No,No,Yes,Software Engineer,Yes,Yes
+1-3 years,Dart,CryEngine,Other (please specify),Other (please specify),No,Yes,Yes,Product Manager,Yes,Yes
+More than 5 years,PHP,Electron,MongoDB,Terraform,Yes,Yes,Yes,Cybersecurity Analyst,Yes,Yes
+Less than 1 year,Other (please specify),Express.js,MongoDB,AWS,Yes,Yes,No,Network Engineer,No,No
+More than 5 years,Dart,Django,SQLite,Travis CI,Yes,Yes,No,Data Engineer,No,No
+None,C#,Unreal Engine,MySQL,Docker,No,Yes,Yes,Data Engineer,No,Yes
+More than 5 years,C#,Next.js,Microsoft SQL Server,DigitalOcean,Yes,Yes,Yes,Data Scientist,Yes,No
+3-5 years,Kotlin,Burp Suite,MySQL,Other (please specify),No,Yes,Yes,Other (please specify),No,No
+3-5 years,JavaScript,Nestjs,OracleDB,Apache,Yes,Yes,Yes,Data Scientist,No,Yes
+None,PHP,React Native,OracleDB,Docker,No,No,No,Game Developer,No,Yes
+Less than 1 year,Ruby,React Native,CassandraDB,Ansible,Yes,No,No,Game Developer,Yes,Yes
+More than 5 years,Swift,React,MongoDB,Other (please specify),Yes,Yes,Yes,Network Engineer,Yes,No
+Less than 1 year,Go,JavaFX,MySQL,GitLab CI/CD,Yes,Yes,No,Product Manager,No,No
+None,TypeScript,WPF,OracleDB,Other (please specify),Yes,Yes,Yes,Project Manager,No,Yes
+Less than 1 year,Python,Django,SQLite,Terraform,No,Yes,No,Robotics Engineer,Yes,Yes
+None,TypeScript,Kali Linux,CassandraDB,Jenkins,Yes,No,No,Game Developer,No,Yes
+3-5 years,TypeScript,Numpy,Other (please specify),Terraform,Yes,No,No,IT Support Specialist,No,No
+More than 5 years,Swift,TensorFlow,MySQL,Other (please specify),Yes,No,No,Game Developer,No,No
+3-5 years,C#,GTK,MySQL,Apache,No,No,Yes,AI Researcher,No,Yes
+None,Swift,React Native,Other (please specify),Azure,Yes,No,No,Network Engineer,No,No
+None,None,.NET Core,MySQL,Nginx,Yes,No,Yes,Full-Stack Developer,Yes,Yes
+3-5 years,Go,Qt,SQLite,DigitalOcean,Yes,Yes,No,Robotics Engineer,Yes,Yes
+1-3 years,Kotlin,Qt,PostgreSQL,Other (please specify),No,No,Yes,Full-Stack Developer,Yes,No
+More than 5 years,Dart,.NET Core,Redis,Apache,Yes,No,Yes,Data Engineer,Yes,No
+Less than 1 year,JavaScript,Kali Linux,OracleDB,GitLab CI/CD,No,Yes,Yes,Cloud Engineer,Yes,Yes
+None,Dart,Dask,OracleDB,GitLab CI/CD,No,No,Yes,Project Manager,No,No
+3-5 years,Swift,Keras,PostgreSQL,DigitalOcean,No,No,Yes,Project Manager,No,Yes
+3-5 years,None,Burp Suite,Microsoft SQL Server,Docker,Yes,No,Yes,Mobile Developer,Yes,Yes
+More than 5 years,JavaScript,Snort,MongoDB,CircleCI,No,No,Yes,DevOps Engineer,Yes,No
+More than 5 years,Dart,Scikit-Learn,Other (please specify),Kubernetes,Yes,No,No,Product Manager,Yes,No
+3-5 years,PHP,Svelte,Redis,AWS,No,No,No,Front-End Developer,Yes,Yes
+Less than 1 year,PHP,Godot,MySQL,GitLab CI/CD,Yes,No,Yes,Product Manager,No,No
+1-3 years,None,React,Redis,DigitalOcean,No,No,Yes,Machine Learning Engineer,No,No
+3-5 years,PHP,Svelte,MongoDB,Kubernetes,Yes,No,Yes,Network Engineer,No,No
+Less than 1 year,Rust,Xamarin,MySQL,Azure,No,No,No,Data Scientist,No,Yes
+More than 5 years,PHP,Snort,OracleDB,CircleCI,No,No,Yes,Cybersecurity Analyst,Yes,Yes
+More than 5 years,Ruby,JavaFX,MySQL,Jenkins,No,No,Yes,Systems Analyst,Yes,Yes
+Less than 1 year,Other (please specify),Xamarin,CassandraDB,Terraform,No,Yes,No,Software Engineer,Yes,Yes
+1-3 years,C#,Unreal Engine,MongoDB,DigitalOcean,No,Yes,No,Cybersecurity Analyst,Yes,Yes
+More than 5 years,Ruby,Keras,SQLite,AWS,Yes,No,Yes,Game Developer,Yes,No
+More than 5 years,Kotlin,Xamarin,MySQL,CircleCI,No,Yes,Yes,DevOps Engineer,Yes,No
+Less than 1 year,PHP,Svelte,MongoDB,DigitalOcean,No,No,No,Back-End Developer,Yes,Yes
+1-3 years,Ruby,Ruby on Rails,SQLite,AWS,No,Yes,Yes,Mobile Developer,No,No
+None,C#,Flutter,CassandraDB,Docker,Yes,No,Yes,AI Researcher,Yes,Yes
+1-3 years,None,Flutter,SQLite,Other (please specify),No,No,No,Product Manager,Yes,No
+3-5 years,Java,Qt,PostgreSQL,GitLab CI/CD,No,Yes,No,Full-Stack Developer,Yes,No
+None,None,TensorFlow,CassandraDB,Travis CI,No,No,No,AI Researcher,No,No
+1-3 years,Java,Metasploit,CassandraDB,Azure,No,Yes,No,Systems Analyst,Yes,Yes
+3-5 years,C,Django,OracleDB,Travis CI,No,No,Yes,Data Engineer,Yes,No
+More than 5 years,Other (please specify),Angular,MongoDB,Google Cloud Platform,Yes,No,Yes,Database Administrator,Yes,Yes
+Less than 1 year,C#,Flask,PostgreSQL,Nginx,Yes,No,No,Project Manager,No,No
+1-3 years,Kotlin,Kali Linux,MongoDB,Azure,No,Yes,Yes,Full-Stack Developer,Yes,Yes
+1-3 years,TypeScript,Express.js,CassandraDB,Apache,Yes,No,Yes,Full-Stack Developer,Yes,Yes
+Less than 1 year,Python,Electron,MongoDB,Travis CI,Yes,Yes,No,Systems Analyst,No,Yes
+1-3 years,Rust,Keras,MongoDB,Jenkins,No,Yes,No,Cybersecurity Analyst,Yes,No
+3-5 years,JavaScript,Angular,PostgreSQL,Docker,No,No,Yes,Data Engineer,No,No
+None,Rust,Django,OracleDB,Git,Yes,No,Yes,Product Manager,No,No
+More than 5 years,Go,Flutter,Redis,Other (please specify),Yes,Yes,No,AI Researcher,No,Yes
+Less than 1 year,JavaScript,JavaFX,Redis,Apache,Yes,Yes,Yes,Game Developer,No,Yes
+More than 5 years,Dart,Xamarin,CassandraDB,Terraform,Yes,No,No,Mobile Developer,Yes,No
+1-3 years,Dart,Nestjs,MongoDB,AWS,No,No,No,Data Scientist,Yes,Yes
+More than 5 years,Go,Metasploit,Microsoft SQL Server,CircleCI,Yes,Yes,No,Network Engineer,No,No
+1-3 years,Kotlin,Express.js,PostgreSQL,Jenkins,No,Yes,No,Game Developer,Yes,Yes
+None,Kotlin,Numpy,PostgreSQL,AWS,Yes,No,No,Game Developer,Yes,No
+3-5 years,Dart,Ruby on Rails,CassandraDB,CircleCI,Yes,No,Yes,Product Manager,No,No
+3-5 years,C++,Keras,Other (please specify),CircleCI,Yes,Yes,No,Mobile Developer,No,No
+3-5 years,Dart,Angular,MongoDB,Apache,Yes,Yes,Yes,Project Manager,No,No
+Less than 1 year,PHP,Vue.js,SQLite,CircleCI,Yes,Yes,Yes,Systems Analyst,Yes,Yes
+3-5 years,Swift,Ruby on Rails,Microsoft SQL Server,CircleCI,Yes,No,No,Data Scientist,No,No
+None,PHP,Svelte,MongoDB,Other (please specify),No,Yes,Yes,AI Researcher,Yes,Yes
+3-5 years,Dart,Unreal Engine,CassandraDB,AWS,Yes,No,No,Cloud Engineer,No,No
+None,Rust,Pandas,MySQL,DigitalOcean,No,Yes,Yes,Data Engineer,No,Yes
+None,Rust,Django,MySQL,Google Cloud Platform,Yes,Yes,No,Data Scientist,Yes,No
+3-5 years,Kotlin,Pandas,MySQL,GitLab CI/CD,No,Yes,Yes,AI Researcher,Yes,Yes
+3-5 years,Other (please specify),Next.js,SQLite,DigitalOcean,No,No,No,Full-Stack Developer,No,No
+3-5 years,Rust,Snort,MySQL,Docker,No,No,Yes,Network Engineer,Yes,No
+3-5 years,Dart,Express.js,CassandraDB,Ansible,No,Yes,Yes,Other (please specify),Yes,No
+1-3 years,Rust,CryEngine,OracleDB,Google Cloud Platform,No,No,Yes,DevOps Engineer,No,No
+None,C#,React Native,Microsoft SQL Server,Jenkins,No,No,No,Other (please specify),No,Yes
+Less than 1 year,None,Vue.js,Redis,Jenkins,Yes,Yes,Yes,Systems Analyst,Yes,No
+1-3 years,Swift,GTK,OracleDB,CircleCI,No,No,Yes,DevOps Engineer,Yes,No
+1-3 years,Go,Express.js,Redis,Other (please specify),No,Yes,No,Robotics Engineer,No,No
+More than 5 years,Python,React,OracleDB,Apache,Yes,Yes,No,Data Scientist,Yes,No
+Less than 1 year,PHP,Kali Linux,MySQL,Travis CI,No,No,Yes,Data Engineer,Yes,No
+Less than 1 year,PHP,Qt,PostgreSQL,Terraform,Yes,Yes,No,DevOps Engineer,No,No
+None,Rust,Svelte,Redis,GitLab CI/CD,No,No,No,Cybersecurity Analyst,Yes,No
+More than 5 years,None,GTK,SQLite,AWS,Yes,Yes,Yes,Other (please specify),No,Yes
+1-3 years,Dart,OpenVAS,SQLite,CircleCI,No,Yes,No,Full-Stack Developer,No,No
+More than 5 years,C++,React Native,Microsoft SQL Server,Azure,No,Yes,Yes,AI Researcher,Yes,No
+None,Rust,Unity,PostgreSQL,GitLab CI/CD,Yes,Yes,No,Data Scientist,No,Yes
+1-3 years,PHP,Unreal Engine,PostgreSQL,Azure,Yes,No,No,Data Engineer,No,Yes
+3-5 years,Java,CryEngine,SQLite,Nginx,Yes,No,No,Data Scientist,No,Yes
+More than 5 years,Dart,PyTorch,Other (please specify),Ansible,Yes,Yes,No,Mobile Developer,No,Yes
+More than 5 years,C,Kali Linux,OracleDB,Git,No,Yes,Yes,Game Developer,No,No
+3-5 years,None,GTK,SQLite,Apache,Yes,No,Yes,Cybersecurity Analyst,No,No
+3-5 years,Python,Apache Spark,MySQL,Ansible,No,No,Yes,Back-End Developer,No,No
+None,C,Svelte,PostgreSQL,Azure,No,No,No,Game Developer,Yes,No
+Less than 1 year,C,Unity,CassandraDB,Azure,No,No,No,Database Administrator,No,Yes
+Less than 1 year,C,JavaFX,CassandraDB,Travis CI,No,Yes,Yes,IT Support Specialist,Yes,No
+More than 5 years,PHP,Dask,OracleDB,Git,No,Yes,No,IT Support Specialist,No,Yes
+Less than 1 year,PHP,Snort,Other (please specify),GitLab CI/CD,No,No,Yes,Cybersecurity Analyst,Yes,No
+Less than 1 year,C++,PyTorch,SQLite,Kubernetes,No,No,Yes,Robotics Engineer,No,Yes
+1-3 years,Go,Kali Linux,Redis,AWS,Yes,No,Yes,Back-End Developer,No,No
+1-3 years,None,PyTorch,PostgreSQL,Nginx,No,Yes,No,Game Developer,No,Yes
+Less than 1 year,C++,Nestjs,CassandraDB,Google Cloud Platform,No,Yes,Yes,Data Engineer,No,No
+Less than 1 year,C,WPF,Microsoft SQL Server,Google Cloud Platform,No,Yes,No,Network Engineer,Yes,Yes
+More than 5 years,Dart,Unreal Engine,MySQL,Terraform,No,Yes,No,Software Engineer,No,No
+1-3 years,Other (please specify),Flask,MongoDB,Apache,Yes,Yes,Yes,Product Manager,Yes,No
+None,JavaScript,CryEngine,CassandraDB,GitLab CI/CD,No,No,Yes,Software Engineer,No,No
+More than 5 years,Other (please specify),Django,CassandraDB,Other (please specify),No,Yes,No,Project Manager,No,No
+None,Kotlin,OpenVAS,PostgreSQL,Terraform,Yes,No,No,Back-End Developer,Yes,No
+3-5 years,Python,WPF,MySQL,Terraform,Yes,Yes,Yes,Machine Learning Engineer,No,No
+1-3 years,C,JavaFX,Microsoft SQL Server,Apache,Yes,No,No,Network Engineer,Yes,Yes
+1-3 years,Ruby,Flask,SQLite,GitLab CI/CD,Yes,No,No,Cybersecurity Analyst,No,Yes
+None,None,Scikit-Learn,Microsoft SQL Server,Nginx,No,Yes,No,Other (please specify),No,No
+None,PHP,Numpy,Microsoft SQL Server,GitLab CI/CD,No,Yes,No,Database Administrator,Yes,Yes
+3-5 years,TypeScript,Xamarin,Other (please specify),Azure,No,No,No,Systems Analyst,Yes,Yes
+3-5 years,Other (please specify),Flutter,PostgreSQL,Travis CI,Yes,No,Yes,Data Engineer,Yes,Yes
+1-3 years,Dart,Unity,PostgreSQL,GitLab CI/CD,No,Yes,No,Front-End Developer,No,Yes
+1-3 years,C#,Kali Linux,OracleDB,Nginx,Yes,Yes,Yes,Data Scientist,No,Yes
+Less than 1 year,Kotlin,React Native,Other (please specify),CircleCI,No,No,Yes,Network Engineer,Yes,Yes
+3-5 years,Kotlin,TensorFlow,MongoDB,Terraform,No,No,Yes,Game Developer,Yes,Yes
+3-5 years,Dart,CryEngine,Microsoft SQL Server,AWS,Yes,No,Yes,Game Developer,Yes,No
+Less than 1 year,Python,Django,MongoDB,Terraform,No,No,Yes,Mobile Developer,No,Yes
+Less than 1 year,Kotlin,Vue.js,MongoDB,AWS,Yes,No,No,Systems Analyst,Yes,Yes
+1-3 years,TypeScript,Nestjs,OracleDB,AWS,No,Yes,Yes,AI Researcher,No,Yes
+More than 5 years,PHP,Godot,MySQL,Other (please specify),Yes,Yes,No,Product Manager,No,Yes
+3-5 years,TypeScript,Ruby on Rails,Other (please specify),Apache,No,Yes,No,Data Scientist,No,No
+Less than 1 year,C#,Vue.js,Other (please specify),Docker,Yes,Yes,No,Cybersecurity Analyst,No,No
+1-3 years,C,Ruby on Rails,PostgreSQL,Travis CI,No,Yes,Yes,Cloud Engineer,Yes,No
+3-5 years,C,TensorFlow,Redis,CircleCI,No,No,No,Network Engineer,No,Yes
+Less than 1 year,TypeScript,.NET Core,OracleDB,Azure,No,No,Yes,Data Engineer,Yes,No
+More than 5 years,Java,Wireshark,PostgreSQL,Docker,No,No,No,DevOps Engineer,Yes,Yes
+1-3 years,Rust,React Native,PostgreSQL,Docker,No,No,No,Data Scientist,Yes,No
+Less than 1 year,C#,Scikit-Learn,CassandraDB,Jenkins,Yes,Yes,Yes,Project Manager,Yes,No
+1-3 years,JavaScript,Burp Suite,Redis,Other (please specify),No,Yes,No,DevOps Engineer,No,Yes
+3-5 years,Go,JavaFX,Redis,GitLab CI/CD,No,Yes,Yes,Cloud Engineer,No,Yes
+Less than 1 year,Dart,Scikit-Learn,PostgreSQL,Nginx,No,Yes,No,Mobile Developer,Yes,Yes
+1-3 years,C#,Dask,Other (please specify),Google Cloud Platform,No,No,Yes,Game Developer,Yes,Yes
+Less than 1 year,Kotlin,Electron,MySQL,Ansible,No,No,Yes,Cloud Engineer,Yes,Yes
+1-3 years,Python,Scikit-Learn,Microsoft SQL Server,Git,No,Yes,Yes,Product Manager,No,No
+1-3 years,Python,Django,Other (please specify),DigitalOcean,Yes,Yes,Yes,Game Developer,Yes,Yes
+More than 5 years,None,Unity,Redis,GitLab CI/CD,No,Yes,No,AI Researcher,No,No
+More than 5 years,Other (please specify),Scikit-Learn,MongoDB,Ansible,No,Yes,Yes,Product Manager,Yes,No
+Less than 1 year,Java,Flutter,MongoDB,Google Cloud Platform,Yes,Yes,Yes,Cybersecurity Analyst,Yes,Yes
+1-3 years,C++,Svelte,Other (please specify),CircleCI,Yes,No,Yes,Full-Stack Developer,No,No
+Less than 1 year,Java,React,CassandraDB,Jenkins,No,No,Yes,Mobile Developer,No,No
+More than 5 years,PHP,Pandas,OracleDB,Apache,Yes,No,Yes,Front-End Developer,Yes,No
+More than 5 years,Dart,Ruby on Rails,Redis,Nginx,Yes,Yes,Yes,Network Engineer,Yes,Yes
+None,Other (please specify),Dask,Other (please specify),Ansible,Yes,No,Yes,Cloud Engineer,Yes,Yes
+More than 5 years,Go,React Native,CassandraDB,Docker,No,No,Yes,DevOps Engineer,Yes,Yes
+3-5 years,Go,Ruby on Rails,Other (please specify),Google Cloud Platform,No,Yes,No,DevOps Engineer,Yes,No
+Less than 1 year,Other (please specify),Pandas,CassandraDB,Google Cloud Platform,Yes,Yes,No,Full-Stack Developer,Yes,No
+Less than 1 year,PHP,Unreal Engine,MongoDB,Other (please specify),Yes,Yes,No,Database Administrator,No,Yes
+More than 5 years,Kotlin,Snort,MongoDB,Azure,No,Yes,No,Robotics Engineer,No,No
+Less than 1 year,Other (please specify),Burp Suite,SQLite,Azure,No,Yes,No,Network Engineer,No,Yes
+None,TypeScript,Numpy,MongoDB,Travis CI,Yes,Yes,No,Front-End Developer,Yes,Yes
+None,C++,TensorFlow,OracleDB,Kubernetes,Yes,No,No,Machine Learning Engineer,Yes,Yes
+Less than 1 year,Python,Xamarin,CassandraDB,Other (please specify),Yes,Yes,No,Cloud Engineer,No,Yes
+None,Python,Xamarin,Microsoft SQL Server,Google Cloud Platform,Yes,Yes,Yes,Project Manager,No,Yes
+None,TypeScript,Apache Spark,CassandraDB,Jenkins,No,No,No,Machine Learning Engineer,No,No
+1-3 years,Dart,PyTorch,SQLite,DigitalOcean,Yes,No,Yes,DevOps Engineer,No,Yes
+Less than 1 year,JavaScript,Electron,Microsoft SQL Server,DigitalOcean,Yes,Yes,No,Project Manager,Yes,Yes
+None,JavaScript,Snort,CassandraDB,Terraform,Yes,No,Yes,Front-End Developer,Yes,No
+More than 5 years,Java,Next.js,PostgreSQL,AWS,Yes,No,Yes,IT Support Specialist,Yes,No
+Less than 1 year,Go,Wireshark,OracleDB,Other (please specify),Yes,Yes,No,DevOps Engineer,No,No
+3-5 years,Ruby,Snort,MongoDB,Azure,No,No,Yes,Project Manager,Yes,No
+Less than 1 year,Python,Snort,PostgreSQL,Apache,Yes,Yes,Yes,Cloud Engineer,Yes,Yes
+None,TypeScript,Vue.js,MySQL,Nginx,No,No,No,AI Researcher,Yes,No
+3-5 years,PHP,SwiftUI,MongoDB,Jenkins,No,No,No,Systems Analyst,Yes,No
+Less than 1 year,Go,Xamarin,Other (please specify),AWS,No,No,No,Game Developer,Yes,Yes
+Less than 1 year,C,.NET Core,OracleDB,Google Cloud Platform,Yes,Yes,Yes,Other (please specify),No,No
+3-5 years,C,.NET Core,MongoDB,Azure,No,No,Yes,Mobile Developer,Yes,No
+1-3 years,Go,Unity,PostgreSQL,AWS,No,No,No,Front-End Developer,No,No
+Less than 1 year,Other (please specify),Ruby on Rails,PostgreSQL,Travis CI,Yes,No,Yes,Data Engineer,Yes,Yes
+1-3 years,Kotlin,Express.js,MySQL,Azure,No,No,No,Systems Analyst,Yes,Yes
+None,Rust,React,Microsoft SQL Server,Jenkins,Yes,Yes,Yes,Other (please specify),No,No
+Less than 1 year,Go,React,Other (please specify),AWS,No,Yes,No,Other (please specify),No,Yes
+1-3 years,Dart,Angular,MongoDB,Apache,Yes,No,No,Machine Learning Engineer,Yes,Yes
+1-3 years,Go,Kotlin Multiplatform Mobile (KMM),Redis,Azure,No,Yes,No,Systems Analyst,No,Yes
+1-3 years,Dart,Numpy,MySQL,Apache,Yes,No,Yes,AI Researcher,Yes,No
+More than 5 years,C++,Ruby on Rails,CassandraDB,DigitalOcean,No,No,No,Data Engineer,Yes,No
+Less than 1 year,Rust,CryEngine,SQLite,DigitalOcean,No,No,Yes,Mobile Developer,Yes,No
+None,Swift,React Native,PostgreSQL,Apache,No,Yes,No,Back-End Developer,Yes,Yes
+More than 5 years,Dart,CryEngine,SQLite,Kubernetes,Yes,Yes,Yes,Data Engineer,Yes,No
+None,Java,GTK,Redis,Nginx,Yes,No,Yes,Network Engineer,No,No
+More than 5 years,JavaScript,React Native,OracleDB,Apache,Yes,Yes,Yes,DevOps Engineer,Yes,No
+3-5 years,Kotlin,Keras,SQLite,Nginx,No,Yes,Yes,Systems Analyst,Yes,Yes
+Less than 1 year,JavaScript,Flutter,CassandraDB,Azure,No,No,No,Front-End Developer,No,No
+Less than 1 year,Dart,OpenVAS,MongoDB,Apache,No,Yes,No,Cybersecurity Analyst,Yes,No
+More than 5 years,C++,Ruby on Rails,MongoDB,Kubernetes,No,No,Yes,Product Manager,No,Yes
+Less than 1 year,C++,Dask,MongoDB,Other (please specify),No,Yes,No,IT Support Specialist,Yes,No
+1-3 years,PHP,PyTorch,Microsoft SQL Server,DigitalOcean,Yes,Yes,No,Database Administrator,Yes,Yes
+More than 5 years,None,Flutter,Microsoft SQL Server,GitLab CI/CD,No,Yes,No,Systems Analyst,No,No
+Less than 1 year,C,Godot,Microsoft SQL Server,Azure,Yes,Yes,Yes,Other (please specify),No,No
+More than 5 years,C++,Apache Spark,Redis,Travis CI,No,Yes,Yes,Network Engineer,No,Yes
+More than 5 years,TypeScript,JavaFX,MySQL,Kubernetes,Yes,No,Yes,Systems Analyst,No,Yes
+More than 5 years,C#,Burp Suite,Microsoft SQL Server,Travis CI,Yes,No,Yes,Project Manager,No,No
+None,C++,Flask,MongoDB,Ansible,No,No,No,Product Manager,No,No
+3-5 years,Other (please specify),WPF,MongoDB,Terraform,No,No,No,Full-Stack Developer,No,No
+1-3 years,TypeScript,Snort,SQLite,AWS,No,Yes,Yes,Network Engineer,No,Yes
+None,Go,Flask,MongoDB,Travis CI,Yes,No,No,Product Manager,Yes,Yes
+More than 5 years,Kotlin,Metasploit,Redis,GitLab CI/CD,No,No,Yes,Cybersecurity Analyst,Yes,Yes
+More than 5 years,Java,JavaFX,SQLite,Azure,No,No,Yes,Data Engineer,Yes,No
+More than 5 years,Dart,Svelte,OracleDB,Other (please specify),No,Yes,No,Front-End Developer,Yes,No
+None,Rust,Electron,Other (please specify),Git,Yes,Yes,No,Game Developer,No,Yes
+1-3 years,Rust,Express.js,MySQL,Jenkins,No,No,Yes,Cybersecurity Analyst,No,Yes
+1-3 years,Other (please specify),Vue.js,Redis,Git,Yes,Yes,Yes,Game Developer,Yes,No
+More than 5 years,C,React Native,Microsoft SQL Server,CircleCI,Yes,No,Yes,Full-Stack Developer,No,No
+Less than 1 year,TypeScript,Nestjs,Redis,CircleCI,Yes,No,No,Systems Analyst,No,Yes
+More than 5 years,Python,Xamarin,Redis,Kubernetes,No,Yes,Yes,Cloud Engineer,No,Yes
+None,PHP,Electron,Redis,Git,Yes,No,Yes,Cloud Engineer,No,Yes
+More than 5 years,Other (please specify),Dask,Redis,Jenkins,No,No,No,Systems Analyst,No,Yes
+3-5 years,C++,Dask,Redis,Other (please specify),Yes,No,Yes,IT Support Specialist,No,Yes
+Less than 1 year,Kotlin,Unreal Engine,PostgreSQL,GitLab CI/CD,Yes,Yes,No,Robotics Engineer,No,No
+None,Ruby,Ruby on Rails,Microsoft SQL Server,CircleCI,Yes,Yes,Yes,Cloud Engineer,Yes,No
+1-3 years,Rust,PyTorch,CassandraDB,GitLab CI/CD,No,No,Yes,Robotics Engineer,Yes,Yes
+None,None,Numpy,MongoDB,Ansible,No,Yes,Yes,Game Developer,No,Yes
+3-5 years,Java,CryEngine,Other (please specify),DigitalOcean,No,No,Yes,Machine Learning Engineer,Yes,Yes
+Less than 1 year,Java,Qt,SQLite,CircleCI,Yes,Yes,Yes,Mobile Developer,Yes,Yes
+Less than 1 year,JavaScript,.NET Core,Microsoft SQL Server,Ansible,No,No,No,Product Manager,Yes,Yes
+3-5 years,PHP,Burp Suite,Other (please specify),Apache,No,No,Yes,AI Researcher,No,Yes
+3-5 years,Java,Snort,OracleDB,Jenkins,No,No,Yes,Product Manager,No,Yes
+More than 5 years,None,Apache Spark,Other (please specify),DigitalOcean,No,No,Yes,Cybersecurity Analyst,No,Yes
+More than 5 years,PHP,TensorFlow,OracleDB,Docker,Yes,Yes,Yes,Data Engineer,No,Yes
+Less than 1 year,Swift,.NET Core,Other (please specify),Git,Yes,Yes,Yes,Mobile Developer,No,Yes
+None,JavaScript,Apache Spark,Redis,Apache,Yes,No,No,Back-End Developer,No,Yes
