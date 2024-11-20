@@ -40,3 +40,6 @@ def predict():
 # Run the Flask app
 if __name__ == '__main__':
     app.run(debug=True,port=5001)
+
+
+#$headers = @{"Content-Type" = "application/json"}; $body = '{"features": [3, 5, 20, 15, 10, 1, 0, 1, 1, 1]}'; Invoke-WebRequest -Uri http://127.0.0.1:5001/predict -Method POST -Headers $headers -Body $body
