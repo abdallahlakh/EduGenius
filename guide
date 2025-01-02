@@ -1,0 +1,16 @@
+
+##  api test format 
+upload the logistic_regression_model.pkl then run the api.py file in /predict run the api in this format
+
+{
+    "Programming_Languages": "Java",
+    "Frameworks": "Django, Unity, Vue.js, 'Numpy'",
+    "Databases": "",
+    "DevOps_Tools": "AWS, Ansible, Apache, Azure",
+    "Happy_in_Current_Role": 0,
+    "Current_Role_Difficulty": 1
+}
+
+
+there is a correlation between this variables   "Programming_Languages""Frameworks""Databases""DevOps_Tools" so when you test don't forget to change the values of "Happy_in_Current_Role": 
+    "Current_Role_Difficulty" to see another result
