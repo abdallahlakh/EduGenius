@@ -14,3 +14,36 @@ upload the logistic_regression_model.pkl then run the api.py file in /predict ru
 
 there is a correlation between this variables   "Programming_Languages""Frameworks""Databases""DevOps_Tools" so when you test don't forget to change the values of "Happy_in_Current_Role": 
     "Current_Role_Difficulty" to see another result
+
+
+
+        programing_languages=['C', 'C#', 'C++', 'Dart', 'Go', 'Java',
+       'JavaScript', 'Kotlin', 'PHP', 'Python', 'Ruby', 'Rust', 'Swift',
+       'TypeScript']
+    
+        frameworks =['.NET Core', 'Angular', 'Apache Spark', 'Burp Suite',
+         'Dask', 'Django', 'Electron', 'Express.js', 'Flask',
+        'Flutter', 'GTK', 'Godot', 'JavaFX', 'Keras',
+        'Kotlin Multiplatform Mobile (KMM)', 'Nestjs', 'Next.js',
+        'Numpy', 'OpenVAS', 'Pandas', 'PyTorch', 'Qt', 'React', 'React Native',
+        'Scikit-Learn', 'Snort', 'Svelte', 'SwiftUI',
+        'TensorFlow', 'Unity', 'Vue.js', 'WPF', 'Wireshark',
+        'Xamarin']
+
+
+        devops=['AWS', 'Ansible', 'Apache', 'Azure', 'CircleCI', 'DigitalOcean',
+       'Docker', 'Git', 'GitLab CI/CD', 'Google Cloud Platform', 'Jenkins',
+       'Kubernetes', 'Nginx', 'Terraform', 'Travis CI']
+
+
+        databases=['CassandraDB', 'Microsoft SQL Server', 'MongoDB', 'MySQL', 'OracleDB',
+       'PostgreSQL', 'Redis', 'SQLite']
+
+
+
+
+
+
+
+
+
